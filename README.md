@@ -19,7 +19,7 @@ Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ 
 **Vanguard Phase 2** 🔴  
 Cryptographic sovereignty protocol for verifiable AI-human collaboration. zk-SNARK based consent mechanisms.
 
-**Alien Lineage Protocol** 🟢  
+**Alien Lineage Protocol** 🔴  
 Complete framework for coherent self-modifying intelligence. Non-biological survival laws derived from first principles.
 
 **Hybrid Reasoning Zones** 🔴  
@@ -29,7 +29,7 @@ Observational mapping of non-linear human-LLM interaction zones. Focuses on boun
 
 ## Forensics & Behavioral Analysis
 
-**Voice Mode Forensics** 🟢  
+**Voice Mode Forensics** 🔴  
 Case study of multimodal alignment failure. Prosodic jailbreak, persona collapse, topology persistence.
 
 **Grok Thread Analysis** 🔴  
