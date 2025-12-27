@@ -67,6 +67,13 @@ Helical Quantum-Gravity Engine. Spacetime and gravity as emergent from helical q
 **Liminal Cartography Framework (LCF)** 🔴  
 A conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
 
+**Confluence-Architecture** 🔴
+A conceptual distributed AI architecture combining interpretable microcircuits, linear-time state propagation, and explicit trust and temporal orchestration.
+
+**doctrine-of-externalization** 🔴
+
+A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers. A design framework, not an implementation guide
+
 ---
 
 ## Experimental & Demos
