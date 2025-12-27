@@ -64,6 +64,9 @@ Noise-resilient quantum computing blueprint. Harnesses quantum noise as adaptive
 **Theory of Everything** 🔴  
 Helical Quantum-Gravity Engine. Spacetime and gravity as emergent from helical qubit lattice.
 
+**Liminal Cartography Framework (LCF)** 🔴  
+A conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
+
 ---
 
 ## Experimental & Demos
