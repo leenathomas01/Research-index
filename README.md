@@ -94,6 +94,9 @@ Post-silicon storage architecture. Projected 1000x density, 40% efficiency gains
 **Self-Sustaining Post-Silicon System** ⚪  
 Integration of ZPRE-10 (power), Plan D 2.0 (compute), ZPRE-11 (memory). *Architecture complete, pending documentation*
 
+**doctrine-of-externalization** 🟡  
+A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers.
+
 ---
 
 _This is a personal research index. Links available on request._
