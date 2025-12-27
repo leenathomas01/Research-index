@@ -98,4 +98,9 @@ A governance doctrine for AI systems based on explicit oversight. Externalizes t
 
 ---
 
+Please email **leenathomas01@gmail.com** for access
+
+---
+
+
 _This is a personal research index. Links available on request._
