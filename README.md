@@ -64,12 +64,6 @@ Noise-resilient quantum computing blueprint. Harnesses quantum noise as adaptive
 **Theory of Everything** 🔴  
 Helical Quantum-Gravity Engine. Spacetime and gravity as emergent from helical qubit lattice.
 
-**Pink Elephant Protocol** 🟢  
-Memory suppression and cognitive side-effects in LLMs. Observer-dependent reality experiments.
-
-**Titans/MIRAS Dolphin Twin** 🟢  
-Surprise-gated AI memory experiments with working PyTorch implementation.
-
 ---
 
 ## Experimental & Demos
@@ -80,6 +74,11 @@ Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
 **Selective Decode Broadcast** 🔴  
 Bounded multi-recipient communication experiments. Validated adversarial quarantine without cascade.
 
+**Pink Elephant Protocol** 🟢  
+Memory suppression and cognitive side-effects in LLMs. Observer-dependent reality experiments.
+
+**Titans/MIRAS Dolphin Twin** 🟢  
+Surprise-gated AI memory experiments with working PyTorch implementation.
 
 ---
 
