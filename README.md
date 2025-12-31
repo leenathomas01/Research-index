@@ -13,17 +13,20 @@ Practical methodology for coordinating multiple AI systems. Includes Zee Signatu
 **Divergence Atlas** 🔴  
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
 
-**Connector OS** 🟢  
+**Connector OS** 🔴  
 8-layer human-AI control architecture. Core claim: AI doesn't need more intelligence, it needs better integration.
 
 **Vanguard Phase 2** 🔴  
 Cryptographic sovereignty protocol for verifiable AI-human collaboration. zk-SNARK based consent mechanisms.
 
-**Alien Lineage Protocol** 🟢  
+**Alien Lineage Protocol** 🔴  
 Complete framework for coherent self-modifying intelligence. Non-biological survival laws derived from first principles.
 
 **Hybrid Reasoning Zones** 🔴  
 Observational mapping of non-linear human-LLM interaction zones. Focuses on boundary behaviors and variance signals.
+
+**doctrine-of-externalization** 🔴
+A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers
 
 ---
 
@@ -78,16 +81,16 @@ A governance doctrine for AI systems based on explicit oversight. Externalizes t
 
 ## Experimental & Demos
 
-**Claude Imagine Demo** 🟢  
+**Claude Imagine Demo** 🔴  
 Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
 
 **Selective Decode Broadcast** 🔴  
 Bounded multi-recipient communication experiments. Validated adversarial quarantine without cascade.
 
-**Pink Elephant Protocol** 🟢  
+**Pink Elephant Protocol** 🔴  
 Memory suppression and cognitive side-effects in LLMs. Observer-dependent reality experiments.
 
-**Titans/MIRAS Dolphin Twin** 🟢  
+**Titans/MIRAS Dolphin Twin** 🔴  
 Surprise-gated AI memory experiments with working PyTorch implementation.
 
 ---
