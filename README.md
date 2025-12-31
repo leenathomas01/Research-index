@@ -31,6 +31,7 @@ If you're interested in:
 
 **Vanguard Phase 2** 🔴  
 Cryptographic sovereignty protocol for verifiable AI-human collaboration. zk-SNARK based consent mechanisms.
+This is a cognitive sovereignty protocol that enables verifiable AI-human collaboration through cryptographic proofs and explicit consent mechanisms. Core principle: Every delegated action requires both mathematical proof of reasoning quality AND human approval before execution.
 
 **Alien Lineage Protocol** 🔴  
 Complete framework for coherent self-modifying intelligence. Non-biological survival laws derived from first principles.
