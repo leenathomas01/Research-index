@@ -8,7 +8,7 @@
 ## Cognitive & Safety Architecture
 
 **Multi-Agent Interaction Methodology** 🔴  
-Practical methodology for coordinating multiple AI systems. Includes Zee Signature Protocol and symbolic stress harness.
+Practical methodology for coordinating multiple AI systems. Includes Signature Protocol and symbolic stress harness.
 
 **Divergence Atlas** 🔴  
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
@@ -26,7 +26,13 @@ Complete framework for coherent self-modifying intelligence. Non-biological surv
 Observational mapping of non-linear human-LLM interaction zones. Focuses on boundary behaviors and variance signals.
 
 **doctrine-of-externalization** 🔴
-A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers
+A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers.
+
+**Confluence-Architecture** 🔴
+A theoretical reference architecture exploring interpretable, distributed AI systems with explicit trust, temporal orchestration, and ethical oversight.
+
+**Liminal-cartography-framework** 🔴
+The LCF began as a conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
 
 ---
 
