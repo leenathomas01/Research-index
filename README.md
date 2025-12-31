@@ -8,7 +8,8 @@
 ## Cognitive & Safety Architecture
 
 **Multi-Agent Interaction Methodology** 🔴  
-Practical methodology for coordinating multiple AI systems. Includes Signature Protocol and symbolic stress harness.
+A practical, experience‑derived methodology for coordinating multiple AI systems in exploratory research, design, and reasoning workflows.
+This repository contains three small, high-leverage documents that define a practical methodology for coordinating multiple AI systems in exploratory, research, or design settings. These files focus on interaction patterns, stability loops, and safe handling of high-complexity prompts.
 
 **Divergence Atlas** 🔴  
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
