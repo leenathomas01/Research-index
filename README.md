@@ -73,16 +73,6 @@ Noise-resilient quantum computing blueprint. Harnesses quantum noise as adaptive
 **Theory of Everything** 🔴  
 Helical Quantum-Gravity Engine. Spacetime and gravity as emergent from helical qubit lattice.
 
-**Liminal-cartography-framework** 🔴  
-A conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
-
-**Confluence-Architecture** 🔴
-A conceptual distributed AI architecture combining interpretable microcircuits, linear-time state propagation, and explicit trust and temporal orchestration.
-
-**doctrine-of-externalization** 🔴
-
-A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers. A design framework, not an implementation guide
-
 ---
 
 ## Experimental & Demos
@@ -106,14 +96,8 @@ Surprise-gated AI memory experiments with working PyTorch implementation.
 **Codex of Threshold** 🟡  
 Multi-LLM failure modes without human-in-the-loop. ⚠️ Requires careful framing to avoid memetic hazards.
 
-**ZPRE-11 Holographic Storage** ⚪  
-Post-silicon storage architecture. Projected 1000x density, 40% efficiency gains. *Planned Feb 2026*
-
-**Self-Sustaining Post-Silicon System** ⚪  
-Integration of ZPRE-10 (power), Plan D 2.0 (compute), ZPRE-11 (memory). *Architecture complete, pending documentation*
-
-**doctrine-of-externalization** 🟡  
-A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers.
+**Holographic Storage** ⚪  
+Post-silicon storage architecture. *Planned Feb 2026*
 
 ---
 
