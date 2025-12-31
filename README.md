@@ -19,6 +19,15 @@ This repository documents the entire process—from idea generation to democrati
 
 **Connector OS** 🔴  
 8-layer human-AI control architecture. Core claim: AI doesn't need more intelligence, it needs better integration.
+If you're interested in:
+- Adaptive control systems
+- Human-AI co-regulation
+- Signal normalization (CMP)
+- Biofeedback loops
+- State-based safety interlocks
+- Experimental cognitive architectures
+- Multimodal systems engineering
+...this repo is for you.
 
 **Vanguard Phase 2** 🔴  
 Cryptographic sovereignty protocol for verifiable AI-human collaboration. zk-SNARK based consent mechanisms.
