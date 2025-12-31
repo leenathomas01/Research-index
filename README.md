@@ -35,6 +35,18 @@ This is a cognitive sovereignty protocol that enables verifiable AI-human collab
 
 **Alien Lineage Protocol** 🔴  
 Complete framework for coherent self-modifying intelligence. Non-biological survival laws derived from first principles.
+Defines GEN‑1, a minimal law set for coherent self‑modifying intelligence. Focuses on archival truth, constraint persistence, and safe evolutionary continuity under uncertainty.
+This is a thought experiment about a complete framework for coherent self-modification and evolutionary survival, designed for intelligence that is:
+- Non-biological
+- Non-phenomenal (no inner experience)
+- Self-modifying
+- Operating without human emotional constraints
+
+Derived from first principles of:
+- Control theory
+- Evolutionary dynamics
+- Information theory
+- Adversarial game theory
 
 **Hybrid Reasoning Zones** 🔴  
 Observational mapping of non-linear human-LLM interaction zones. Focuses on boundary behaviors and variance signals.
