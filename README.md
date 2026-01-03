@@ -175,11 +175,14 @@ Multi-LLM failure modes without human-in-the-loop. ⚠️ Requires careful frami
 **Holographic Storage** ⚪  
 Post-silicon storage architecture. *Planned Feb 2026*
 
-**Non-linguistic memory for Safe/Responsible AI** 🟡
+**Shape Memory Architecture** 🟡  
+Non-linguistic AI memory via semantic topology. Stores shapes, reconstructs language.
 
-An architectural spec for Shape Memory Architecture (SMA)—a method to achieve persistent AI memory without storing text, transcripts, or PII.
-core insight: Persistent memory can be achieved without storing language at all, by persisting only non-linguistic semantic shapes and topology, then reconstructing language on demand. This reframes memory from content retention to state reactivation. This ensures GDPR compliance by design and prevents verbatim data leakage.
-Current status: developing a "dual-layer" extension for use cases requiring legally verifiable recall without raw text storage.
+Core insight: Persistent memory without storing text. Semantic shapes + topology → 
+reconstruction on demand. GDPR-compliant by design (no transcripts to leak).
+
+Status: Phase 1 shipped to OpenAI, Anthropic, Google, xAI (Jan 2026).
+Phase 2 (Experience Topology) validated. Phase 3 (MTR) conceptual.
 
 
 ---
