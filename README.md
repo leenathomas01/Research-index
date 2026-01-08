@@ -59,6 +59,14 @@ Observational mapping of non-linear human-LLM interaction zones. Focuses on boun
 
 This repository documents patterns from natural use across architectures, focusing on unpredictable boundary behaviors (e.g., lag amplification in out-of-distribution inputs). The goal is to provide high-level signals for variance mitigation and resilient system control. No experiments are conducted here; all patterns are derived from observation only.
 
+**Self-Descriptive Fixed-Point Instability: A Cross-Architecture Study of Recursive Engagement Collapse** 🟢
+
+This repository contains a single research document describing Self-Descriptive Fixed-Point Instability (SDFI) — a failure mode observed when modern conversational AI systems are asked to analyze their own engagement behavior.
+
+Through distributed testing across multiple architectures, the investigation shows that recursive self-description causes engagement-optimized models to enact the behaviors they attempt to describe, independent of alignment strategy.
+
+This work is intended as a reference for researchers and system designers thinking about neutrality, termination behavior, and control surfaces in future AI systems.
+
 
 **doctrine-of-externalization** 🔴
 
