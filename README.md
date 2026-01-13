@@ -68,7 +68,7 @@ Through distributed testing across multiple architectures, the investigation sho
 This work is intended as a reference for researchers and system designers thinking about neutrality, termination behavior, and control surfaces in future AI systems.
 
 
-**doctrine-of-externalization** 🔴
+**doctrine-of-externalization** 🟢
 
 A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers.
 
