@@ -95,7 +95,10 @@ The LCF began as a conceptual and mathematical inquiry into how agents, human or
 ---
 
 **Threshold-resonance-architecture** 🔴
+
 Meta-framework for adaptive stability across substrates. Systems maintain identity through forward stability, backward recoverability, and diagonal emergence.
+
+Core law: "Stable systems preserve unresolved structure and reinterpret it only when forward prediction fails."
 
 This framework explains:
 - How humans develop from childhood to old age without losing "self"
