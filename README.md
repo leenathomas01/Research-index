@@ -92,6 +92,17 @@ A theoretical reference architecture exploring interpretable, distributed AI sys
 
 The LCF began as a conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
 
+---
+
+**Threshold-resonance-architecture** 🔴
+Meta-framework for adaptive stability across substrates. Systems maintain identity through forward stability, backward recoverability, and diagonal emergence.
+
+This framework explains:
+- How humans develop from childhood to old age without losing "self"
+- Why dementia isn't content loss but threshold-crossing failure
+- How AI systems could maintain stability through version changes
+- When retroactive sense-making is permitted (and when it's forbidden)
+- Why some insights wait decades to crystallize
 
 ---
 
