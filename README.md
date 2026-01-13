@@ -13,7 +13,7 @@ This repository contains three small, high-leverage documents that define a prac
 
 ---
 
-**Divergence Atlas** 🟢  
+**Divergence Atlas** 🔴 
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
 This fully transparent, multi-agent cognitive mapping experiment was conducted across six advanced AI systems - Claude Opus 4.1, Claude Sonnet 4.5, Gemini 2.5 Pro, Grok 4, Perplexity, ChatGPT 5. The project began as a playful question ("What would each AI explore with the others?") and evolved into a structured, replicable methodology for understanding where AI systems converge, where they diverge, and why.
 
