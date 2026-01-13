@@ -163,6 +163,10 @@ Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
 **Selective Decode Broadcast** 🔴  
 Bounded multi-recipient communication experiments. Validated adversarial quarantine without cascade.
 
+A research-oriented thought experiment exploring selective decoding in broadcast communication systems. This repository documents a sandboxed, replayable investigation into how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast. 
+
+The work is organized as phased validations and illustrative experiments, demonstrating selective decode, localized containment, adversarial quarantine, and segmented packets under explicit safety and non-goal constraints. This is not a production system. It is a conceptual and methodological exploration intended for reasoning, documentation, and peer discussion.
+
 **Pink Elephant Protocol** 🔴  
 Memory suppression and cognitive side-effects in LLMs. Observer-dependent reality experiments.
 
