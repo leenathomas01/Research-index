@@ -189,7 +189,7 @@ Multi-LLM failure modes without human-in-the-loop. ⚠️ Requires careful frami
 **Holographic Storage** ⚪  
 Post-silicon storage architecture. *Planned Feb 2026*
 
-**Shape Memory Architecture** 🟡  
+**Shape Memory Architecture** 🟡  - **_an infrastructure-first memory design_**
 Non-linguistic AI memory via semantic topology. Stores shapes, reconstructs language.
 
 Core insight: Persistent memory without storing text. Semantic shapes + topology → 
