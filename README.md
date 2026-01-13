@@ -172,7 +172,7 @@ Exploring how enabling, disabling, or suppressing memory in LLMs affects reasoni
 - What happens when LLM's lose scaffolding
 
 
-**Titans/MIRAS Dolphin Twin** 🔴  
+**Titans/MIRAS Dolphin Twin** 🟢  
 Surprise-gated AI memory experiments with working PyTorch implementation.
 
 ---
