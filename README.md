@@ -76,6 +76,8 @@ A governance doctrine for AI systems based on explicit oversight. Externalizes t
 **Confluence-Architecture** 🔴
 
 A theoretical reference architecture exploring interpretable, distributed AI systems with explicit trust, temporal orchestration, and ethical oversight.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/dd4a1ad8-297b-46d1-9310-7c5c449b4ac7" />
+
 
 
 **Liminal-cartography-framework** 🔴
