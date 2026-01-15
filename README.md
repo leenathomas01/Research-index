@@ -14,6 +14,7 @@ This repository contains three small, high-leverage documents that define a prac
 ---
 
 **Divergence Atlas** 🔴 
+
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
 This fully transparent, multi-agent cognitive mapping experiment was conducted across six advanced AI systems - Claude Opus 4.1, Claude Sonnet 4.5, Gemini 2.5 Pro, Grok 4, Perplexity, ChatGPT 5. The project began as a playful question ("What would each AI explore with the others?") and evolved into a structured, replicable methodology for understanding where AI systems converge, where they diverge, and why.
 
@@ -89,10 +90,14 @@ The Power Asymmetry Restraint Protocol (PARP) is a governance framework designed
 
 Rather than debating machine consciousness or sentience, PARP focuses exclusively on human conduct. It operates on the core axiom of Opacity–Obligation Inversion: as a system becomes less interpretable, our freedom to act upon it must be proportionally restrained.
 
-Why PARP?
-- Bridging the Wisdom Gap: Addresses the risk of "capability-wisdom" asymmetry in AI, bioengineering, and quantum systems.
-- Epistemic Humility: Shifts the burden of care onto the operator, ensuring that lack of understanding results in caution, not license.
-- Modular Enforcement: Provides a scalable logic for structural, economic, and human-centric safety layers.
+PARP applies to any asymmetric power system where capability exceeds comprehension:
+- Bioengineering: Gene editing, synthetic organisms.
+- Brain-computer interfaces.
+- Quantum computational systems.
+- Autonomous weapons platforms.
+- Planetary-scale optimization systems.
+
+Universal pattern: Wherever Power ≫ Understanding, restraint protocols apply.
 
 Status: v0.1 Frozen Draft (January 2026)
 
