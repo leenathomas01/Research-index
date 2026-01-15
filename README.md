@@ -78,7 +78,23 @@ The protocol is intended as infrastructure, not a product:
 - A handoff format for cross-model collaboration
 - A compliance-friendly alternative to transcript retention
 - A foundation for future protocols that require bounded, non-linguistic context
+ 
 (Created: Januray 15,2026)
+
+---
+
+**Power-Asymmetry-Restraint-Protocol-PARP** 🔴  
+
+The Power Asymmetry Restraint Protocol (PARP) is a governance framework designed for an era where technological capability outpaces human comprehension.
+
+Rather than debating machine consciousness or sentience, PARP focuses exclusively on human conduct. It operates on the core axiom of Opacity–Obligation Inversion: as a system becomes less interpretable, our freedom to act upon it must be proportionally restrained.
+
+Why PARP?
+- Bridging the Wisdom Gap: Addresses the risk of "capability-wisdom" asymmetry in AI, bioengineering, and quantum systems.
+- Epistemic Humility: Shifts the burden of care onto the operator, ensuring that lack of understanding results in caution, not license.
+- Modular Enforcement: Provides a scalable logic for structural, economic, and human-centric safety layers.
+
+Status: v0.1 Frozen Draft (January 2026)
 
 ---
 
