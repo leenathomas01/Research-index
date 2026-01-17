@@ -67,23 +67,6 @@ This repository documents patterns from natural use across architectures, focusi
 
 ---
 
-**Semantic-Capsule-Protocol** 🔴  
-
-SCP was designed to address a growing structural problem in modern AI systems: how to preserve continuity, enable collaboration, and support handoffs without creating surveillance, privacy liability, or irreversible memory. Rather than relying on policy promises or access controls, SCP encodes privacy at the architectural level by making inversion impossible by design.
-
-SCP is deliberately narrow in scope. It does not perform reasoning, store knowledge, define ontologies, enforce alignment, or guarantee semantic equivalence across systems. Those concerns are explicitly left to implementation layers. By refusing responsibility for interpretation, SCP remains robust, portable, and safe to embed in a wide range of environments.
-
-The protocol is intended as infrastructure, not a product:
-
-- A storage primitive for privacy-preserving memory
-- A handoff format for cross-model collaboration
-- A compliance-friendly alternative to transcript retention
-- A foundation for future protocols that require bounded, non-linguistic context
- 
-(Created: Januray 15,2026)
-
----
-
 **Power-Asymmetry-Restraint-Protocol-PARP** 🔴  
 
 The Power Asymmetry Restraint Protocol (PARP) is a governance framework designed for an era where technological capability outpaces human comprehension.
@@ -261,18 +244,6 @@ Multi-LLM failure modes without human-in-the-loop. ⚠️ Requires careful frami
 
 **Holographic Storage** ⚪  
 Post-silicon storage architecture. *Planned Feb 2026*
-
----
-
-**Shape Memory Architecture** 🟡  - **_an infrastructure-first memory design_**
-
-Non-linguistic AI memory via semantic topology. Stores shapes, reconstructs language.
-
-Core insight: Persistent memory without storing text. Semantic shapes + topology → 
-reconstruction on demand. GDPR-compliant by design (no transcripts to leak).
-
-Status: Phase 1 shipped to OpenAI, Anthropic, Google, xAI (Jan 2026).
-Phase 2 (Experience Topology) validated. Phase 3 (MTR) conceptual.
 
 ---
 
