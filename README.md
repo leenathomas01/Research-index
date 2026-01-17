@@ -129,6 +129,18 @@ This framework explains:
 
 ---
 
+**SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems** 🟢
+
+SMA-SIB defines an architectural approach for AI systems operating in _**high-sensitivity domains**_ such as healthcare, defense, law, finance, and governance.
+
+Instead of storing high-fidelity representations and attempting to protect them, the architecture enforces privacy by ensuring that sensitive specifics are never representable in persistent form.
+
+This repository contains a frozen reference specification and a canonical implementation guide. It is not a product, SDK, or framework.
+
+Repo link: https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems
+
+---
+
 ## Forensics & Behavioral Analysis
 
 **Voice Mode Forensics** 🔴  
