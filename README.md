@@ -206,7 +206,7 @@ The Helical Quantum-Gravity (HQG) Engine proposes a computational framework wher
 
 ## Experimental & Demos
 
-**Claude Imagine Demo** 🔴  
+**Claude Imagine Demo** 🟢  
 Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
 
 ---
