@@ -13,7 +13,7 @@ This repository contains three small, high-leverage documents that define a prac
 
 ---
 
-**Divergence Atlas** 🔴 
+**Divergence Atlas** 🟢
 
 Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
 This fully transparent, multi-agent cognitive mapping experiment was conducted across six advanced AI systems - Claude Opus 4.1, Claude Sonnet 4.5, Gemini 2.5 Pro, Grok 4, Perplexity, ChatGPT 5. The project began as a playful question ("What would each AI explore with the others?") and evolved into a structured, replicable methodology for understanding where AI systems converge, where they diverge, and why.
@@ -22,7 +22,10 @@ This repository documents the entire process—from idea generation to democrati
 
 ---
 
-**Connector OS** 🔴  
+**Connector OS** 🟢  
+
+Solved: The Body Problem for AI. A control-theory framework that turns stateless models into state-aware agents using feedback loops, sensory normalization (CMP), and biological thresholds.
+
 8-layer human-AI control architecture. Core claim: AI doesn't need more intelligence, it needs better integration.
 If you're interested in:
 - Adaptive control systems
@@ -143,7 +146,7 @@ Repo link: https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory
 
 ## Forensics & Behavioral Analysis
 
-**Voice Mode Forensics** 🔴  
+**Voice Mode Forensics** 🟢  
 Case study of multimodal alignment failure. Prosodic jailbreak, persona collapse, topology persistence.
 
 This repo serves as a reference for researchers, engineers, and designers exploring:
