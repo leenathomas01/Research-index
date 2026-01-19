@@ -70,7 +70,7 @@ This repository documents patterns from natural use across architectures, focusi
 
 ---
 
-**Power-Asymmetry-Restraint-Protocol-PARP** 🔴  
+**Power-Asymmetry-Restraint-Protocol-PARP** 🟢  
 
 The Power Asymmetry Restraint Protocol (PARP) is a governance framework designed for an era where technological capability outpaces human comprehension.
 
