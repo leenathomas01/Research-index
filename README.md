@@ -1,5 +1,15 @@
 # Research Index
 
+## Purpose
+
+This index catalogs a long-running, independent research program exploring stability, control, and safety in complex intelligent systems — with emphasis on threshold behavior, power asymmetry, and irreversible failure modes.
+
+The work spans theoretical frameworks, empirical multi-agent studies, governance protocols, and applied system architectures.
+
+Scope note: Some entries are fully public and referenceable; others are intentionally private or incomplete. Inclusion does not imply deployment readiness
+
+---
+
 ### Status Legend
 | Symbol | Meaning |
 | :--- | :--- |
