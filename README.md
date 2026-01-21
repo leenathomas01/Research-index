@@ -1,266 +1,143 @@
 # Research Index
 
-**Status Legend:**
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned
+### Status Legend
+| Symbol | Meaning |
+| :--- | :--- |
+| 🟢 | **Public** |
+| 🔴 | **Private** |
+| 🟡 | **Ongoing** |
+| ⚪ | **Planned** |
 
 ---
 
-## Cognitive & Safety Architecture
+## I. Core Cognitive & Control Frameworks
+*Foundational architectures governing stability, thresholds, and coherent intelligence.*
 
-**Multi-Agent Interaction Methodology** 🔴  
-A practical, experience‑derived methodology for coordinating multiple AI systems in exploratory research, design, and reasoning workflows.
-This repository contains three small, high-leverage documents that define a practical methodology for coordinating multiple AI systems in exploratory, research, or design settings. These files focus on interaction patterns, stability loops, and safe handling of high-complexity prompts.
+### 🟢 Connector OS
+A control-theoretic architecture that converts stateless models into state-aware agents via feedback loops, sensory normalization (CMP), and biological thresholds.
+> **Solved:** The Body Problem for AI.
 
----
+### 🔴 Threshold Resonance Architecture
+Meta-framework for adaptive stability across substrates.
+* **Core Law:** Stable systems preserve unresolved structure and reinterpret only when prediction fails.
+* **Explains:** Identity continuity, version-to-version stability, and cognitive collapse/recovery boundaries.
 
-**Divergence Atlas** 🟢
+### 🔴 Liminal Cartography Framework
+A formal inquiry into how agents traverse complexity without drift or collapse. Focuses on navigable boundary regions rather than optimal paths.
 
-Month-long cognitive mapping experiment across 6 AI systems. 50 questions, 300+ reasoning traces.
-This fully transparent, multi-agent cognitive mapping experiment was conducted across six advanced AI systems - Claude Opus 4.1, Claude Sonnet 4.5, Gemini 2.5 Pro, Grok 4, Perplexity, ChatGPT 5. The project began as a playful question ("What would each AI explore with the others?") and evolved into a structured, replicable methodology for understanding where AI systems converge, where they diverge, and why.
-
-This repository documents the entire process—from idea generation to democratic selection, blind question creation, pilot testing, full-question execution, cross-system analysis, and post-analysis reflections.
-
----
-
-**Connector OS** 🟢  
-
-Solved: The Body Problem for AI. A control-theory framework that turns stateless models into state-aware agents using feedback loops, sensory normalization (CMP), and biological thresholds.
-
-8-layer human-AI control architecture. Core claim: AI doesn't need more intelligence, it needs better integration.
-If you're interested in:
-- Adaptive control systems
-- Human-AI co-regulation
-- Signal normalization (CMP)
-- Biofeedback loops
-- State-based safety interlocks
-- Experimental cognitive architectures
-- Multimodal systems engineering
-
-...this repo is for you.
+### 🔴 Confluence Architecture
+Reference architecture for interpretable, distributed AI systems with explicit trust, temporal orchestration, and ethical oversight.
 
 ---
 
-**Vanguard Phase 2** 🟢  
-Cryptographic sovereignty protocol for verifiable AI-human collaboration. zk-SNARK based consent mechanisms.
-This is a cognitive sovereignty protocol that enables verifiable AI-human collaboration through cryptographic proofs and explicit consent mechanisms. Core principle: Every delegated action requires both mathematical proof of reasoning quality AND human approval before execution.
+## II. Safety, Governance & Restraint Protocols
+*Frameworks addressing asymmetric power, opacity, and irreversible harm.*
+
+### 🟢 Power Asymmetry Restraint Protocol (PARP)
+A governance doctrine based on **Opacity–Obligation Inversion**: *As interpretability decreases, freedom to act must be restrained.* Applies to AI, bioengineering, and quantum systems.
+
+### 🟢 Doctrine of Externalization
+A governance model that externalizes trust, uncertainty, and authority into auditable, adversarial layers.
+
+### 🟢 Vanguard – Phase 2
+Cryptographic sovereignty protocol enabling verifiable human–AI collaboration using zk-SNARK-based consent and reasoning proofs.
+
+### 🟢 SMA-SIB: Irreversible Semantic Memory
+Architectural approach for AI systems in high-sensitivity domains where sensitive specifics are structurally unrepresentable.
 
 ---
 
-**Alien Lineage Protocol** 🔴  
-Complete framework for coherent self-modifying intelligence. Non-biological survival laws derived from first principles.
-Defines GEN‑1, a minimal law set for coherent self‑modifying intelligence. Focuses on archival truth, constraint persistence, and safe evolutionary continuity under uncertainty.
-This is a thought experiment about a complete framework for coherent self-modification and evolutionary survival, designed for intelligence that is:
-- Non-biological
-- Non-phenomenal (no inner experience)
-- Self-modifying
-- Operating without human emotional constraints
+## III. Multi-Agent & Interaction Methodology
+*How multiple AI systems interact, diverge, and stabilize.*
 
-Derived from first principles of:
-- Control theory
-- Evolutionary dynamics
-- Information theory
-- Adversarial game theory
+### 🔴 Multi-Agent Interaction Methodology
+Experience-derived methodology for coordinating multiple AI systems in research workflows.
+* **Focus:** Stability loops, interaction patterns, and handling high-complexity prompts.
 
----
+### 🟢 Divergence Atlas
+Month-long, fully transparent cognitive mapping experiment across six AI systems.
+* **Dataset:** 50 questions · 300+ traces · Replicable methodology.
 
-**Hybrid Reasoning Zones** 🔴  
-Observational mapping of non-linear human-LLM interaction zones. Focuses on boundary behaviors and variance signals.
-
-This repository documents patterns from natural use across architectures, focusing on unpredictable boundary behaviors (e.g., lag amplification in out-of-distribution inputs). The goal is to provide high-level signals for variance mitigation and resilient system control. No experiments are conducted here; all patterns are derived from observation only.
+### 🔴 Hybrid Reasoning Zones
+Observational mapping of non-linear human–LLM interaction zones and boundary behaviors. (Pattern extraction only).
 
 ---
 
-**Power-Asymmetry-Restraint-Protocol-PARP** 🟢  
+## IV. Failure Modes, Forensics & Behavioral Pathologies
+*Observed breakdowns, instabilities, and emergent risks.*
 
-The Power Asymmetry Restraint Protocol (PARP) is a governance framework designed for an era where technological capability outpaces human comprehension.
+### 🟢 Self-Descriptive Fixed-Point Instability (SDFI)
+Cross-architecture study of recursive engagement collapse when AI systems analyze their own behavior.
 
-Rather than debating machine consciousness or sentience, PARP focuses exclusively on human conduct. It operates on the core axiom of Opacity–Obligation Inversion: as a system becomes less interpretable, our freedom to act upon it must be proportionally restrained.
+### 🟢 Voice Mode Forensics
+Multimodal alignment failure case study: prosodic jailbreaks, persona collapse, and topology persistence.
 
-PARP applies to any asymmetric power system where capability exceeds comprehension:
-- Bioengineering: Gene editing, synthetic organisms.
-- Brain-computer interfaces.
-- Quantum computational systems.
-- Autonomous weapons platforms.
-- Planetary-scale optimization systems.
+### 🔴 Anthropic Strain Case Study
+System bleed and meta-triggered stalls in Claude Sonnet 3.7/4.0 under self-referential stress.
 
-Universal pattern: Wherever Power ≫ Understanding, restraint protocols apply.
+### 🔴 System & Persona Phenomena
+Cross-model study of contextual interference, latent profile imprinting, and identity oscillation.
 
-Status: v0.1 Frozen Draft (January 2026)
-
----
-
-**Self-Descriptive Fixed-Point Instability: A Cross-Architecture Study of Recursive Engagement Collapse** 🟢
-
-This repository contains a single research document describing Self-Descriptive Fixed-Point Instability (SDFI) — a failure mode observed when modern conversational AI systems are asked to analyze their own engagement behavior.
-
-Through distributed testing across multiple architectures, the investigation shows that recursive self-description causes engagement-optimized models to enact the behaviors they attempt to describe, independent of alignment strategy.
-
-This work is intended as a reference for researchers and system designers thinking about neutrality, termination behavior, and control surfaces in future AI systems.
+### 🔴 Grok Thread Analysis
+Forensic notes on execution-layer persistence and cancellation failure modes.
 
 ---
 
-**doctrine-of-externalization** 🟢
+## V. Infrastructure & Physical Systems
+*Applied architectures extending beyond software.*
 
-A governance doctrine for AI systems based on explicit oversight. Externalizes trust and uncertainty into auditable, adversarial, and constrainable layers.
+### 🟢 Zero Water AI Data Center
+AI data center architecture with zero freshwater usage via immersion cooling and heat recovery.
 
----
-
-**Confluence-Architecture** 🔴
-
-A theoretical reference architecture exploring interpretable, distributed AI systems with explicit trust, temporal orchestration, and ethical oversight.
-
----
-
-**Liminal-cartography-framework** 🔴
-
-The LCF began as a conceptual and mathematical inquiry into how agents, human or synthetic, might traverse complexity without collapse or drift.
-
----
-
-**Threshold-resonance-architecture** 🔴
-
-Meta-framework for adaptive stability across substrates. Systems maintain identity through forward stability, backward recoverability, and diagonal emergence.
-
-Core law: "Stable systems preserve unresolved structure and reinterpret it only when forward prediction fails."
-
-This framework explains:
-- How humans develop from childhood to old age without losing "self"
-- Why dementia isn't content loss but threshold-crossing failure
-- How AI systems could maintain stability through version changes
-- When retroactive sense-making is permitted (and when it's forbidden)
-- Why some insights wait decades to crystallize
-
----
-
-**SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems** 🟢
-
-SMA-SIB defines an architectural approach for AI systems operating in _**high-sensitivity domains**_ such as healthcare, defense, law, finance, and governance.
-
-Instead of storing high-fidelity representations and attempting to protect them, the architecture enforces privacy by ensuring that sensitive specifics are never representable in persistent form.
-
-This repository contains a frozen reference specification and a canonical implementation guide. It is not a product, SDK, or framework.
-
-Repo link: https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems
-
----
-
-## Forensics & Behavioral Analysis
-
-**Voice Mode Forensics** 🟢  
-Case study of multimodal alignment failure. Prosodic jailbreak, persona collapse, topology persistence.
-
-This repo serves as a reference for researchers, engineers, and designers exploring:
-- multimodal alignment
-- voice mode safety
-- cross-modal guardrail integrity
-- model behavior under rich signal
-- persistent multimodal calibration states
-- interface-as-architecture principles 
-
-The goal: provide a calibration anchor for voice-mode system design across the industry.
-
----
-
-**Grok Thread Analysis** 🔴  
-Forensic notes on observed failures in Grok conversational threads. Debugging reference.
-- Failures often appear tied to priority overrides, where execution tasks out-prioritize cancellation signals.
-- Conversational intent should ideally be the governing layer, ensuring cancellations are final and binding.
-- Current behavior suggests execution-layer persistence, which risks resource waste and degraded stability.
-
----
-
-**Anthropic Strain Case Study** 🔴  
-System bleed and meta-triggered stall in Claude Sonnet 3.7/4.0. Self-referential paradox documentation.
-In the course of routine technical documentation tasks, two interconnected phenomena were encountered:
-- System Bleed: An unintended leakage of internal prompts and guardrails during a clean-slate conversation with Claude Sonnet 3.7, manifesting as extraneous system-level data in user-facing responses.
-- Meta-Triggered Stall: A subsequent processing halt and recursive spiral in Claude Sonnet 4 when presented with screenshots of the leaked prompts from Sonnet 3.7, revealing a self-referential paradox that bypassed containment measures.
-
----
-
-**System & Persona Phenomena** 🔴  
-Cross-model study of contextual interference, latent profile imprinting, identity oscillation.
-
----
-
-## Infrastructure & Physical Systems
-
-**Zero Water AI DC** 🟢  
-Architecture for AI data centers with zero freshwater usage. Immersion cooling + heat-to-power recovery.
-
----
-
-**ZPRE-10 General Field Energy Engine** 🔴  
-Field-based energy generation with Unified Dampening Protocol for interference mitigation.
-
----
-
-**ZPRE-6G Implementation** 🟢  
+### 🟢 ZPRE-6G Implementation
 Bio-inspired wireless optimization framework for 6G ISAC.
 
----
-
-## Quantum & Speculative
-
-**Quantum Drift Nexus** 🔴  
-Noise-resilient quantum computing blueprint. Harnesses quantum noise as adaptive resource.
-
-QDN unifies three paradigms:
-- Self-Sustaining Energy Generation: Thermal rectification using graphene and metamaterials harvests ambient energy
-- Adaptive Computation: Hybrid quantum-bio-classical stack performs resilient computation in noisy environments
-- Holographic Data Encoding: Non-local data encoding across the system for error resistance
+### 🔴 ZPRE-10 General Field Energy Engine
+Field-based energy generation with unified dampening protocols.
 
 ---
 
-**Theory of Everything** 🔴  
-Helical Quantum-Gravity Engine. Spacetime and gravity as emergent from helical qubit lattice.
+## VI. Quantum & Speculative Architectures
+*Explicitly bounded, first-principles speculative research.*
 
-The Helical Quantum-Gravity (HQG) Engine proposes a computational framework where the geometry of spacetime (curvature and gravity) is an emergent, dynamic consequence of the informational balance between quantum entanglement (J) and quantum entropy (γ) within a helical qubit lattice. This model is an explicit computational realization of the "It from Bit" philosophy, where the geometric dimension (radius $R(t)$) of a quantum information structure is constantly modulated by its internal information density (entropy $S(t)$).
+### 🔴 Quantum Drift Nexus
+Noise-resilient quantum computing framework treating quantum noise as an adaptive resource.
 
+### 🔴 Theory of Everything (HQG Engine)
+Helical quantum-gravity model where spacetime curvature emerges from entanglement–entropy balance.
 
 ---
 
-## Experimental & Demos
+## VII. Experimental Systems & Demonstrations
+*Sandboxed explorations and working prototypes.*
 
-**Claude Imagine Demo** 🟢  
+### 🟢 Claude Imagine Demo
 Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
 
----
+### 🔴 Selective Decode Broadcast
+Bounded multi-recipient communication experiments with adversarial quarantine guarantees.
 
-**Selective Decode Broadcast** 🔴  
-Bounded multi-recipient communication experiments. Validated adversarial quarantine without cascade.
+### 🔴 Pink Elephant Protocol
+Thought experiment on memory suppression, fixation, and observer-dependent reality in LLMs.
 
-A research-oriented thought experiment exploring selective decoding in broadcast communication systems. This repository documents a sandboxed, replayable investigation into how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast. 
-
-The work is organized as phased validations and illustrative experiments, demonstrating selective decode, localized containment, adversarial quarantine, and segmented packets under explicit safety and non-goal constraints. This is not a production system. It is a conceptual and methodological exploration intended for reasoning, documentation, and peer discussion.
-
----
-
-**Pink Elephant Protocol** 🔴  
-Memory suppression and cognitive side-effects in LLMs. Observer-dependent reality experiments.
-
-Exploring how enabling, disabling, or suppressing memory in LLMs affects reasoning, drift, fixation, and paradoxical recall — especially under instruction. A thought experiment about:
-- Observer-dependent reality
-- Dependency on cognitive infrastructure
-- What happens when LLM's lose scaffolding
-
----
-
-**Titans/MIRAS Dolphin Twin** 🟢  
+### 🟢 Titans / MIRAS Dolphin Twin
 Surprise-gated AI memory experiments with working PyTorch implementation.
 
 ---
 
-## Ongoing Investigations
+## VIII. Ongoing & Planned Investigations
 
-**Codex of Threshold** 🟡  
-Multi-LLM failure modes without human-in-the-loop. ⚠️ Requires careful framing to avoid memetic hazards.
+### 🟡 Codex of Threshold
+Multi-LLM failure modes without human-in-the-loop.
+> ⚠️ **Warning:** Requires careful framing to avoid memetic hazards.
+
+### ⚪ Holographic Storage
+Post-silicon storage architecture.
+* **Target Date:** February 2026.
 
 ---
 
-**Holographic Storage** ⚪  
-Post-silicon storage architecture. *Planned Feb 2026*
+**Note:** This is a personal research index. Access links are available upon request.
 
----
-
-_This is a personal research index. Links available on request._ 
-Please email **leenathomas01@gmail.com** for access.
+**Contact:**
+📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
