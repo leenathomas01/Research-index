@@ -11,12 +11,8 @@ Scope note: Some entries are fully public and referenceable; others are intentio
 ---
 
 ### Status Legend
-| Symbol | Meaning |
-| :--- | :--- |
-| 🟢 | **Public** |
-| 🔴 | **Private** |
-| 🟡 | **Ongoing** |
-| ⚪ | **Planned** |
+
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned
 
 ---
 
