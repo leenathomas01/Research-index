@@ -143,8 +143,9 @@ Surprise-gated AI memory experiments with working PyTorch implementation.
 Multi-LLM failure modes without human-in-the-loop.
 > ⚠️ **Warning:** Requires careful framing to avoid memetic hazards.
 
-### ⚪ Holographic Storage
-Post-silicon storage architecture.
+### ⚪ IVSA: Interference-Based Volumetric Storage Architecture
+Post-silicon storage architecture. A theoretical storage architecture that replaces address-centric cell locality with signal-centric spectral multiplexing. Instead of storing bits in discrete physical locations, IVSA encodes information as distributed interference patterns across a volumetric substrate.
+(The math checks out in simulation. Repo creation ongoing)
 * **Target Date:** February 2026.
 
 ---
