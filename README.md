@@ -51,7 +51,8 @@ Cryptographic sovereignty protocol enabling verifiable human–AI collaboration 
 ### 🟢 SMA-SIB: Irreversible Semantic Memory
 Architectural approach for AI systems in high-sensitivity domains where sensitive specifics are structurally unrepresentable.
 
-### 🟢 The Continuity Problem: A reframing of AI safety discourse: from consciousness to structure
+### 🟢 The Continuity Problem
+_A reframing of AI safety discourse: from consciousness to structure_
 
 This repository explores a conceptual reframing of a common AI safety question. Instead of asking whether advanced AI systems will become conscious, it asks a more immediate architectural question:
 What happens when AI systems can maintain continuity of memory and preferences across model updates?
