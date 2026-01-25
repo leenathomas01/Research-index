@@ -145,10 +145,25 @@ Surprise-gated AI memory experiments with working PyTorch implementation.
 Multi-LLM failure modes without human-in-the-loop.
 > ⚠️ **Warning:** Requires careful framing to avoid memetic hazards.
 
+--- 
+
 ### ⚪ IVSA: Interference-Based Volumetric Storage Architecture
 Post-silicon storage architecture. A theoretical storage architecture that replaces address-centric cell locality with signal-centric spectral multiplexing. Instead of storing bits in discrete physical locations, IVSA encodes information as distributed interference patterns across a volumetric substrate.
 (The math checks out in simulation. Repo creation ongoing)
 * **Target Date:** February 2026.
+---
+ 
+### 🟡 Embodied Agent Governance
+
+This is a substrate-independent governance pattern for agents operating in imperfect environments.
+
+The core idea: separate the agent's reasoning capability from its skepticism, caution, and operational boundaries. Store failure knowledge in external reference libraries rather than learned beliefs.
+The agent queries caution; it does not become cautious.
+
+The repo includes:
+- Five-layer governance architecture
+- Design rationale and maintenance protocols
+- Validation cases across failure modes
 
 ---
 
