@@ -30,10 +30,10 @@ A model-agnostic memory architecture that achieves persistence without storing t
 SMA stores only non-linguistic semantic shapes (latent representations + topology) and reconstructs language on demand. This reframes memory from content retention to state reactivation.
 
 Key properties:
-• No linguistic storage
-• Reconstruction, not retrieval
-• Continuity across model version changes
-• Deterministic deletion via destruction of discrete memory units
+- No linguistic storage
+- Reconstruction, not retrieval
+- Continuity across model version changes
+- Deterministic deletion via destruction of discrete memory units
 
 SMA explores the continuity–safety tradeoff from an infrastructure perspective rather than a model feature.
 
@@ -65,15 +65,15 @@ The documents here argue that many governance-relevant risks do not depend on su
 
 ### 🟢 Embodied Agent Governance
 
-This is a substrate-independent governance pattern for agents operating in imperfect environments.
+A substrate-independent governance pattern for agents operating in imperfect environments.
 
-The core idea: separate the agent's reasoning capability from its skepticism, caution, and operational boundaries. Store failure knowledge in external reference libraries rather than learned beliefs.
-The agent queries caution; it does not become cautious.
+The architecture separates an agent’s reasoning capability from its skepticism, caution, and operational boundaries. Instead of teaching the model to “be careful,” failure knowledge is stored in external reference libraries that the agent consults when needed.
 
-The repo includes:
+Includes:
 - Five-layer governance architecture
 - Design rationale and maintenance protocols
-- Validation cases across failure modes
+- Validation cases across common embodied failure modes
+
 ---
 
 ## III. Multi-Agent & Interaction Methodology
