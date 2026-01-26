@@ -23,6 +23,21 @@ Scope note: Some entries are fully public and referenceable; others are intentio
 A control-theoretic architecture that converts stateless models into state-aware agents via feedback loops, sensory normalization (CMP), and biological thresholds.
 > **Solved:** The Body Problem for AI.
 
+### 🔴 Shape Memory Architecture (SMA)
+
+A model-agnostic memory architecture that achieves persistence without storing text, transcripts, or PII.
+
+SMA stores only non-linguistic semantic shapes (latent representations + topology) and reconstructs language on demand. This reframes memory from content retention to state reactivation.
+
+Key properties:
+• No linguistic storage
+• Reconstruction, not retrieval
+• Continuity across model version changes
+• Deterministic deletion via destruction of discrete memory units
+
+SMA explores the continuity–safety tradeoff from an infrastructure perspective rather than a model feature.
+
+
 ---
 
 ## II. Safety, Governance & Restraint Protocols
