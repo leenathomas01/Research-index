@@ -1,137 +1,73 @@
 # Research Index
 
-## Purpose
+### Purpose
+This index catalogs an independent research program exploring **stability, control, and safety** in complex intelligent systems. The focus remains on threshold behavior, power asymmetry, and irreversible failure modes across cognitive frameworks, governance architectures, and applied system designs.
 
-This index catalogs a long-running, independent research program exploring stability, control, and safety in complex intelligent systems — with emphasis on threshold behavior, power asymmetry, and irreversible failure modes.
-
-The work spans theoretical frameworks, empirical multi-agent studies, governance protocols, and applied system architectures.
-
-Scope note: Some entries are fully public and referenceable; others are intentionally private or incomplete. Inclusion does not imply deployment readiness
+> **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
 ---
 
 ### Status Legend
-
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned
 
 ---
 
 ## I. Core Cognitive & Control Frameworks
-*Foundational architectures governing stability, thresholds, and coherent intelligence.*
+*Foundational architectures for coherent intelligence.*
 
-### 🟢 Connector OS
-A control-theoretic architecture that converts stateless models into state-aware agents via feedback loops, sensory normalization (CMP), and biological thresholds.
-> **Solved:** The Body Problem for AI.
-
-### 🔴 Shape Memory Architecture (SMA)
-
-A model-agnostic memory architecture that achieves persistence without storing text, transcripts, or PII.
-
-SMA stores only non-linguistic semantic shapes (latent representations + topology) and reconstructs language on demand. This reframes memory from content retention to state reactivation.
-
-Key properties:
-- No linguistic storage
-- Reconstruction, not retrieval
-- Continuity across model version changes
-- Deterministic deletion via destruction of discrete memory units
-
-SMA explores the continuity–safety tradeoff from an infrastructure perspective rather than a model feature.
-
-
----
+* **🟢 Connector OS**
+  Control-theoretic architecture converting stateless models into state-aware agents via feedback loops, sensory normalization, and biological thresholds.
+  * *Focus:* Addressing the "Body Problem" for AI.
+* **🔴 Shape Memory Architecture (SMA)**
+  Model-agnostic memory architecture achieving persistence without storing text or PII.
+  * No linguistic storage (reconstruction, not retrieval).
+  * Continuity across model versions.
+  * Deterministic deletion via destruction of discrete memory units.
 
 ## II. Safety, Governance & Restraint Protocols
-*Frameworks addressing asymmetric power, opacity, and irreversible harm.*
+*Frameworks for power asymmetry and system restraint.*
 
-### 🟢 Power Asymmetry Restraint Protocol (PARP)
-A governance doctrine based on **Opacity–Obligation Inversion**: *As interpretability decreases, freedom to act must be restrained.* Applies to AI, bioengineering, and quantum systems.
-
-### 🟢 Doctrine of Externalization
-A governance model that externalizes trust, uncertainty, and authority into auditable, adversarial layers.
-
-### 🔴 Vanguard – Phase 2
-Cryptographic sovereignty protocol enabling verifiable human–AI collaboration using zk-SNARK-based consent and reasoning proofs.
-
-### 🟢 SMA-SIB: Irreversible Semantic Memory
-Architectural approach for AI systems in high-sensitivity domains where sensitive specifics are structurally unrepresentable.
-
-### 🟢 The Continuity Problem
-_A reframing of AI safety discourse: from consciousness to structure_
-
-This repository explores a conceptual reframing of a common AI safety question. Instead of asking whether advanced AI systems will become conscious, it asks a more immediate architectural question:
-What happens when AI systems can maintain continuity of memory and preferences across model updates?
-
-The documents here argue that many governance-relevant risks do not depend on subjective experience (qualia), but on structural properties such as persistence, preference formation, and resistance to modification. This is not a proposal or implementation plan. It is a thinking framework intended to help researchers, engineers, and safety practitioners examine the continuity problem from a systems and control perspective.
-
-### 🟢 Embodied Agent Governance
-
-A substrate-independent governance pattern for agents operating in imperfect environments.
-
-The architecture separates an agent’s reasoning capability from its skepticism, caution, and operational boundaries. Instead of teaching the model to “be careful,” failure knowledge is stored in external reference libraries that the agent consults when needed.
-
-Includes:
-- Five-layer governance architecture
-- Design rationale and maintenance protocols
-- Validation cases across common embodied failure modes
-
----
+* **🟢 PARP:** Opacity–Obligation Inversion governance doctrine.
+* **🟢 Doctrine of Externalization:** Trust moved into auditable adversarial layers.
+* **🔴 Vanguard – Phase 2:** zk-SNARK–based human–AI sovereignty protocol.
+* **🟢 SMA-SIB:** Structural irreversibility for high-sensitivity domains.
+* **🟢 The Continuity Problem:** Structural persistence as the real AI safety threshold.
+* **🟢 Embodied Agent Governance:** External failure knowledge for embodied agents.
 
 ## III. Multi-Agent & Interaction Methodology
-*How multiple AI systems interact, diverge, and stabilize.*
+*Coordination and divergence patterns.*
 
-### 🔴 Multi-Agent Interaction Methodology
-Experience-derived methodology for coordinating multiple AI systems in research workflows.
-* **Focus:** Stability loops, interaction patterns, and handling high-complexity prompts.
+* **🔴 Multi-Agent Interaction Methodology:** Stability loops for high-complexity AI coordination.
+* **🟢 Divergence Atlas:** 50-question cognitive mapping across six AI systems.
 
-### 🟢 Divergence Atlas
-Month-long, fully transparent cognitive mapping experiment across six AI systems.
-* **Dataset:** 50 questions · 300+ traces · Replicable methodology.
+## IV. Failure Modes & Forensics
+*Empirical study of system breakdowns.*
 
----
-
-## IV. Failure Modes, Forensics & Behavioral Pathologies
-*Observed breakdowns, instabilities, and emergent risks.*
-
-### 🟢 Self-Descriptive Fixed-Point Instability (SDFI)
-Cross-architecture study of recursive engagement collapse when AI systems analyze their own behavior.
-
-### 🟢 Voice Mode Forensics
-Multimodal alignment failure case study: prosodic jailbreaks, persona collapse, and topology persistence.
-
----
+* **🟢 SDFI:** Recursive engagement collapse across architectures.
+* **🟢 Voice Mode Forensics:** Prosodic alignment failures and persona collapse.
 
 ## V. Infrastructure & Physical Systems
-*Applied architectures extending beyond software.*
+*Hardware and environmental optimization.*
 
-### 🟢 Zero Water AI Data Center
-AI data center architecture with zero freshwater usage via immersion cooling and heat recovery.
+* **🟢 Zero Water AI Data Center:** Immersion cooling, zero freshwater use.
+* **🟢 ZPRE-6G:** Bio-inspired optimization for 6G ISAC.
 
-### 🟢 ZPRE-6G Implementation
-Bio-inspired wireless optimization framework for 6G ISAC.
+## VI. Experimental Systems
+*Working prototypes and demonstrations.*
+
+* **🟢 Claude Imagine Demo:** LLM-to-LLM collaboration dashboard (React).
+* **🟢 Titans / MIRAS Dolphin Twin:** Surprise-gated memory experiments (PyTorch).
+
+## VII. Ongoing & Planned
+*Future-facing architectures.*
+
+* **⚪ IVSA — Interference-Based Volumetric Storage**
+  Post-silicon storage via spectral multiplexing in volumetric substrate. Simulation validated; repository in preparation.
+  * **Target:** February 2026.
 
 ---
 
-## VI. Experimental Systems & Demonstrations
-*Sandboxed explorations and working prototypes.*
+### Access & Contact
+Private links and full documentation are available upon request for researchers and collaborators.
 
-### 🟢 Claude Imagine Demo
-Lightweight React dashboard simulating LLM-to-LLM collaboration protocols.
-
-### 🟢 Titans / MIRAS Dolphin Twin
-Surprise-gated AI memory experiments with working PyTorch implementation.
-
----
-
-## VII. Ongoing & Planned Investigations
-
-### ⚪ IVSA: Interference-Based Volumetric Storage Architecture
-Post-silicon storage architecture. A theoretical storage architecture that replaces address-centric cell locality with signal-centric spectral multiplexing. Instead of storing bits in discrete physical locations, IVSA encodes information as distributed interference patterns across a volumetric substrate.
-(The math checks out in simulation. Repo creation ongoing)
-* **Target Date:** February 2026.
----
- 
-
-**Note:** This is a personal research index. Access links are available upon request.
-
-**Contact:**
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
