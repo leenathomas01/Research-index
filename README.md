@@ -63,6 +63,17 @@ What happens when AI systems can maintain continuity of memory and preferences a
 
 The documents here argue that many governance-relevant risks do not depend on subjective experience (qualia), but on structural properties such as persistence, preference formation, and resistance to modification. This is not a proposal or implementation plan. It is a thinking framework intended to help researchers, engineers, and safety practitioners examine the continuity problem from a systems and control perspective.
 
+### 🟢 Embodied Agent Governance
+
+This is a substrate-independent governance pattern for agents operating in imperfect environments.
+
+The core idea: separate the agent's reasoning capability from its skepticism, caution, and operational boundaries. Store failure knowledge in external reference libraries rather than learned beliefs.
+The agent queries caution; it does not become cautious.
+
+The repo includes:
+- Five-layer governance architecture
+- Design rationale and maintenance protocols
+- Validation cases across failure modes
 ---
 
 ## III. Multi-Agent & Interaction Methodology
@@ -119,19 +130,6 @@ Post-silicon storage architecture. A theoretical storage architecture that repla
 * **Target Date:** February 2026.
 ---
  
-### 🟡 Embodied Agent Governance
-
-This is a substrate-independent governance pattern for agents operating in imperfect environments.
-
-The core idea: separate the agent's reasoning capability from its skepticism, caution, and operational boundaries. Store failure knowledge in external reference libraries rather than learned beliefs.
-The agent queries caution; it does not become cautious.
-
-The repo includes:
-- Five-layer governance architecture
-- Design rationale and maintenance protocols
-- Validation cases across failure modes
-
----
 
 **Note:** This is a personal research index. Access links are available upon request.
 
