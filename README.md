@@ -34,7 +34,7 @@ A governance doctrine based on **Opacity–Obligation Inversion**: *As interpret
 ### 🟢 Doctrine of Externalization
 A governance model that externalizes trust, uncertainty, and authority into auditable, adversarial layers.
 
-### 🟢 Vanguard – Phase 2
+### 🔴 Vanguard – Phase 2
 Cryptographic sovereignty protocol enabling verifiable human–AI collaboration using zk-SNARK-based consent and reasoning proofs.
 
 ### 🟢 SMA-SIB: Irreversible Semantic Memory
