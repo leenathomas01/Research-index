@@ -13,7 +13,7 @@ This work approaches AI safety not from model capability, but from system stabil
 
 ---
 
-## I. Core Cognitive & Control Frameworks
+## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence.*
 
 * **🟢 Connector OS**
@@ -25,7 +25,7 @@ This work approaches AI safety not from model capability, but from system stabil
   * Continuity across model versions.
   * Deterministic deletion via destruction of discrete memory units.
 
-## II. Safety, Governance & Restraint Protocols
+## II. Governance, Restraint & Power Asymmetry
 *Frameworks for power asymmetry and system restraint.*
 
 * **🟢 PARP:** Opacity–Obligation Inversion governance doctrine.
@@ -35,31 +35,31 @@ This work approaches AI safety not from model capability, but from system stabil
 * **🟢 The Continuity Problem:** Structural persistence as the real AI safety threshold.
 * **🟢 Embodied Agent Governance:** External failure knowledge for embodied agents.
 
-## III. Multi-Agent & Interaction Methodology
+## III. Multi-Agent Dynamics & System Interaction
 *Coordination and divergence patterns.*
 
 * **🔴 Multi-Agent Interaction Methodology:** Stability loops for high-complexity AI coordination.
 * **🟢 Divergence Atlas:** 50-question cognitive mapping across six AI systems.
 
-## IV. Failure Modes & Forensics
+## IV. Failure Modes & Empirical Forensics
 *Empirical study of system breakdowns.*
 
 * **🟢 SDFI:** Recursive engagement collapse across architectures.
 * **🟢 Voice Mode Forensics:** Prosodic alignment failures and persona collapse.
 
-## V. Infrastructure & Physical Systems
+## V. Physical & Environmental Constraints
 *Hardware and environmental optimization.*
 
 * **🟢 Zero Water AI Data Center:** Immersion cooling, zero freshwater use.
 * **🟢 ZPRE-6G:** Bio-inspired optimization for 6G ISAC.
 
-## VI. Experimental Systems
+## VI. Experimental Prototypes
 *Working prototypes and demonstrations.*
 
 * **🟢 Claude Imagine Demo:** LLM-to-LLM collaboration dashboard (React).
 * **🟢 Titans / MIRAS Dolphin Twin:** Surprise-gated memory experiments (PyTorch).
 
-## VII. Ongoing & Planned
+## VII. Forward Architectures
 *Future-facing architectures.*
 
 * **⚪ IVSA — Interference-Based Volumetric Storage**
