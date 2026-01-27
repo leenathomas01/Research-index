@@ -1,7 +1,8 @@
 # Research Index
 
 ### Purpose
-This index catalogs an independent research program exploring **stability, control, and safety** in complex intelligent systems. The focus remains on threshold behavior, power asymmetry, and irreversible failure modes across cognitive frameworks, governance architectures, and applied system designs.
+
+This work approaches AI safety not from model capability, but from system stability, memory behavior, and governance under power asymmetry.
 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
