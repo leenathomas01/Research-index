@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This work approaches AI safety not from model capability, but from system stability, memory behavior, and governance under power asymmetry.
+This work approaches AI safety through system stability, memory behavior, and governance under power asymmetry, rather than model capability alone.
 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
@@ -67,7 +67,7 @@ This work approaches AI safety not from model capability, but from system stabil
   * **Target:** February 2026.
  
 ## VIII. Experimental & Speculative Work
-Several explorations spanning speculative architectures, unexpected failure modes, and high-risk research directions. These are not currently available for external review.
+Explorations spanning speculative architectures, edge-case failure modes, and early-stage research directions. These are not currently available for external review.
 
 ---
 
@@ -76,6 +76,6 @@ Private repositories (🔴) are available upon request for researchers and colla
 
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
 
-_Selected thought fragments and systems observations that informed these architectures are occasionally shared here:_
+_Selected systems observations that informed parts of this work are occasionally shared here:_
 
 [Linkedin](https://www.linkedin.com/in/leena-t-4895a315b/)
