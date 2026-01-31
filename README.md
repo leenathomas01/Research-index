@@ -67,13 +67,12 @@ This work approaches AI safety not from model capability, but from system stabil
   * **Target:** February 2026.
  
 ## VIII. Experimental & Speculative Work
-Several explorations spanning speculative architectures and high-risk research directions. These are not currently available for external review.
+Several explorations spanning speculative architectures, unexpected failure modes, and high-risk research directions. These are not currently available for external review.
 
 ---
 
 ### Access & Contact
 Private repositories (🔴) are available upon request for researchers and collaborators.
-(Experimental work (⚫) is not currently available for external review.)
 
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
 
