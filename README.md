@@ -9,7 +9,7 @@ This work approaches AI safety not from model capability, but from system stabil
 ---
 
 ### Status Legend
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
 
 ---
 
@@ -65,11 +65,16 @@ This work approaches AI safety not from model capability, but from system stabil
 * **⚪ IVSA — Interference-Based Volumetric Storage**
   Post-silicon storage via spectral multiplexing in volumetric substrate. Simulation validated; repository in preparation.
   * **Target:** February 2026.
+ 
+## VIII. Experimental & Speculative Work
+
+⚫ Status: Several explorations spanning speculative architectures and high-risk research directions. These are not currently available for external review.
 
 ---
 
 ### Access & Contact
-Private links and full documentation are available upon request for researchers and collaborators.
+Private repositories (🔴) are available upon request for researchers and collaborators.
+Experimental work (⚫) is not currently available for external review.
 
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
 
