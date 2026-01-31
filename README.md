@@ -75,4 +75,4 @@ Private links and full documentation are available upon request for researchers 
 
 Selected thought fragments and systems observations that informed these architectures are occasionally shared here:
 
-[Linkedin Leena Thomas](https://www.linkedin.com/in/leena-t-4895a315b/)
+[Linkedin](https://www.linkedin.com/in/leena-t-4895a315b/)
