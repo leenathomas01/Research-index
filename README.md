@@ -74,4 +74,5 @@ Private links and full documentation are available upon request for researchers 
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
 
 Selected thought fragments and systems observations that informed these architectures are occasionally shared here:
+
 [Linkedin Leena Thomas](https://www.linkedin.com/in/leena-t-4895a315b/)
