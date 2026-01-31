@@ -67,7 +67,7 @@ This work approaches AI safety through system stability, memory behavior, and go
   * **Target:** February 2026.
  
 ## VIII. Experimental & Speculative Work
-⚫ Explorations spanning speculative architectures, edge-case failure modes, and early-stage research directions. These are not currently available for external review.
+⚫ Status: Several exploratory threads spanning speculative architectures, unconventional system models, and high-risk research directions. These are not currently available for external review.
 
 ---
 
