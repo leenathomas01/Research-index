@@ -71,6 +71,10 @@ This work approaches AI safety through system stability, memory behavior, and go
 
 ---
 
+**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect the underlying architectural themes.
+
+---
+
 ### Access & Contact
 Private repositories (🔴) are available upon request for researchers and collaborators.
 
