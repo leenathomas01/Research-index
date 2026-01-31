@@ -68,7 +68,7 @@ This work approaches AI safety not from model capability, but from system stabil
  
 ## VIII. Experimental & Speculative Work
 
-⚫ Status: Several explorations spanning speculative architectures and high-risk research directions. These are not currently available for external review.
+⚫ Several explorations spanning speculative architectures and high-risk research directions. These are not currently available for external review.
 
 ---
 
