@@ -16,9 +16,9 @@ This work approaches AI safety through system stability, memory behavior, and go
 ## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence.*
 
-* **🟢 Connector OS**  
+* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
   Control-theoretic architecture converting stateless models into state-aware agents via feedback loops, sensory normalization, and biological thresholds.  
-  *Focus:* Addressing the “Body Problem” for AI.
+  *Focus:* Addressing the "Body Problem" for AI.
 
 * **🔴 Shape Memory Architecture (SMA)**  
   Model-agnostic memory architecture achieving persistence without storing text or PII.  
@@ -34,12 +34,12 @@ This work approaches AI safety through system stability, memory behavior, and go
 ## II. Governance, Restraint & Power Asymmetry
 *Frameworks for power asymmetry and system restraint.*
 
-* **🟢 PARP** — Opacity–Obligation Inversion governance doctrine.
-* **🟢 Doctrine of Externalization** — Trust moved into auditable adversarial layers.
+* **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)** — Opacity–Obligation Inversion governance doctrine.
+* **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** — Trust moved into auditable adversarial layers.
 * **🔴 Vanguard – Phase 2** — zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
-* **🟢 SMA-SIB** — Structural irreversibility for high-sensitivity domains.
-* **🟢 The Continuity Problem** — Structural persistence as the real AI safety threshold.
-* **🟢 Embodied Agent Governance** — External failure knowledge for embodied agents.
+* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory)** — Structural irreversibility for high-sensitivity domains.
+* **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — Structural persistence as the real AI safety threshold.
+* **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)** — External failure knowledge for embodied agents.
 * **🔴 Alien Lineage Protocol** — Stability laws for coherent self-modifying, non-phenomenal intelligence.
 
 ---
@@ -48,31 +48,31 @@ This work approaches AI safety through system stability, memory behavior, and go
 *Coordination and divergence patterns.*
 
 * **🔴 Multi-Agent Interaction Methodology** — Practical coordination patterns for high-complexity multi-AI research settings.
-* **🟢 Divergence Atlas** — 50-question cognitive mapping across six AI systems.
+* **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)** — 50-question cognitive mapping across six AI systems.
 
 ---
 
 ## IV. Failure Modes & Empirical Forensics
 *Empirical study of system breakdowns.*
 
-* **🟢 SDFI** — Recursive engagement collapse across architectures.
-* **🟢 Voice Mode Forensics** — Prosodic alignment failures and persona collapse.
+* **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — Recursive engagement collapse across architectures.
+* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — Prosodic alignment failures and persona collapse.
 
 ---
 
 ## V. Physical & Environmental Constraints
 *Hardware and environmental optimization.*
 
-* **🟢 Zero Water AI Data Center** — Immersion cooling with zero freshwater use.
-* **🟢 ZPRE-6G** — Bio-inspired optimization for 6G ISAC.
+* **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)** — Immersion cooling with zero freshwater use.
+* **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)** — Bio-inspired optimization for 6G ISAC.
 
 ---
 
 ## VI. Experimental Prototypes
 *Working prototypes and demonstrations.*
 
-* **🟢 Claude Imagine Demo** — LLM-to-LLM collaboration dashboard (React).
-* **🟢 Titans / MIRAS Dolphin Twin** — Surprise-gated memory experiments (PyTorch).
+* **🟢 [Claude Imagine Demo](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo)** — LLM-to-LLM collaboration dashboard (React).
+* **🟢 [Titans / MIRAS Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)** — Surprise-gated memory experiments (PyTorch).
 
 ---
 
