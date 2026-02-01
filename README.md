@@ -37,7 +37,7 @@ This work approaches AI safety through system stability, memory behavior, and go
 * **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)** — Opacity–Obligation Inversion governance doctrine.
 * **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** — Trust moved into auditable adversarial layers.
 * **🔴 Vanguard – Phase 2** — zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
-* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory)** — Structural irreversibility for high-sensitivity domains.
+* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — Structural irreversibility for high-sensitivity domains.
 * **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — Structural persistence as the real AI safety threshold.
 * **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)** — External failure knowledge for embodied agents.
 * **🔴 Alien Lineage Protocol** — Stability laws for coherent self-modifying, non-phenomenal intelligence.
