@@ -10,15 +10,23 @@ This work approaches AI safety through system stability, memory behavior, and go
 
 ### How to Read This Index
 
-These repositories are primarily conceptual and architectural references rather than deployable software projects. They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes. 
+These repositories are primarily conceptual and architectural references rather than deployable software projects. They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
 
 Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
 
 ---
 
-
 ### Status Legend
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
+
+---
+
+## 0. Research Methodology
+*How these explorations were produced.*
+
+* **🔴 Bounded Fictional Analysis**  
+  A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
+  *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
 ---
 
@@ -31,9 +39,9 @@ Many entries document architectural patterns, system behaviors, and design princ
 
 * **🔴 Shape Memory Architecture (SMA)**  
   Model-agnostic memory architecture achieving persistence without storing text or PII.  
-  * No linguistic storage (reconstruction, not retrieval).  
-  * Continuity across model versions.  
-  * Deterministic deletion via destruction of discrete memory units.
+  * No linguistic storage (reconstruction, not retrieval)  
+  * Continuity across model versions  
+  * Deterministic deletion via destruction of discrete memory units
 
 * **🔴 Semantic Capsule Protocol (SCP)**  
   Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
