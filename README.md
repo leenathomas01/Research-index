@@ -108,7 +108,7 @@ These works focus on documenting observed behavioral phenomena for the purpose o
   *Status:* Architecturally specified; shared selectively.
 
 * **🔴 Confluence Architecture**  
-  Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight.
+  Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight. This is a theoretical system architecture that instantiates the principles of the Doctrine of Externalization.
 
 ---
 
