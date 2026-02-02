@@ -125,7 +125,7 @@ These works focus on documenting observed behavioral phenomena for the purpose o
 
 ---
 
-**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect underlying architectural relationships.
+**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships.
 
 ---
 
