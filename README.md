@@ -21,15 +21,6 @@ Many entries document architectural patterns, system behaviors, and design princ
 
 ---
 
-## 0. Research Methodology
-*How these explorations were produced.*
-
-* **🔴 Bounded Fictional Analysis**  
-  A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
-  *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
-
----
-
 ## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence.*
 
@@ -111,6 +102,14 @@ Many entries document architectural patterns, system behaviors, and design princ
 ---
 
 **Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect underlying architectural relationships.
+
+---
+## Research Methodology
+*How these explorations were produced.*
+
+* **🔴 Bounded Fictional Analysis**  
+  A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
+  *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
 ---
 
