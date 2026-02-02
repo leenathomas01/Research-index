@@ -100,16 +100,16 @@ Many entries document architectural patterns, system behaviors, and design princ
 **⚫ Status:** Several exploratory threads spanning speculative architectures, cognitive frameworks, forensic system analysis, and high-risk research directions. These are not currently available for external review.
 
 ---
-
-**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect underlying architectural relationships.
-
----
 ## IX. Research Methodology
 *How some of these explorations were produced.*
 
 * **🔴 Bounded Fictional Analysis**  
   A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
   *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
+
+---
+
+**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect underlying architectural relationships.
 
 ---
 
