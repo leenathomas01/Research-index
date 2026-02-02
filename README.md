@@ -67,7 +67,8 @@ Many entries document architectural patterns, system behaviors, and design princ
 * **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — Prosodic alignment failures and persona collapse.
 
 
-_Additional Observational Case Studies (restricted reference)_
+**_Additional Observational Case Studies (restricted reference)_**
+
 The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems.  
 They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
 
