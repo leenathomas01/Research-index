@@ -8,6 +8,15 @@ This work approaches AI safety through system stability, memory behavior, and go
 
 ---
 
+### How to Read This Index
+
+These repositories are primarily conceptual and architectural references rather than deployable software projects. They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes. 
+
+Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
+
+---
+
+
 ### Status Legend
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
 
