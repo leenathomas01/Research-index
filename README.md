@@ -104,8 +104,8 @@ Many entries document architectural patterns, system behaviors, and design princ
 **Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, or connected to newer work over time to better reflect underlying architectural relationships.
 
 ---
-## Research Methodology
-*How these explorations were produced.*
+## IX. Research Methodology
+*How some of these explorations were produced.*
 
 * **🔴 Bounded Fictional Analysis**  
   A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
