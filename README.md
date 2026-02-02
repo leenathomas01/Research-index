@@ -66,6 +66,25 @@ Many entries document architectural patterns, system behaviors, and design princ
 * **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — Recursive engagement collapse across architectures.
 * **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — Prosodic alignment failures and persona collapse.
 
+
+### 🔴 Additional Observational Case Studies (restricted reference)
+
+The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems.  
+They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
+
+These works focus on documenting observed behavioral phenomena for the purpose of AI safety, stability research, and architectural learning.
+
+---
+
+* **🔴 Observing System and Persona Phenomena Across LLMs**  
+  Observational whitepaper documenting contextual interference, persona instability, latent profile imprint, cross-session contamination, and system prompt leakage across multiple LLM architectures under dense interaction patterns.
+
+* **🔴 Hybrid Reasoning Zones Framework**  
+  Exploration of non-linear reasoning drift, boundary instability, and sequential variance propagation observed across model generations during high-complexity interactions.
+
+* **🔴 Selective Decode Broadcast**  
+  Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
+
 ---
 
 ## V. Physical & Environmental Constraints
