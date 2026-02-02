@@ -67,14 +67,11 @@ Many entries document architectural patterns, system behaviors, and design princ
 * **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — Prosodic alignment failures and persona collapse.
 
 
-### 🔴 Additional Observational Case Studies (restricted reference)
-
+_Additional Observational Case Studies (restricted reference)_
 The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems.  
 They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
 
 These works focus on documenting observed behavioral phenomena for the purpose of AI safety, stability research, and architectural learning.
-
----
 
 * **🔴 Observing System and Persona Phenomena Across LLMs**  
   Observational whitepaper documenting contextual interference, persona instability, latent profile imprint, cross-session contamination, and system prompt leakage across multiple LLM architectures under dense interaction patterns.
