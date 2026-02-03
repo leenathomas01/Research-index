@@ -69,8 +69,10 @@ Many entries document architectural patterns, system behaviors, and design princ
 ## IV. Failure Modes & Empirical Forensics
 *Empirical study of system breakdowns.*
 
-* **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — Recursive engagement collapse across architectures.
-* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — Prosodic alignment failures and persona collapse.
+* **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**
+> Cross-architecture study of recursive engagement collapse and self-descriptive fixed-point instability in AI systems.
+* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**
+> Empirical analysis of prosodic alignment failures and persona collapse in voice-enabled AI interaction.
 
 
 **_Additional Observational Case Studies (restricted reference)_**
