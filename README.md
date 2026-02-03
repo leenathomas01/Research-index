@@ -30,10 +30,7 @@ Many entries document architectural patterns, system behaviors, and design princ
   *Focus:* Addressing the "Body Problem" for AI.
   
 * **🔴 Shape Memory Architecture (SMA)**  
-  Model-agnostic memory architecture achieving persistence without storing text or PII.  
-  * No linguistic storage (reconstruction, not retrieval)  
-  * Continuity across model versions  
-  * Deterministic deletion via destruction of discrete memory units
+  Model-agnostic memory architecture enabling persistence without storing text, embeddings, or personally identifiable information.
 
 * **🔴 Semantic Capsule Protocol (SCP)**  
   Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
@@ -43,7 +40,9 @@ Many entries document architectural patterns, system behaviors, and design princ
 ## II. Governance, Restraint & Power Asymmetry
 *Frameworks for power asymmetry and system restraint.*
 
-* **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)** — Opacity–Obligation Inversion governance doctrine.
+* **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**
+    Governance doctrine for AI systems based on opacity–obligation inversion, auditability, and power asymmetry restraint.
+   
 * **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** — Trust moved into auditable adversarial layers.
 * **🔴 Vanguard – Phase 2** — zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
 * **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — Structural irreversibility for high-sensitivity domains.
