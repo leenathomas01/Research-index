@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9317cbd3-c32c-4c1a-bf4e-dfd5280d1b00" /># Research Index
+# Research Index
 
 ### Purpose
 
