@@ -25,9 +25,7 @@ Many entries document architectural patterns, system behaviors, and design princ
 *Foundational architectures for coherent intelligence.*
 
 * **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
-  Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
-
-  *Focus:* Addressing the "Body Problem" for AI.
+ > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
   
 * **🔴 Shape Memory Architecture (SMA)**  
  > Model-agnostic memory architecture enabling persistence without storing text, embeddings, or personally identifiable information.
