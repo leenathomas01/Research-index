@@ -41,20 +41,28 @@ Many entries document architectural patterns, system behaviors, and design princ
 * **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**
     > Governance doctrine for AI systems based on opacity–obligation inversion, auditability, and power asymmetry restraint.
    
-* **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** — Trust moved into auditable adversarial layers.
-* **🔴 Vanguard – Phase 2** — zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
-* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — Structural irreversibility for high-sensitivity domains.
-* **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — Structural persistence as the real AI safety threshold.
-* **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)** — External failure knowledge for embodied agents.
-* **🔴 Alien Lineage Protocol** — Stability laws for coherent self-modifying, non-phenomenal intelligence.
+* **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** 
+> AI trust architecture that moves safety guarantees into auditable, adversarial external layers.
+* **🔴 Vanguard – Phase 2**
+> zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
+* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**
+> Irreversible semantic memory structure for high-sensitivity AI systems requiring deterministic deletion and non-retrievability.
+* **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**
+> Examination of structural persistence as the true safety threshold for advanced AI systems.
+* **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
+> Governance framework for embodied AI using externalized failure knowledge and environmental constraints.
+* **🔴 Alien Lineage Protocol**
+> Stability laws for coherent self-modifying, non-phenomenal intelligence.
 
 ---
 
 ## III. Multi-Agent Dynamics & System Interaction
 *Coordination and divergence patterns.*
 
-* **🔴 Multi-Agent Interaction Methodology** — Practical coordination patterns for high-complexity multi-AI research settings.
-* **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)** — 50-question cognitive mapping across six AI systems.
+* **🔴 Multi-Agent Interaction Methodology**
+> Practical coordination patterns for high-complexity multi-AI research settings.
+* **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)**
+> Comparative cognitive mapping of multiple AI systems using structured questioning across architectures. 50-question cognitive mapping across six AI systems.
 
 ---
 
