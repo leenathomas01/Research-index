@@ -25,13 +25,13 @@ Many entries document architectural patterns, system behaviors, and design princ
 *Foundational architectures for coherent intelligence.*
 
 * **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
- > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
+> Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
   
 * **🔴 Shape Memory Architecture (SMA)**  
- > Model-agnostic memory architecture enabling persistence without storing text, embeddings, or personally identifiable information.
+> Model-agnostic memory architecture enabling persistence without storing text, embeddings, or personally identifiable information.
 
 * **🔴 Semantic Capsule Protocol (SCP)**  
-  > Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
+> Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
 
 ---
 
@@ -39,7 +39,7 @@ Many entries document architectural patterns, system behaviors, and design princ
 *Frameworks for power asymmetry and system restraint.*
 
 * **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**
-    > Governance doctrine for AI systems based on opacity–obligation inversion, auditability, and power asymmetry restraint.
+> Governance doctrine for AI systems based on opacity–obligation inversion, auditability, and power asymmetry restraint.
    
 * **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** 
 > AI trust architecture that moves safety guarantees into auditable, adversarial external layers.
@@ -86,7 +86,7 @@ The following repositories document sensitive empirical observations made during
 > Exploration of non-linear reasoning drift, boundary instability, and sequential variance propagation observed across model generations during high-complexity interactions.
 
 * **🔴 Selective Decode Broadcast**  
- > Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
+> Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
 
 ---
 
@@ -114,10 +114,10 @@ The following repositories document sensitive empirical observations made during
 *Advanced architectures with restricted distribution.*
 
 * **🔴 IVSA — Interference-Based Volumetric Storage Architecture**  
-  > Signal-centric, post-silicon storage architecture replacing address-based memory locality with volumetric interference patterns.  
+> Signal-centric, post-silicon storage architecture replacing address-based memory locality with volumetric interference patterns.  
   
 * **🔴 Confluence Architecture**  
- > Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight.
+> Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight.
 _This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
 
 ---
@@ -130,7 +130,7 @@ _This theoretical system architecture instantiates the principles of the Doctrin
 *How some of these explorations were produced.*
 
 * **🔴 Bounded Fictional Analysis**  
-  A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
+> A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
   *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
 ---
