@@ -1,4 +1,4 @@
-# Research Index
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9317cbd3-c32c-4c1a-bf4e-dfd5280d1b00" /># Research Index
 
 ### Purpose
 
@@ -77,34 +77,36 @@ Many entries document architectural patterns, system behaviors, and design princ
 
 **_Additional Observational Case Studies (restricted reference)_**
 
-The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems. They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
-
-These works focus on documenting observed behavioral phenomena for the purpose of AI safety, stability research, and architectural learning.
+The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems. They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context. These works focus on documenting observed behavioral phenomena for the purpose of AI safety, stability research, and architectural learning.
 
 * **🔴 Observing System and Persona Phenomena Across LLMs**  
-  Observational whitepaper documenting contextual interference, persona instability, latent profile imprint, cross-session contamination, and system prompt leakage across multiple LLM architectures under dense interaction patterns.
+> Observational whitepaper documenting contextual interference, persona instability, latent profile imprint, cross-session contamination, and system prompt leakage across multiple LLM architectures under dense interaction patterns.
 
 * **🔴 Hybrid Reasoning Zones Framework**  
-  Exploration of non-linear reasoning drift, boundary instability, and sequential variance propagation observed across model generations during high-complexity interactions.
+> Exploration of non-linear reasoning drift, boundary instability, and sequential variance propagation observed across model generations during high-complexity interactions.
 
 * **🔴 Selective Decode Broadcast**  
-  Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
+ > Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
 
 ---
 
 ## V. Physical & Environmental Constraints
 *Hardware and environmental optimization.*
 
-* **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)** — Immersion cooling with zero freshwater use.
-* **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)** — Bio-inspired optimization for 6G ISAC.
+* **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**
+> Sustainable AI data center design using immersion cooling with zero freshwater consumption.
+* **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
+> Bio-inspired optimization framework for 6G Integrated Sensing and Communication (ISAC) systems.
 
 ---
 
 ## VI. Experimental Prototypes
 *Working prototypes and demonstrations.*
 
-* **🟢 [Claude Imagine Demo](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo)** — LLM-to-LLM collaboration dashboard (React).
-* **🟢 [Titans / MIRAS Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)** — Surprise-gated memory experiments (PyTorch).
+* **🟢 [Claude Imagine Demo](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo)**
+> React dashboard demonstrating real-time LLM-to-LLM collaboration and multi-agent interaction patterns.
+* **🟢 [Titans / MIRAS Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)**
+> PyTorch experiments exploring surprise-gated memory formation in artificial agents.
 
 ---
 
@@ -112,11 +114,11 @@ These works focus on documenting observed behavioral phenomena for the purpose o
 *Advanced architectures with restricted distribution.*
 
 * **🔴 IVSA — Interference-Based Volumetric Storage Architecture**  
-  Signal-centric, post-silicon storage architecture replacing address-based cell locality.  
-  *Status:* Architecturally specified; shared selectively.
-
+  > Signal-centric, post-silicon storage architecture replacing address-based memory locality with volumetric interference patterns.  
+  
 * **🔴 Confluence Architecture**  
-  Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight. This is a theoretical system architecture that instantiates the principles of the Doctrine of Externalization.
+ > Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight.
+_This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
 
 ---
 
