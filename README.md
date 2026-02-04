@@ -2,19 +2,12 @@
 
 ### Purpose
 
-This work approaches AI safety through system stability, memory behavior, and governance under power asymmetry, rather than model capability alone.
+This work approaches the repos on AI safety through system stability, memory behavior, and governance under power asymmetry, rather than model capability alone.
 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
 ---
 
-### How to Read This Index
-
-These repositories are primarily conceptual and architectural references rather than deployable software projects. They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
-
-Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
-
----
 
 ### Status Legend
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
@@ -129,13 +122,17 @@ _This theoretical system architecture instantiates the principles of the Doctrin
 ## IX. Research Methodology
 *How some of these explorations were produced.*
 
-* **🔴 Bounded Fictional Analysis**  
+* **🟢 Bounded Fictional Analysis**  
 > A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
   *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
 ---
 
 **Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships.
+
+> These repositories are primarily conceptual and architectural references rather than deployable software projects. They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
+> 
+> Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
 
 ---
 
