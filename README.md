@@ -128,8 +128,9 @@ _This theoretical system architecture instantiates the principles of the Doctrin
 
 ---
 
-**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships. These repositories are primarily conceptual and architectural references rather than deployable software projects. 
-They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
+**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships. 
+> Note on AI related repos: These repositories are primarily conceptual and architectural references rather than deployable software projects. 
+> They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
 > 
 > Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
 
