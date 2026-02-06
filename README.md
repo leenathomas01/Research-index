@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This body of work examines **system stability, memory behavior, and governance under power asymmetry** across complex systems — especially where intelligence, infrastructure, and physical constraints intersect.
+This body of work examines **system stability, memory behavior, and governance under power asymmetry** across complex systems - especially where intelligence, infrastructure, and physical constraints intersect.
 
 Rather than focusing on model capability alone, these repositories explore how constraints, feedback loops, environment, and architecture determine whether advanced systems remain coherent over time.
 
