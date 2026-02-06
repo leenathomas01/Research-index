@@ -2,12 +2,13 @@
 
 ### Purpose
 
-This work approaches the repos on AI safety through system stability, memory behavior, and governance under power asymmetry, rather than model capability alone.
+This body of work examines **system stability, memory behavior, and governance under power asymmetry** across complex systems — especially where intelligence, infrastructure, and physical constraints intersect.
+
+Rather than focusing on model capability alone, these repositories explore how constraints, feedback loops, environment, and architecture determine whether advanced systems remain coherent over time.
 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
 ---
-
 
 ### Status Legend
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
@@ -15,7 +16,7 @@ This work approaches the repos on AI safety through system stability, memory beh
 ---
 
 ## I. Cognitive Architecture & State Control
-*Foundational architectures for coherent intelligence.*
+*Foundational architectures for coherent intelligence and stateful systems.*
 
 * **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
 > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
@@ -29,110 +30,127 @@ This work approaches the repos on AI safety through system stability, memory beh
 ---
 
 ## II. Governance, Restraint & Power Asymmetry
-*Frameworks for power asymmetry and system restraint.*
+*Frameworks for system restraint and architectural governance.*
 
 * **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**
-> Governance doctrine for AI systems based on opacity–obligation inversion, auditability, and power asymmetry restraint.
+> Governance doctrine based on opacity–obligation inversion, auditability, and power asymmetry restraint.
    
 * **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** 
-> AI trust architecture that moves safety guarantees into auditable, adversarial external layers.
+> Trust architecture that moves safety guarantees into auditable, adversarial external layers.
+
 * **🔴 Vanguard – Phase 2**
-> zk-SNARK–based framework for verifiable consent and audit-grade AI sovereignty.
+> zk-SNARK–based framework for verifiable consent and audit-grade sovereignty.
+
 * **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**
-> Irreversible semantic memory structure for high-sensitivity AI systems requiring deterministic deletion and non-retrievability.
+> Irreversible semantic memory structure requiring deterministic deletion and non-retrievability.
+
 * **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**
-> Examination of structural persistence as the true safety threshold for advanced AI systems.
+> Examination of structural persistence as the true safety threshold for advanced systems.
+
 * **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
-> Governance framework for embodied AI using externalized failure knowledge and environmental constraints.
+> Governance framework for systems operating in imperfect physical environments using externalized failure knowledge.
+
 * **🔴 Alien Lineage Protocol**
 > Stability laws for coherent self-modifying, non-phenomenal intelligence.
 
 ---
 
 ## III. Multi-Agent Dynamics & System Interaction
-*Coordination and divergence patterns.*
+*Coordination, divergence, and cross-system reasoning patterns.*
 
 * **🔴 Multi-Agent Interaction Methodology**
-> Practical coordination patterns for high-complexity multi-AI research settings.
+> Practical coordination patterns for high-complexity multi-system research settings.
+
 * **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)**
-> Comparative cognitive mapping of multiple AI systems using structured questioning across architectures. 50-question cognitive mapping across six AI systems.
+> Comparative cognitive mapping across AI architectures using structured questioning.
 
 ---
 
 ## IV. Failure Modes & Empirical Forensics
-*Empirical study of system breakdowns.*
+*Forensic study of instability patterns in interactive intelligent systems under sustained complexity.*
 
 * **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**
-> Cross-architecture study of recursive engagement collapse and self-descriptive fixed-point instability in AI systems.
-* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**
-> Empirical analysis of prosodic alignment failures and persona collapse in voice-enabled AI interaction.
+> Cross-architecture investigation of recursive engagement collapse and fixed-point instability observed during prolonged human–AI interaction.
 
+* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**
+> Empirical analysis of prosodic alignment failures and persona drift in voice-mediated interaction systems.
 
 **_Additional Observational Case Studies (restricted reference)_**
 
-The following repositories document sensitive empirical observations made during prolonged, high-complexity interactions with multiple LLM systems. They are classified as private references due to responsible disclosure considerations and the risk of misinterpretation outside research context. These works focus on documenting observed behavioral phenomena for the purpose of AI safety, stability research, and architectural learning.
+These private works document observed instability phenomena that emerged during extended, high-complexity interaction with multiple large-scale intelligent systems.
+
+They are preserved as restricted references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
+
+The focus of these works is not model critique, but architectural learning from real-world system behavior under stress conditions.
 
 * **🔴 Observing System and Persona Phenomena Across LLMs**  
-> Observational whitepaper documenting contextual interference, persona instability, latent profile imprint, cross-session contamination, and system prompt leakage across multiple LLM architectures under dense interaction patterns.
+> Documentation of contextual interference, persona drift, cross-session state contamination, and prompt boundary leakage observed under dense interaction patterns.
 
 * **🔴 Hybrid Reasoning Zones Framework**  
-> Exploration of non-linear reasoning drift, boundary instability, and sequential variance propagation observed across model generations during high-complexity interactions.
+> Study of non-linear reasoning drift, boundary instability, and sequential variance propagation across model generations.
 
 * **🔴 Selective Decode Broadcast**  
-> Thought-experiment and phased validation exploring per-recipient containment, adversarial quarantine, and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
+> Exploration of per-recipient containment and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
 
 ---
 
 ## V. Physical & Environmental Constraints
-*Hardware and environmental optimization.*
+*Where infrastructure, hardware, and environment shape system behavior.*
 
 * **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**
-> Sustainable AI data center design using immersion cooling with zero freshwater consumption.
+> Closed-loop thermal architecture treating heat as a first-class system output.
+
 * **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
-> Bio-inspired optimization framework for 6G Integrated Sensing and Communication (ISAC) systems.
+> Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
 ---
 
 ## VI. Experimental Prototypes
-*Working prototypes and demonstrations.*
+*Working demonstrations and live explorations.*
 
 * **🟢 [Claude Imagine Demo](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo)**
-> React dashboard demonstrating real-time LLM-to-LLM collaboration and multi-agent interaction patterns.
+> Real-time LLM-to-LLM interaction dashboard.
+
 * **🟢 [Titans / MIRAS Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)**
-> PyTorch experiments exploring surprise-gated memory formation in artificial agents.
+> Experiments exploring surprise-gated memory formation in artificial agents.
 
 ---
 
 ## VII. Forward & Systems Architectures
-*Advanced architectures with restricted distribution.*
+*Advanced and experimental architectures.*
 
 * **🔴 IVSA — Interference-Based Volumetric Storage Architecture**  
-> Signal-centric, post-silicon storage architecture replacing address-based memory locality with volumetric interference patterns.  
-  
+> Signal-centric storage model replacing address locality with volumetric interference fields.
+
 * **🔴 Confluence Architecture**  
-> Interpretable distributed AI architecture with explicit trust, temporal orchestration, and ethical oversight.
-_This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
+> Interpretable distributed architecture with explicit trust, temporal orchestration, and oversight.  
+> _This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
 
 ---
 
 ## VIII. Experimental & Speculative Work
-**⚫ Status:** Several exploratory threads spanning speculative architectures, cognitive frameworks, forensic system analysis, and high-risk research directions. These are not currently available for external review.
+**⚫ Status:** Several exploratory threads spanning speculative architectures, forensic system analysis, and high-risk research directions. These are not currently available for external review.
 
 ---
+
 ## IX. Research Methodology
-*How some of these explorations were produced.*
+*How many of these explorations were produced.*
 
 * **🟢 Bounded Fictional Analysis**  
-> A methodological framework for studying system dependency and non-reversible transformations through carefully constructed fictional scenarios.  
+> A methodological framework for studying system dependency and non-reversible transformations through controlled fictional scenarios.  
   *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
 ---
 
-**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships. 
-> Note on AI related repos: These repositories are primarily conceptual and architectural references rather than deployable software projects. 
-> They are intended to be read, examined, and used as mental models for reasoning about AI systems, memory behavior, governance, and failure modes.
-> 
-> Many entries document architectural patterns, system behaviors, and design principles that emerged through exploratory multi-model research rather than traditional implementation pipelines.
+### Note
+
+These repositories are primarily **architectural and conceptual references**, intended to be read as **mental models for reasoning about complex, stateful systems**, memory behavior, governance, infrastructure, and failure modes.
+
+They are not presented as deployable software projects, but as **maps of structural observations** gathered through multi-model, multi-domain exploration.
+
+---
+
+**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships.
 
 ---
 
