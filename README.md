@@ -161,7 +161,7 @@ They are not presented as deployable software projects, but as **maps of structu
 > 
 > Initial repo commits done for README.md, methodology/01-paci-protocol.md
 > 
-> Planned files: 00-why-this-matters.md, role architecture, the case study
+> Planned files: 00-why-this-matters.md, role architecture,  case study (a physics case study where a falsifiable hypothesis about emergent spacetime properties was rigorously tested and cleanly falsified.)
 
 ---
 
