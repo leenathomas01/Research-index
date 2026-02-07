@@ -1,4 +1,5 @@
 # Research Index
+> This repository functions as a navigational map to a body of interconnected research across AI systems, governance, memory architectures, and infrastructure constraints.
 
 ### Purpose
 
