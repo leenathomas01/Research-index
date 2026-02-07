@@ -150,7 +150,16 @@ They are not presented as deployable software projects, but as **maps of structu
 
 ---
 
-**Note:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships.
+**Important:** This index is updated retrospectively as work evolves. Earlier repositories may be reorganized, reclassified, deleted, made private, or connected to newer work over time to better reflect underlying architectural relationships.
+
+---
+
+## Ongoing Repos
+
+🟡 **Phase-Aligned Inquiry**
+> A research protocol for falsifiable multi-agent inquiry that prevents confirmation bias through role separation, sequence enforcement, and pre-committed falsification criteria (PACI).
+> Initial repo commits done for README.md, methodology/01-paci-protocol.md
+> Planned files: 00-why-this-matters.md, role architecture, the case study
 
 ---
 
