@@ -145,7 +145,9 @@ The focus of these works is not model critique, but architectural learning from 
 
 * **🟢 [Designing for Failure — Systems Thinking Case Study](https://github.com/leenathomas01/designing-for-failure-case-study)**
 > A QA-led systems thought experiment demonstrating failure-first architectural reasoning.
+> 
 > This case study follows a hypothetical extreme environmental scenario - assuming simultaneous failure of environment, infrastructure, user behavior, and trust - to expose hidden dependencies and derive architectural requirements.
+> 
 > Applicable to AI safety, reliability engineering, trust architecture, and systemic resilience design.
  
 
