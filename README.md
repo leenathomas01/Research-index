@@ -137,7 +137,7 @@ The focus of these works is not model critique, but architectural learning from 
 ## IX. Research Methodology
 *How many of these explorations were produced.*
 
-* **🟢 Bounded Fictional Analysis**  
+* **🟢 [Bounded Fictional Analysis](https://github.com/leenathomas01/Bounded-Fictional-Analysis)**  
 > A methodological framework for studying system dependency and non-reversible transformations through controlled fictional scenarios.  
   *Focus:* Isolating dynamics that are too entangled, gradual, or ethically constrained to study directly in real systems.
 
