@@ -131,6 +131,7 @@ The focus of these works is not model critique, but architectural learning from 
 
 ## VIII. Experimental & Speculative Work
 **⚫ Status:** Several exploratory threads spanning speculative architectures, forensic system analysis, and high-risk research directions. These are not currently available for external review.
+These threads often explore how noise, interference, and environmental constraints may themselves function as computational substrates rather than obstacles.
 
 ---
 
