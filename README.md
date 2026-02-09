@@ -150,7 +150,7 @@ The focus of these works is not model critique, but architectural learning from 
 > 
 > Applicable to AI safety, reliability engineering, trust architecture, and systemic resilience design.
  
-* **🟡 Phase-Aligned Inquiry**
+* **🟡 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
 > A research protocol for falsifiable multi-agent inquiry that prevents confirmation bias through role separation, sequence enforcement, and pre-committed falsification criteria (PACI).
 > 
 > Initial repo commits done for README.md, methodology/01-paci-protocol.md
