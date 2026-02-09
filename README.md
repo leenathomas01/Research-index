@@ -154,7 +154,9 @@ The focus of these works is not model critique, but architectural learning from 
 > A research protocol for falsifiable multi-agent inquiry that prevents confirmation bias through role separation, sequence enforcement, and pre-committed falsification criteria (PACI).
 > 
 > Initial repo commits done for README.md, methodology/01-paci-protocol.md, 00-why-this-matters.md, 02-role-architecture.md, 03-sequence-discipline.md
+> 
 > Ongoing: Case Study documenting a multi-AI adversarial research protocol that successfully falsified a speculative physics theory
+> 
 > (The HQG hypothesis explores whether spacetime geometry (gravity) is not a fundamental background, but an emergent consequence of quantum information dynamics. Specifically, it looks at the tension between quantum entanglement (JJ J) and quantum entropy (γ\gamma γ) within a helical qubit lattice)
  
 ---
