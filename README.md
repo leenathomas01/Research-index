@@ -123,8 +123,10 @@ The focus of these works is not model critique, but architectural learning from 
 * **🔴 IVSA — Interference-Based Volumetric Storage Architecture**  
 > Signal-centric storage model replacing address locality with volumetric interference fields.
 > 
-> Core Paradigm Shift: 
+> Core Paradigm Shift:
+> 
 > Traditional storage: Address → Cell → Bit
+> 
 > IVSA: Spectrum → Interference Field → Correlation Recovery
 > 
 > Primary Integrity Metric: Correlation Coherence (γ) replaces Bit Error Rate (BER)
