@@ -90,12 +90,11 @@ Rather than focusing on model capability alone, these repositories explore how c
 > Empirical analysis of prosodic alignment failures and persona drift in voice-mediated interaction systems.
 
 **_Additional Observational Case Studies (restricted reference)_**
-
-These private works document observed instability phenomena that emerged during extended, high-complexity interaction with multiple large-scale intelligent systems.
-
-They are preserved as restricted references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
-
-The focus of these works is not model critique, but architectural learning from real-world system behavior under stress conditions.
+> These private works document observed instability phenomena that emerged during extended, high-complexity interaction with multiple large-scale intelligent systems.
+>
+> They are preserved as restricted references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
+>
+> The focus of these works is not model critique, but architectural learning from real-world system behavior under stress conditions.
 
 * **🔴 Observing System and Persona Phenomena Across LLMs**  
 > Documentation of contextual interference, persona drift, cross-session state contamination, and prompt boundary leakage observed under dense interaction patterns.
