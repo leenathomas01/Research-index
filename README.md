@@ -27,6 +27,13 @@ Rather than focusing on model capability alone, these repositories explore how c
 
 * **🔴 Semantic Capsule Protocol (SCP)**  
 > Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
+> 
+> SCP enables systems to:
+> 
+> - Store semantic constraints without text
+> - Share topology without content
+> - Delete completely without traces
+
 
 ---
 
