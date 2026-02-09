@@ -157,7 +157,11 @@ The focus of these works is not model critique, but architectural learning from 
 > 
 > Ongoing: Case Study documenting a multi-AI adversarial research protocol that successfully falsified a speculative physics theory
 > 
-> (The HQG hypothesis explores whether spacetime geometry (gravity) is not a fundamental background, but an emergent consequence of quantum information dynamics. Specifically, it looks at the tension between quantum entanglement (JJ J) and quantum entropy (γ\gamma γ) within a helical qubit lattice)
+> (The original hypothesis "Spacetime has an invariant causal limit analogous to the speed of light.". Falsified cleanly.
+>
+> The system does not produce an invariant causal constant.Actual behavior: The system exhibits a dissipative phase transition with critical exponent β ≈ 0.33, consistent with 3D Ising-like universality.
+>
+> Conceptual outcome: The hypothesis failed, but the failure revealed richer structure than the original claim anticipated.)
  
 ---
 
