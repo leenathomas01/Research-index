@@ -92,6 +92,15 @@ The focus of these works is not model critique, but architectural learning from 
 
 * **🔴 Selective Decode Broadcast**  
 > Exploration of per-recipient containment and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
+> 
+> Traditional broadcast assumes one of two models:
+> - Everyone receives and decodes the same content, or
+> - Broadcast is avoided in favor of multiple unicasts.
+>
+> Selective decode introduces a third option:
+> One transmission, multiple meanings — safely isolated.
+> 
+>This allows efficiency gains without sacrificing recipient sovereignty.
 
 ---
 
