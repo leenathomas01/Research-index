@@ -55,8 +55,14 @@ Rather than focusing on model capability alone, these repositories explore how c
 * **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**
 > Examination of structural persistence as the true safety threshold for advanced systems.
 
+
 * **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 > Governance framework for systems operating in imperfect physical environments using externalized failure knowledge.
+
+* **🟡 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**
+> Thought experiment: Healthcare AI architecturally incapable of creating, modifying, or storing medical records.
+> 
+> Session-bound clinical reasoning engine demonstrating governance through architectural constraint—the system cannot persist anything, by design.
 
 * **🔴 Alien Lineage Protocol**
 > 
