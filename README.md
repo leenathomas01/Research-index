@@ -9,6 +9,12 @@ Rather than focusing on model capability alone, these repositories explore how c
 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
+### How to Read This Index
+
+These repositories sit at the intersection of architectural reasoning, documentation practice, and experimental prototyping. Many are written less like traditional software projects and more like structured technical notebooks - where failure analysis, governance decisions, and systems thinking are documented alongside (and sometimes instead of) code.
+
+They are best approached as reference material for **how complex systems are reasoned about,** rather than as deployable implementations.
+
 ---
 
 ### Status Legend
@@ -71,8 +77,7 @@ Rather than focusing on model capability alone, these repositories explore how c
 > ✅ Designed for coherent self-modification
 > ✅ Applicable to AI, markets, swarms, civilizations
 > 
-> LAW 4 → Prevents reward hacking at meta-level → System cannot redefine failure as success
-> 
+
 ---
 
 ## III. Multi-Agent Dynamics & System Interaction
@@ -203,7 +208,7 @@ Rather than focusing on model capability alone, these repositories explore how c
 
 ### Note
 
-These repositories are primarily **architectural and conceptual references**, intended to be read as **mental models for reasoning about complex, stateful systems**, memory behavior, governance, infrastructure, and failure modes.
+These repositories are primarily **architectural and conceptual references**, intended to be read as **mental models and reasoning artifacts for complex, stateful systems**, memory behavior, governance, infrastructure, and failure modes.
 
 They are not presented as deployable software projects, but as **maps of structural observations** gathered through multi-model, multi-domain exploration.
 
