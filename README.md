@@ -191,13 +191,13 @@ Rather than focusing on model capability alone, these repositories explore how c
 > 
 > Includes case study: complete lifecycle of a falsifiable hypothesis from theoretical physics.
 > 
-> The original hypothesis (Define phase) claimed that a helical qubit lattice would produce an invariant causal propagation limit—analogous to the speed of light in relativity—emerging from the competition between quantum entanglement (J) and entropic noise (γ).
+> _The original hypothesis (Define phase) claimed that a helical qubit lattice would produce an invariant causal propagation limit—analogous to the speed of light in relativity—emerging from the competition between quantum entanglement (J) and entropic noise (γ)._
 >
-> Core prediction: At a critical threshold J_crit, the system transitions from chaotic to stable propagation. This threshold would be invariant across noise conditions (γ variation <15% drift), representing a fundamental constant of the emergent spacetime.
+> _Core prediction: At a critical threshold J_crit, the system transitions from chaotic to stable propagation. This threshold would be invariant across noise conditions (γ variation <15% drift), representing a fundamental constant of the emergent spacetime._
 >
-> Conceptual framing: The hypothesis positioned J_crit as a kinematic property—an invariant speed limit arising from substrate dynamics, independent of environmental parameters.
+> _Conceptual framing: The hypothesis positioned J_crit as a kinematic property—an invariant speed limit arising from substrate dynamics, independent of environmental parameters._
 >
-> If successful: This would demonstrate that a fundamental physical constant (analogous to c) could emerge from discrete quantum information dynamics without being imposed axiomatically.
+> _If successful: This would demonstrate that a fundamental physical constant (analogous to c) could emerge from discrete quantum information dynamics without being imposed axiomatically._
   
 ---
 
