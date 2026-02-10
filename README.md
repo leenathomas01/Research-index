@@ -188,17 +188,7 @@ Rather than focusing on model capability alone, these repositories explore how c
  
 * **🟡 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
 > A research protocol for falsifiable multi-agent inquiry that prevents confirmation bias through role separation, sequence enforcement, and pre-committed falsification criteria (PACI).
-> 
-> Initial repo commits done for README.md, methodology/01-paci-protocol.md, 00-why-this-matters.md, 02-role-architecture.md, 03-sequence-discipline.md
-> 
-> Ongoing: Case Study documenting a multi-AI adversarial research protocol that successfully falsified a speculative physics theory
-> 
-> (The original hypothesis "Spacetime has an invariant causal limit analogous to the speed of light.". Falsified cleanly.
->
-> The system does not produce an invariant causal constant.Actual behavior: The system exhibits a dissipative phase transition with critical exponent β ≈ 0.33, consistent with 3D Ising-like universality.
->
-> Conceptual outcome: The hypothesis failed, but the failure revealed richer structure than the original claim anticipated.)
- 
+  
 ---
 
 ### Note
