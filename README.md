@@ -159,13 +159,11 @@ They are best approached as reference material for **how complex systems are rea
 > 
 > IVSA: Spectrum → Interference Field → Correlation Recovery
 > 
-<img width="312" height="355" alt="image" src="https://github.com/user-attachments/assets/136b99c1-057e-4334-ace5-874208a4d179" />
 
 
 * **🔴 Confluence Architecture**  
 > Interpretable distributed architecture with explicit trust, temporal orchestration, and oversight.  
 > _This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
-<img width="285" height="443" alt="image" src="https://github.com/user-attachments/assets/28485d5f-579e-423c-a14a-48264d872bf5" />
 
 
 ---
