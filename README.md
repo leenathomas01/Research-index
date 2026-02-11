@@ -6,6 +6,7 @@
 - Added: The Consult Model
 - Updated: Connector OS details
 - Updated: Descriptions of selected private repositories
+- Planned: GII Repo
 
 
 # Research Index
