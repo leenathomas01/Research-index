@@ -140,6 +140,11 @@ They are best approached as reference material for **how complex systems are rea
 * **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
+* **⚪ Grid Inertial Interface**
+> **Core Idea:** The energy transition problem is not primarily storage.
+> 
+> It is the absence of engineered inertia as a first-class grid component.
+
 ---
 
 ## VI. Experimental Prototypes
