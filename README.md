@@ -10,13 +10,7 @@
 
 # Research Index
 > This repository functions as a navigational map to a body of interconnected research across AI systems, governance, memory architectures, and infrastructure constraints.
-
-### Purpose
-
-This body of work examines **system stability, memory behavior, and governance under power asymmetry** across complex systems - especially where intelligence, infrastructure, and physical constraints intersect.
-
-Rather than focusing on model capability alone, these repositories explore how constraints, feedback loops, environment, and architecture determine whether advanced systems remain coherent over time.
-
+> 
 > **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
 ### How to Read This Index
