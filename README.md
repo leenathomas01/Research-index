@@ -11,7 +11,7 @@
 # Research Index
 > This repository functions as a navigational map to a body of interconnected research across AI systems, governance, memory architectures, and infrastructure constraints.
 > 
-> **Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
+**Scope Note:** Some entries are public; others are private or ongoing. Inclusion does not imply deployment readiness.
 
 ### How to Read This Index
 
