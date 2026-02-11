@@ -1,3 +1,8 @@
+## Recent changes
+- Feb 2026 — Added Designing for Failure case study
+- Feb 2026 — Added Consult Model
+- Feb 2026 - Editing Connector OS 
+
 # Research Index
 > This repository functions as a navigational map to a body of interconnected research across AI systems, governance, memory architectures, and infrastructure constraints.
 
