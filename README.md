@@ -142,9 +142,9 @@ They are best approached as reference material for **how complex systems are rea
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
 * **⚪ Grid Inertial Interface**
-> **Core Idea:** The energy transition problem is not primarily storage.
-> 
+> **Core Theory:** The energy transition problem is not primarily storage.
 > It is the absence of engineered inertia as a first-class grid component.
+
 
 ---
 
