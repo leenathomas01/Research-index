@@ -2,7 +2,7 @@
 
 **Last structural update:** Feb 2026
 
-- Added: Designing for Failure — Systems Thinking Case Study
+- Added: Designing for Failure - Systems Thinking Case Study
 - Added: The Consult Model
 - Updated: Connector OS details
 - Updated: Descriptions of selected private repositories
@@ -70,7 +70,7 @@ They are best approached as reference material for **how complex systems are rea
 * **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 > Governance framework for systems operating in imperfect physical environments using externalized failure knowledge.
 
-* **🟡 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**
+* **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**
 > Thought experiment: Healthcare AI architecturally incapable of creating, modifying, or storing medical records.
 > 
 > Session-bound clinical reasoning engine demonstrating governance through architectural constraint—the system cannot persist anything, by design.
