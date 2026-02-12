@@ -120,7 +120,6 @@ Open where possible.
 Structured for critique, extension, and cross-domain analysis.
 
 ---
----
 
 ## How This Research Was Produced
 
