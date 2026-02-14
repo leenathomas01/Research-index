@@ -3,8 +3,9 @@
 **Last structural update:** Feb 2026
 
 - Added: Designing for Failure - Systems Thinking Case Study
-- Added: The Consult Model
-- Updated: Connector OS details
+- Added: The Consult Model : Repo on Healthcare AI 
+- Added: Phase-Aligned Inquiry - Research Methodology
+- Updated: Connector OS Repo details
 - Updated: Descriptions of selected private repositories
 - Planned: GII Repo
 
@@ -200,19 +201,11 @@ They are best approached as reference material for **how complex systems are rea
 > 
 > Applicable to AI safety, reliability engineering, trust architecture, and systemic resilience design.
  
-* **🟡 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
+* **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
 > A research protocol for falsifiable multi-agent inquiry that prevents confirmation bias through role separation, sequence enforcement, and pre-committed falsification criteria (PACI).
 > 
 > Includes case study: complete lifecycle of a falsifiable hypothesis from theoretical physics.
 > 
-> _The original hypothesis (Define phase) claimed that a helical qubit lattice would produce an invariant causal propagation limit—analogous to the speed of light in relativity—emerging from the competition between quantum entanglement (J) and entropic noise (γ)._
->
-> _Core prediction: At a critical threshold J_crit, the system transitions from chaotic to stable propagation. This threshold would be invariant across noise conditions (γ variation <15% drift), representing a fundamental constant of the emergent spacetime._
->
-> _Conceptual framing: The hypothesis positioned J_crit as a kinematic property—an invariant speed limit arising from substrate dynamics, independent of environmental parameters._
->
-> _If successful: This would demonstrate that a fundamental physical constant (analogous to c) could emerge from discrete quantum information dynamics without being imposed axiomatically._
-  
 ---
 
 ### Note
