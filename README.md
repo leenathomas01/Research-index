@@ -31,7 +31,7 @@ They are best approached as reference material for **how complex systems are rea
 ## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence and stateful systems.*
 
-* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
+* **🟢/🟡 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
 > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
   
 * **🔴 Shape Memory Architecture (SMA)**  
