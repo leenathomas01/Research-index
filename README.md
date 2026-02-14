@@ -5,7 +5,7 @@
 - Added: Designing for Failure - Systems Thinking Case Study
 - Added: The Consult Model : Repo on Healthcare AI 
 - Added: Phase-Aligned Inquiry - Research Methodology
-- Updated: Connector OS Repo details
+- Update (Ongoing): Connector OS Repo 
 - Updated: Descriptions of selected private repositories
 - Planned: GII Repo
 
