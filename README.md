@@ -7,7 +7,7 @@
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Update (Ongoing): Connector OS Repo 
 - Updated: Descriptions of selected private repositories
-- Planned: GII Repo
+- Planned: GII Repo, NAND Scaling Challenges and Solutions Repo, autonomy integrity / digital embodied agents (March 2026) 
 
 
 # Research Index
