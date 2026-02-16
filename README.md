@@ -6,9 +6,9 @@
 - Added: The Consult Model : Repo on Healthcare AI 
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo 
-- Updated: Deleted references of private repositories
+- Deleted: References of private repositories
 - Ongoing: IVSA - Interference-Based Volumetric Storage Architecture Repo (Expected: 1st week, March 2026)
-- Planned: GII Repo, NAND Scaling Challenges and Solutions Repo, autonomy integrity / digital embodied agents (Expected: 3rd Week, March 2026) 
+- Planned: GII Repo,  NAND flash memory related Repo, autonomy integrity / digital embodied agents (Expected: 3rd Week, March 2026) 
 
 
 # Research Index
