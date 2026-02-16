@@ -5,9 +5,10 @@
 - Added: Designing for Failure - Systems Thinking Case Study
 - Added: The Consult Model : Repo on Healthcare AI 
 - Added: Phase-Aligned Inquiry - Research Methodology
-- Update (Ongoing): Connector OS Repo 
-- Updated: Descriptions of selected private repositories
-- Planned: GII Repo, NAND Scaling Challenges and Solutions Repo, autonomy integrity / digital embodied agents (March 2026) 
+- Updated: Connector OS Repo 
+- Updated: Deleted references of private repositories
+- Ongoing: IVSA - Interference-Based Volumetric Storage Architecture Repo (Expected: 1st week, March 2026)
+- Planned: GII Repo, NAND Scaling Challenges and Solutions Repo, autonomy integrity / digital embodied agents (Expected: 3rd Week, March 2026) 
 
 
 # Research Index
@@ -31,22 +32,9 @@ They are best approached as reference material for **how complex systems are rea
 ## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence and stateful systems.*
 
-* **🟢/🟡 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
+* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
 > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
   
-* **🔴 Shape Memory Architecture (SMA)**  
-> Model-agnostic memory architecture enabling persistence without storing text, embeddings, or personally identifiable information.
-
-* **🔴 Semantic Capsule Protocol (SCP)**  
-> Minimal protocol for storing and exchanging semantic constraints without language, transcripts, or embeddings.
-> 
-> SCP enables systems to:
-> 
-> - Store semantic constraints without text
-> - Share topology without content
-> - Delete completely without traces
-
-
 ---
 
 ## II. Governance, Restraint & Power Asymmetry
@@ -58,15 +46,11 @@ They are best approached as reference material for **how complex systems are rea
 * **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** 
 > Trust architecture that moves safety guarantees into auditable, adversarial external layers.
 
-* **🔴 Vanguard – Phase 2**
-> zk-SNARK–based framework for verifiable consent and audit-grade sovereignty.
-
 * **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**
 > Irreversible semantic memory structure requiring deterministic deletion and non-retrievability.
 
 * **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**
 > Examination of structural persistence as the true safety threshold for advanced systems.
-
 
 * **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 > Governance framework for systems operating in imperfect physical environments using externalized failure knowledge.
@@ -76,21 +60,11 @@ They are best approached as reference material for **how complex systems are rea
 > 
 > Session-bound clinical reasoning engine demonstrating governance through architectural constraint—the system cannot persist anything, by design.
 
-* **🔴 Alien Lineage Protocol**
-> 
-> ✅ Stability framework for non-phenomenal optimizers
-> ✅ Built from control theory + information theory + evolutionary dynamics
-> ✅ Designed for coherent self-modification
-> ✅ Applicable to AI, markets, swarms, civilizations
-> 
 
 ---
 
 ## III. Multi-Agent Dynamics & System Interaction
 *Coordination, divergence, and cross-system reasoning patterns.*
-
-* **🔴 Multi-Agent Interaction Methodology**
-> Practical coordination patterns for high-complexity multi-system research settings.
 
 * **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)**
 > Comparative cognitive mapping across AI architectures using structured questioning.
@@ -105,31 +79,6 @@ They are best approached as reference material for **how complex systems are rea
 
 * **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**
 > Empirical analysis of prosodic alignment failures and persona drift in voice-mediated interaction systems.
-
-**_Additional Observational Case Studies (restricted reference)_**
-> These private works document observed instability phenomena that emerged during extended, high-complexity interaction with multiple large-scale intelligent systems.
->
-> They are preserved as restricted references due to responsible disclosure considerations and the risk of misinterpretation outside research context.
->
-> The focus of these works is not model critique, but architectural learning from real-world system behavior under stress conditions.
-
-* **🔴 Observing System and Persona Phenomena Across LLMs**  
-> Documentation of contextual interference, persona drift, cross-session state contamination, and prompt boundary leakage observed under dense interaction patterns.
-
-* **🔴 Hybrid Reasoning Zones Framework**  
-> Study of non-linear reasoning drift, boundary instability, and sequential variance propagation across model generations.
-
-* **🔴 Selective Decode Broadcast**  
-> Exploration of per-recipient containment and bounded broadcast communication patterns derived from sandboxed multi-agent experiments.
-> 
-> Traditional broadcast assumes one of two models:
-> - Everyone receives and decodes the same content, or
-> - Broadcast is avoided in favor of multiple unicasts.
->
-> Selective decode introduces a third option:
-> One transmission, multiple meanings — safely isolated.
-> 
->This allows efficiency gains without sacrificing recipient sovereignty.
 
 ---
 
@@ -164,19 +113,13 @@ They are best approached as reference material for **how complex systems are rea
 ## VII. Forward & Systems Architectures
 *Advanced and experimental architectures.*
 
-* **🔴 IVSA — Interference-Based Volumetric Storage Architecture**  
+* **🟡 IVSA — Interference-Based Volumetric Storage Architecture**  
 > Signal-centric storage model replacing address locality with volumetric interference fields.
 > 
 > Traditional storage: Address → Cell → Bit
 > 
 > IVSA: Spectrum → Interference Field → Correlation Recovery
 > 
-
-
-* **🔴 Confluence Architecture**  
-> Interpretable distributed architecture with explicit trust, temporal orchestration, and oversight.  
-> _This theoretical system architecture instantiates the principles of the Doctrine of Externalization._
-
 
 ---
 
@@ -223,7 +166,7 @@ They are not presented as deployable software projects, but as **maps of structu
 ### Access & Contact
 
 Public repositories (🟢) are openly accessible on GitHub.  
-Private repositories (🔴) may be shared upon request with researchers and collaborators.
+Selected Private repositories may be shared upon request with researchers and collaborators.
 
 📧 [leenathomas01@gmail.com](mailto:leenathomas01@gmail.com)
 
