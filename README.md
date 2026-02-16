@@ -99,9 +99,6 @@ They are best approached as reference material for **how complex systems are rea
 * **⚪ Grid Inertial Interface**
 > **Core Theory:** Grid instability is often an inertia deficit misdiagnosed as a storage deficit.
 > 
-> When a single interface has to serve two domains with opposite requirements, resolve contention through shared physics, not software arbitration.
-
-
 ---
 
 ## VI. Experimental Prototypes
