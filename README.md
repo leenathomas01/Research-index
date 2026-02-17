@@ -97,7 +97,9 @@ They are best approached as reference material for **how complex systems are rea
 
 > _**A way to turn data centers from a grid problem into a grid solution, using the batteries and power systems they already have.**_
 > This is a layered control architecture for grid-interactive power systems.
-> Born from EEE fundamentals - Think of it as TCP/IP for inertia.
+> 
+> Born from EEE fundamentals, rethinking inertia for modern grids - Think of it as TCP/IP for inertia.
+> 
 >  Features
 > - **Asymmetric sensing**: Layers interact through physics, not communication.
 > - **Grid-agnostic**: Works with existing inverters, BESS, and power electronics.
