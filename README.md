@@ -7,9 +7,6 @@
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
-- Ongoing:
-1) IVSA - Interference-Based Volumetric Storage Architecture Repo (1st week, March 2026)
-2) Whitepaper on Connector OS (4th week, Feb 2026)
 - Planned:
 1) GII Repo (2nd Week, March 2026) 
 2) NAND flash memory improvements Repo (TBD)
@@ -97,8 +94,16 @@ They are best approached as reference material for **how complex systems are rea
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
 * **⚪ Grid Inertial Interface**
-> **Core Theory:** Grid instability is often an inertia deficit misdiagnosed as a storage deficit.
-> 
+
+> _**A way to turn data centers from a grid problem into a grid solution, using the batteries and power systems they already have.**_
+> This is a layered control architecture for grid-interactive power systems.
+> Born from EEE fundamentals - Think of it as TCP/IP for inertia.
+>  Features
+> - **Asymmetric sensing**: Layers interact through physics, not communication.
+> - **Grid-agnostic**: Works with existing inverters, BESS, and power electronics.
+> - **No new hardware**: Leverages what’s already deployed in data centers, solar farms, and microgrids.
+> - **Simulation-ready**: PSCAD/MATLAB models included (see `/simulations`).
+>
 ---
 
 ## VI. Experimental Prototypes
