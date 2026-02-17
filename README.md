@@ -2,10 +2,9 @@
 
 **Last structural update:** Feb 2026
 
-- Added:
-1) Designing for Failure - Systems Thinking Case Study
-2) The Consult Model : Repo on Healthcare AI
-3) Phase-Aligned Inquiry - Research Methodology
+- Added: Designing for Failure - Systems Thinking Case Study
+- Added: The Consult Model : Repo on Healthcare AI
+- Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
 - Ongoing:
