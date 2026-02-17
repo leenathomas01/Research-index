@@ -8,9 +8,8 @@
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
 - Planned:
-1) GII Repo (2nd Week, March 2026) 
-2) NAND flash memory improvements Repo (TBD)
-3) Digital Embodied Agents Repo (3rd Week, March 2026) 
+* NAND flash memory improvements Repo (TBD)
+* Digital Embodied Agents Repo (3rd Week, March 2026) 
 
 
 # Research Index
@@ -93,19 +92,6 @@ They are best approached as reference material for **how complex systems are rea
 * **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
-* **⚪ Grid Inertial Interface**
-
-> _**A way to turn data centers from a grid problem into a grid solution, using the batteries and power systems they already have.**_
-> This is a layered control architecture for grid-interactive power systems.
-> 
-> Born from EEE fundamentals, rethinking inertia for modern grids - Think of it as TCP/IP for inertia.
-> 
->  Features
-> - **Asymmetric sensing**: Layers interact through physics, not communication.
-> - **Grid-agnostic**: Works with existing inverters, BESS, and power electronics.
-> - **No new hardware**: Leverages what’s already deployed in data centers, solar farms, and microgrids.
-> - **Simulation-ready**: PSCAD/MATLAB models included (see `/simulations`).
->
 ---
 
 ## VI. Experimental Prototypes
