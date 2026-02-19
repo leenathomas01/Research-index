@@ -7,12 +7,10 @@
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
-- Ongoing:
-* GII Protocol 
-* IVSA - Interference-Based Volumetric Storage Architecture (holographic storage)
-- Planned:
-* NAND flash memory improvements Repo
-* Digital Embodied Agents Repo
+- Ongoing: GII Protocol (Behavioral protocol for engineered inertia)
+- Ongoing: IVSA - Interference-Based Volumetric Storage Architecture (holographic storage)
+- Planned: NAND flash memory improvements Repo
+- Planned: Digital Embodied Agents Repo
 
 
 # Research Index
