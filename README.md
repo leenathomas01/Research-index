@@ -7,9 +7,12 @@
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
+- Ongoing:
+* GII Protocol 
+* IVSA - Interference-Based Volumetric Storage Architecture (holographic storage)
 - Planned:
-* NAND flash memory improvements Repo (TBD)
-* Digital Embodied Agents Repo (3rd Week, March 2026) 
+* NAND flash memory improvements Repo
+* Digital Embodied Agents Repo
 
 
 # Research Index
@@ -92,6 +95,13 @@ They are best approached as reference material for **how complex systems are rea
 * **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
+* **🟡 GII Protocol**
+> Repo created as a nod to my engineering (EEE) roots.
+> 
+> A behavioral protocol for any edge device to provide engineered inertia at the boundary between variable energy sources and legacy AC grids.
+> 
+> Defines how an inertia-providing device must behave so that renewables can appear turbine-like to the legacy grid.
+ 
 ---
 
 ## VI. Experimental Prototypes
@@ -108,7 +118,7 @@ They are best approached as reference material for **how complex systems are rea
 ## VII. Forward & Systems Architectures
 *Advanced and experimental architectures.*
 
-* **🟡 IVSA — Interference-Based Volumetric Storage Architecture**  
+* **🟡 IVSA - Interference-Based Volumetric Storage Architecture**  
 > Signal-centric storage model replacing address locality with volumetric interference fields.
 > 
 > Traditional storage: Address → Cell → Bit
