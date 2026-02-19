@@ -8,8 +8,8 @@
 - Updated: Connector OS Repo 
 - Deleted: Private repositories references
 - Ongoing: Connector OS Whitepaper
-- Ongoing: GII Protocol - Behavioral protocol for engineered inertia
-- Ongoing: IVSA Interference-Based Volumetric Storage Architecture - holographic storage
+- Ongoing: New Repo on GII Protocol - Behavioral protocol for engineered inertia
+- Ongoing: New Repo on IVSA Interference-Based Volumetric Storage Architecture - holographic storage
 - Planned: NAND flash memory improvements 
 - Planned: Digital Embodied Agents 
 
@@ -95,7 +95,7 @@ They are best approached as reference material for **how complex systems are rea
 > Bio-inspired interference optimization for Integrated Sensing and Communication systems.
 
 * **🟡 GII Protocol**
-> Repo created as a nod to my engineering (EEE) roots.
+> Repo is a nod to my engineering (EEE) roots.
 > 
 > A behavioral protocol for any edge device to provide engineered inertia at the boundary between variable energy sources and legacy AC grids.
 > 
