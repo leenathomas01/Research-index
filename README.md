@@ -9,9 +9,9 @@
 - Deleted: Private repositories references
 - Ongoing: Connector OS Whitepaper
 - Ongoing: New Repo on GII Protocol - Behavioral protocol for engineered inertia
-- Ongoing: New Repo on IVSA Interference-Based Volumetric Storage Architecture - holographic storage
+- Ongoing: New Repo on IVSA Interference-Based Volumetric Storage Architecture - holographic storage (experimental design)
 - Planned: NAND flash memory improvements 
-- Planned: Digital Embodied Agents 
+- Planned: Digital Embodied Agents Design 
 
 
 # Research Index
