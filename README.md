@@ -5,7 +5,7 @@
 - Added: Designing for Failure - Systems Thinking Case Study
 - Added: The Consult Model - Repo on Healthcare AI
 - Added: Phase-Aligned Inquiry - Research Methodology
-- Updated: Connector OS Repo
+- Updated: Connector OS Repo, Added [LinkedIn Article ](https://www.linkedin.com/pulse/architecture-before-scale-control-theoretic-framework-leena-thomas-lv4vc/?trackingId=W8qCk7dtOPmYhtXXo%2F4bww%3D%3D) providing a narrative overview of the architectural principles. 
 - Editing: Designing For Failure Repo (set to private for now- working on expanding the framework)
 - Deleted: Private repositories references
 - Ongoing: Connector OS Whitepaper
@@ -36,7 +36,7 @@ They are best approached as reference material for **how complex systems are rea
 ## I. Cognitive Architecture & State Control
 *Foundational architectures for coherent intelligence and stateful systems.*
 
-* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat)**  
+* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os)**  
 > Control-theoretic cognitive architecture that converts stateless LLMs into state-aware agents using feedback loops, sensory normalization, and biological thresholds.
   
 ---
