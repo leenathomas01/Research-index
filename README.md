@@ -5,7 +5,7 @@
 - Added: The Consult Model - Repo on Healthcare AI
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo, Added [LinkedIn Article ](https://www.linkedin.com/pulse/architecture-before-scale-control-theoretic-framework-leena-thomas-lv4vc/?trackingId=W8qCk7dtOPmYhtXXo%2F4bww%3D%3D) providing a narrative overview of the architectural principles. 
-- Editing: Designing For Failure Repo (set to private for now- working on expanding the framework)
+- Editing: Designing For Failure Repo (set to private for now- working on expanding to a methodology for extracting survivability primitives from hostile constraints)
 - Deleted: Private repositories references
 - Ongoing: Connector OS Whitepaper
 - Ongoing: New Repo on GII Protocol - Behavioral protocol for engineered inertia
