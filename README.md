@@ -6,7 +6,7 @@
 - Added: The Consult Model - Repo on Healthcare AI
 - Added: Phase-Aligned Inquiry - Research Methodology
 - Updated: Connector OS Repo
-- Editing: Designing For Failure Repo (set to private for now)
+- Editing: Designing For Failure Repo (set to private for now- working on expanding the framework)
 - Deleted: Private repositories references
 - Ongoing: Connector OS Whitepaper
 - Ongoing: New Repo on GII Protocol - Behavioral protocol for engineered inertia
