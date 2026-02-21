@@ -21,10 +21,10 @@ This body of work progresses through three stages:
 - **Connector OS v1.0 Whitepaper Released**  
   *Architecture Before Scale - A Control-Theoretic Framework for Stable AI Systems*  
   → Available in the Connector OS repository (tag: `whitepaper-v1.0`)
-
+- **Designing for Failure (Framework Release)**
+_*Pattern language for catastrophic-state recovery discipline and survivability architecture.*_
 - Added: The Consult Model (Healthcare AI governance architecture)
 - Added: Phase-Aligned Inquiry (multi-agent falsifiable research protocol)
-- Designing for Failure: moved to private for expansion into survivability methodology
 - Ongoing:  
   - GII Protocol (engineered inertia for legacy grid stability)  
   - IVSA (interference-based volumetric storage architecture)
@@ -140,9 +140,10 @@ This body of work progresses through three stages:
 * **🟢 [Bounded Fictional Analysis](https://github.com/leenathomas01/Bounded-Fictional-Analysis)**
 > Framework for isolating system dynamics using controlled fictional scenarios.
 
-* **🟡 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**
-> Survivability methodology deriving architectural primitives from hostile constraint scenarios.  
-> Currently under expansion.
+* **🟢 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**
+> Structural pattern language for catastrophic-state systems.
+> 
+> Extracts recovery discipline primitives (hysteresis, distributed validation, sacrificial architecture, forensic memory).
 
 * **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
 > Multi-agent falsifiable inquiry protocol preventing confirmation bias via enforced role separation.
