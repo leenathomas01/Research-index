@@ -19,7 +19,7 @@ This body of work progresses through three stages:
 ## Recent Structural Update : February 2026
 
 - **Connector OS v1.0 Whitepaper Released**  
-  *Architecture Before Scale — A Control-Theoretic Framework for Stable AI Systems*  
+  *Architecture Before Scale - A Control-Theoretic Framework for Stable AI Systems*  
   → Available in the Connector OS repository (tag: `whitepaper-v1.0`)
 
 - Added: The Consult Model (Healthcare AI governance architecture)
@@ -141,7 +141,7 @@ This body of work progresses through three stages:
 > Framework for isolating system dynamics using controlled fictional scenarios.
 
 * **🔴 Designing for Failure**
-> QA-led survivability methodology deriving architectural primitives from hostile constraint scenarios.  
+> Survivability methodology deriving architectural primitives from hostile constraint scenarios.  
 > Currently under expansion.
 
 * **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
