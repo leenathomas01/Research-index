@@ -22,6 +22,7 @@ This body of work progresses through three stages:
   *Architecture Before Scale - A Control-Theoretic Framework for Stable AI Systems*  
   → Available in the Connector OS repository (tag: `whitepaper-v1.0`)
 - **Designing for Failure (Framework Release)**
+ 
  _*Pattern language for catastrophic-state recovery discipline and survivability architecture.*_
 - Added: The Consult Model (Healthcare AI governance architecture)
 - Added: Phase-Aligned Inquiry (multi-agent falsifiable research protocol)
