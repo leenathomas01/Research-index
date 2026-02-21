@@ -140,7 +140,7 @@ This body of work progresses through three stages:
 * **🟢 [Bounded Fictional Analysis](https://github.com/leenathomas01/Bounded-Fictional-Analysis)**
 > Framework for isolating system dynamics using controlled fictional scenarios.
 
-* **🔴 Designing for Failure**
+* **🟡 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**
 > Survivability methodology deriving architectural primitives from hostile constraint scenarios.  
 > Currently under expansion.
 
