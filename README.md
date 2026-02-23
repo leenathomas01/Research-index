@@ -3,9 +3,9 @@
 This repository maps a body of work focused on structural stability under constraint.
 
 Domains vary - intelligent systems, governance, infrastructure, physical-layer optimization -  
-but the recurring concern is the same:
+but the core idea remains variations of:
 
-How do complex systems remain stable when primary assumptions fail?
+How do complex systems remain stable even when primary assumptions fail?
 
 Some repositories are exploratory.
 Some are formalized.
