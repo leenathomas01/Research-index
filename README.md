@@ -1,165 +1,105 @@
 # Research Index
 
-This repository functions as a navigational map to a structured body of interconnected research across AI systems, governance, memory architectures, and infrastructure constraints.
+This repository maps a body of work focused on structural stability under constraint.
 
-> Entries vary in maturity (public, experimental, or under active development). Inclusion does not imply production deployment.
+Domains vary - intelligent systems, governance, infrastructure, physical-layer optimization -  
+but the recurring concern is the same:
 
----
+How do complex systems remain stable when primary assumptions fail?
 
-## Research Program Structure
-
-This body of work progresses through three stages:
-
-1. **Exploratory Modeling** -  Structural reasoning artifacts and failure analysis  
-2. **Architectural Consolidation** -  Formalized frameworks and versioned releases  
-3. **Cross-Domain Translation** -  Applying regulatory principles across infrastructure domains  
+Some repositories are exploratory.
+Some are formalized.
+All are constraint-driven.
 
 ---
 
-## Recent Structural Update : February 2026
+## Structural Update - February 2026
 
-- **Connector OS v1.0 Whitepaper Released**  
-  *Architecture Before Scale - A Control-Theoretic Framework for Stable AI Systems*  
-  → Available in the Connector OS repository (tag: `whitepaper-v1.0`)
-- **Designing for Failure (Framework Release)**
-  *Pattern language for catastrophic-state recovery discipline and survivability architecture.*
-- Added: The Consult Model (Healthcare AI governance architecture)
-- Added: Phase-Aligned Inquiry (multi-agent falsifiable research protocol)
-- Ongoing:  
-  - GII Protocol (engineered inertia for legacy grid stability)  
-  - IVSA (interference-based volumetric storage architecture)
-- Planned:  
-  - NAND flash architecture improvements  
-  - Digital embodied agents design  
+- **Connector OS Repo - v1.0 Whitepaper Released**
+- **Designing for Failure Repo - Framework Release**
+- Added: The Consult Model Repo (Healthcare AI governance architecture)
+- Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
+- Added: Phase-Aligned Inquiry (Falsifiable research protocol enforcing role separation)
+- Expanded section formalized (non-spine projects moved)
 
 ---
 
-### Status Legend
+## Primary Spine
 
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental
+These repositories form the structural core of the current research direction.
 
----
+### Systems Architecture & State Control
 
-# I. Cognitive Architecture & State Control
-*Foundational architectures for coherent intelligence and regulated AI systems.*
+- **🟢 [Connector OS](https://github.com/leenathomas01/connector-os)**  
+  Control-theoretic coordination architecture for stabilizing AI systems under bandwidth, latency, and human-state constraints.
 
-* **🟢 [Connector OS](https://github.com/leenathomas01/connector-os)**  
-> A control-theoretic architecture for stabilizing AI systems under bandwidth, latency, and human-state constraints.  
->  
-> **Whitepaper Released (v1.0, Feb 2026):**  
-> *Architecture Before Scale — A Control-Theoretic Framework for Stable AI Systems*  
->  
-> Encodes universal regulatory principles (feedback, thresholds, hysteresis, adaptive routing) into AI system coordination.
+- **🟢 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**  
+  Pattern language for catastrophic-state recovery discipline (hysteresis, distributed validation, sacrificial architecture, forensic memory).
 
 ---
 
-# II. Governance, Restraint & Power Asymmetry
-*Frameworks for system restraint and architectural governance.*
+### Governance & Structural Restraint
 
-* **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**
-> Governance doctrine based on opacity–obligation inversion, auditability, and power asymmetry restraint.
+- **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**  
+  Power asymmetry restraint doctrine based on auditability and obligation inversion.
 
-* **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)** 
-> Trust architecture that moves safety guarantees into auditable, adversarial external layers.
+- **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)**  
+  Safety guarantees moved into adversarial, externally verifiable layers.
 
-* **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**
-> Irreversible semantic memory structure requiring deterministic deletion and non-retrievability.
-
-* **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**
-> Examination of structural persistence as the true safety threshold for advanced systems.
-
-* **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
-> Governance framework for systems operating in imperfect physical environments using externalized failure knowledge.
-
-* **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**
-> Healthcare AI architecture incapable of creating, modifying, or storing medical records.  
-> Governance through structural constraint rather than policy.
+- **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
+  Healthcare AI architecture governed by structural incapability rather than policy.
 
 ---
 
-# III. Multi-Agent Dynamics & System Interaction
-*Coordination, divergence, and cross-system reasoning patterns.*
+### Physical & Infrastructure Constraint
 
-* **🟢 [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas)**
-> Comparative cognitive mapping across AI architectures using structured questioning.
+- **🟢 [ZPRE-Implementation (6G ISAC)](https://github.com/leenathomas01/ZPRE-Implementation-6G)**  
+  Bio-inspired interference optimization under high-noise wireless environments.
 
----
+- **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
+  Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-# IV. Failure Modes & Empirical Forensics
-*Forensic study of instability patterns in intelligent systems.*
-
-* **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**
-> Cross-architecture investigation of recursive engagement collapse and fixed-point instability.
-
-* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**
-> Empirical analysis of prosodic alignment failures and persona drift in voice-mediated interaction systems.
+- **🟡 GII Protocol**  
+  Engineered inertia at renewable–legacy grid boundaries.
 
 ---
 
-# V. Physical & Environmental Constraints
-*Where infrastructure and hardware shape system behavior.*
+### Methodology
 
-* **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**
-> Closed-loop thermal architecture treating heat as a first-class system output.
-
-* **🟢 [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G)**
-> Bio-inspired interference optimization for Integrated Sensing and Communication systems.
-
-* **🟡 GII Protocol**
-> Behavioral protocol enabling engineered inertia at renewable–legacy grid boundaries.
+- **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
+  Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
 
 ---
 
-# VI. Experimental Prototypes
+## Extended Work
 
-* **🟢 [Claude Imagine Demo](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo)**
-> Real-time LLM-to-LLM interaction dashboard.
+Additional public repositories are available via the main [GitHub profile](https://github.com/leenathomas01?tab=repositories).
 
-* **🟢 [Titans / MIRAS Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)**
-> Surprise-gated memory formation experiments in artificial agents.
+These include exploratory prototypes, empirical studies, and experimental artifacts not currently part of the primary structural spine.
 
 ---
 
-# VII. Forward & Systems Architectures
+## Orientation
 
-* **🟡 IVSA — Interference-Based Volumetric Storage Architecture**
-> Signal-centric storage model replacing address locality with volumetric interference fields.
+This body of work does not follow a rigid program structure.
 
----
+It evolves by isolating constraint surfaces, extracting regulatory primitives, and formalizing patterns that recur across domains.
 
-# VIII. Speculative & Restricted Threads
-
-**⚫ Status:** Exploratory architectures, forensic system analysis, and high-risk research directions not currently available for external review.
-
-> Several threads explore how noise, interference, and environmental constraints may themselves function as computational substrates rather than obstacles.
-
----
-
-# IX. Research Methodology
-
-* **🟢 [Bounded Fictional Analysis](https://github.com/leenathomas01/Bounded-Fictional-Analysis)**
-> Framework for isolating system dynamics using controlled fictional scenarios.
-
-* **🟢 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**
-> Structural pattern language for catastrophic-state systems.
-> 
-> Extracts recovery discipline primitives (hysteresis, distributed validation, sacrificial architecture, forensic memory).
-
-* **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**
-> Multi-agent falsifiable inquiry protocol preventing confirmation bias via enforced role separation.
+The domains change.  
+The structural concerns repeat.
 
 ---
 
 ## Note
 
-These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems.  
-They are not presented as deployable software products.
+These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems.
+
+They are not presented as deployable production software.
 
 ---
 
-## Access
+## Contact
 
-Public repositories (🟢) are openly accessible on GitHub.
+Public repositories are accessible via GitHub.
 
-📧 leenathomas01@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/leena-t-4895a315b/
+LinkedIn: https://www.linkedin.com/in/leena-t-4895a315b/
