@@ -18,8 +18,8 @@ All are constraint-driven.
 - **Connector OS Repo - v1.0 Whitepaper Released**
 - **Designing for Failure Repo - Framework Release**
 - Added: The Consult Model Repo (Healthcare AI governance architecture)
-- Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
 - Added: Phase-Aligned Inquiry (Falsifiable research protocol enforcing role separation)
+- Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
 - Expanded section formalized (non-spine projects moved)
 
 ---
@@ -61,6 +61,7 @@ These repositories form the structural core of the current research direction.
 
 - **🟡 GII Protocol**  
   Engineered inertia at renewable–legacy grid boundaries.
+  > GII defines how an inertia-providing device must behave so that renewables can appear turbine-like to the legacy grid.
 
 ---
 
