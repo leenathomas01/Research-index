@@ -25,27 +25,27 @@ All are constraint-driven.
 ---
 ### Read Me First
 
-If you are arriving from traditional software development or AI product contexts, these repositories may initially feel unconventional.
+If you are arriving from traditional software, AI product development, or infrastructure implementation contexts, some of these repositories may initially feel unconventional.
 
-They are not product implementations or model-scale optimizations.
+They are not production-ready systems or turnkey deployment guides.
 
-They are architectural reasoning artifacts focused on stability under constraint - bandwidth, latency, load, governance friction, human variability, or physical limits.
+They are architectural reasoning artifacts focused on **stability under constraint** - whether computational, physical, governance-based, or human.
 
-Across domains, the recurring premise is:
+Across domains -  intelligent systems, grid infrastructure, thermodynamic limits, wireless interference, or institutional governance - the recurring premise is:
 
 > Stability is an architectural property.
 > 
 > Scale amplifies whatever architecture exists.
 
-Many repositories invert common narratives:
-- Failure is designed, not avoided.
-- Safety is structural, not policy-based.
-- Humans are treated as dynamic system variables, not static operators.
-- Infrastructure limits are first-class design constraints.
- 
-If you are looking for deployable applications, these may not serve that purpose.
+Many repositories invert common design instincts:
+- Failure is designed and bounded, not eliminated.
+- Safety is treated as a control problem, not a policy overlay.
+- Constraints (latency, inertia, heat, load, authority asymmetry) are first-class design variables.
+- Human interaction is modeled as dynamic system state, not static control.
 
-If you are interested in regulatory structure, failure isolation, control-theoretic safety, and constraint-driven design, proceed.
+If you are looking for deployable applications, these may not serve that purpose directly.
+
+If you are interested in regulatory structure, failure isolation, constraint translation, and resilience across domains, please proceed.
 
 Use what is useful.
 
