@@ -23,6 +23,33 @@ All are constraint-driven.
 - Expanded section formalized (non-spine projects moved)
 
 ---
+### Read Me First
+
+If you are arriving from traditional software development or AI product contexts, these repositories may initially feel unconventional.
+
+They are not product implementations or model-scale optimizations.
+
+They are architectural reasoning artifacts focused on stability under constraint - bandwidth, latency, load, governance friction, human variability, or physical limits.
+
+Across domains, the recurring premise is:
+
+> Stability is an architectural property.
+> 
+> Scale amplifies whatever architecture exists.
+
+Many repositories invert common narratives:
+- Failure is designed, not avoided.
+- Safety is structural, not policy-based.
+- Humans are treated as dynamic system variables, not static operators.
+- Infrastructure limits are first-class design constraints.
+ 
+If you are looking for deployable applications, these may not serve that purpose.
+
+If you are interested in regulatory structure, failure isolation, control-theoretic safety, and constraint-driven design, proceed.
+
+Use what is useful.
+
+---
 
 ## Primary Spine
 
