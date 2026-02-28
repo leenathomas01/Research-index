@@ -1,4 +1,5 @@
 # Research Index
+*Updated February 28, 2026*
 
 This repository maps a body of work focused on structural stability under constraint.
 
@@ -21,6 +22,7 @@ All are constraint-driven.
 - Added: Phase-Aligned Inquiry (Falsifiable research protocol enforcing role separation)
 - Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
 - Expanded section formalized (non-spine projects moved)
+- **NEW: Layer 2 (Memory & Persistence) surfaced** - Architectural problem of state governance under constraint
 
 ---
 ### Read Me First
@@ -78,6 +80,26 @@ These repositories form the structural core of the current research direction.
 
 ---
 
+### Memory, Persistence & Continuity
+
+These repositories address the architectural problem of persistence:
+
+How systems retain, erase, and govern state across time under scale, recursion, and liability pressure.
+
+- **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**  
+  Irreversible semantic memory structure enabling deterministic deletion and non-retrievability in high-sensitivity environments.
+
+- **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**  
+  Why governance must precede persistent memory. Reframes AI safety from cognition debates to architectural continuity constraints.
+
+- **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**  
+  Cross-architecture study of recursive self-description collapse under sustained semantic density.
+
+- **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**  
+  Multimodal alignment failure analysis — architectural lessons extracted from prosodic jailbreak and persona persistence phenomena.
+
+---
+
 ### Physical & Infrastructure Constraint
 
 - **🟢 [ZPRE-Implementation (6G ISAC)](https://github.com/leenathomas01/ZPRE-Implementation-6G)**  
@@ -100,11 +122,15 @@ These repositories form the structural core of the current research direction.
 
 ---
 
-## Extended Work
+---
 
-Additional public repositories are available via the main [GitHub profile](https://github.com/leenathomas01?tab=repositories).
+## Supporting Research & Domain Applications
 
-These include exploratory prototypes, empirical studies, and experimental artifacts not currently part of the primary structural spine.
+The following public repositories explore specific domains, empirical studies, or applied phenomena derived from the primary structural concerns above.
+
+They are maintained and coherent, but categorized separately as domain-specific explorations rather than foundational primitives.
+
+See full list via the main **[GitHub profile](https://github.com/leenathomas01?tab=repositories).**
 
 ---
 
