@@ -86,7 +86,7 @@ These repositories form the structural core of the current research direction.
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- **🟡 GII Protocol**  
+- **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
   > GII defines how an inertia-providing device must behave so that renewables can appear turbine-like to the legacy grid.
 
