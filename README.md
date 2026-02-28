@@ -123,8 +123,6 @@ How systems retain, erase, and govern state across time under scale, recursion, 
 
 ---
 
----
-
 ## Supporting Research & Domain Applications
 
 The following public repositories explore specific domains, empirical studies, or applied phenomena derived from the primary structural concerns above.
