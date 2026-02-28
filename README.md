@@ -76,7 +76,8 @@ These repositories form the structural core of the current research direction.
   Safety guarantees moved into adversarial, externally verifiable layers.
 
 - **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
-  Healthcare AI architecture governed by structural incapability rather than policy.
+  Healthcare AI that reads clinical context but is structurally incapable of writing to medical records.  
+  A boundary-enforced architecture exploring safe assistance under liability constraint.
 
 ---
 
