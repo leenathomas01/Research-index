@@ -112,6 +112,7 @@ How systems retain, erase, and govern state across time under scale, recursion, 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
   > GII defines how an inertia-providing device must behave so that renewables can appear turbine-like to the legacy grid.
+<img width="646" height="368" alt="image" src="https://github.com/user-attachments/assets/203d4bfd-71f8-49b9-a0dc-359ecdecc536" />
 
 ---
 
