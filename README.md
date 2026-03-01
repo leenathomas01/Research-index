@@ -143,7 +143,7 @@ The structural concerns repeat.
 
 ---
 
-## IMPORTANT Note
+## Important Note
 
 These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems.
 
@@ -153,7 +153,7 @@ All material is exploratory research documentation.
 
 If you choose to adopt, adapt, or build upon these ideas, you do so at your own discretion and with your own domain-specific risk assessment.
 
-No warranties are expressed or implied, and no guarantees are made regarding suitability, correctness, regulatory compliance, or fitness for purpose in any operational environment.
+**No warranties are expressed or implied, and no guarantees are made regarding suitability, correctness, regulatory compliance, or fitness for purpose in any operational environment.**
 
 Evaluate independently. Validate rigorously. Deploy responsibly.
 
