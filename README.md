@@ -148,8 +148,7 @@ The structural concerns repeat.
 
 ## Important Note
 
-These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems.
-
+These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems. 
 They are not production-ready implementations, deployment guides, or certified safety frameworks.
 
 All material is exploratory research documentation.
