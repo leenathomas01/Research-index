@@ -3,8 +3,8 @@
 
 This repository maps a body of work focused on structural stability under constraint.
 
-Domains vary - intelligent systems, governance, infrastructure, physical-layer optimization -  
-but the core idea remains variations of:
+Domains vary - intelligent systems, governance, infrastructure, and physical-layer optimization -  
+but the core question remains:
 
 How do complex systems remain stable even when primary assumptions fail?
 
@@ -21,7 +21,7 @@ All are constraint-driven.
 - Added: The Consult Model Repo (Healthcare AI governance architecture)
 - Added: Phase-Aligned Inquiry (Falsifiable research protocol enforcing role separation)
 - Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
-- Expanded section formalized (non-spine projects moved)
+- Supporting section formalized (non-spine projects reorganized)
 - **NEW: Layer 2 (Memory & Persistence) surfaced** - Architectural problem of state governance under constraint
 
 ---
@@ -143,11 +143,19 @@ The structural concerns repeat.
 
 ---
 
-## Note
+## IMPORTANT Note
 
 These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems.
 
-They are not presented as deployable production software.
+They are not production-ready implementations, deployment guides, or certified safety frameworks.
+
+All material is exploratory research documentation.
+
+If you choose to adopt, adapt, or build upon these ideas, you do so at your own discretion and with your own domain-specific risk assessment.
+
+No warranties are expressed or implied, and no guarantees are made regarding suitability, correctness, regulatory compliance, or fitness for purpose in any operational environment.
+
+Evaluate independently. Validate rigorously. Deploy responsibly.
 
 ---
 
