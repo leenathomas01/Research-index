@@ -22,6 +22,7 @@ All are constraint-driven reasoning artifacts.
   - Structural Brief (PDF) released
 * **Connector OS - v1.0 Whitepaper released**
 * Memory & Persistence layer clarified and grouped
+* The Continuity Problem - v1.0 stabilized (structural reframing of governance under persistent memory)
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
