@@ -1,61 +1,43 @@
 # Research Index
-*Updated February 28, 2026*
+*Updated March 2, 2026*
 
-This repository maps a body of work focused on structural stability under constraint.
+This index maps a body of work exploring one recurring question:
 
-Domains vary - intelligent systems, governance, infrastructure, and physical-layer optimization -  
-but the core question remains:
+**How do complex systems remain stable even when primary assumptions fail?**
 
-How do complex systems remain stable even when primary assumptions fail?
+Domains vary - intelligent systems, infrastructure, governance, physical optimization - but the structural concern repeats:
+
+Stability under constraint.
 
 Some repositories are exploratory.
-Some are formalized.
-All are constraint-driven.
+Some are consolidated.
+All are constraint-driven reasoning artifacts.
 
 ---
 
-## Structural Update - February 2026
+## Structural Update - March 2026
 
-- **Connector OS Repo - v1.0 Whitepaper Released**
-- **Designing for Failure Repo - Framework Release**
-- Added: The Consult Model Repo (Healthcare AI governance architecture)
-- Added: Phase-Aligned Inquiry (Falsifiable research protocol enforcing role separation)
-- Ongoing: GII Protocol Repo (Engineered inertia at renewable–legacy grid boundary)
-- Supporting section formalized (non-spine projects reorganized)
-- **NEW: Layer 2 (Memory & Persistence) surfaced** - Architectural problem of state governance under constraint
+* **Designing for Failure - v1.0 tagged**
+  - Five recurring structural patterns consolidated
+  - Structural Brief (PDF) released
+* **Connector OS - v1.0 Whitepaper released**
+* Memory & Persistence layer clarified and grouped
+* Supporting repositories reorganized for clearer separation between:
+  - Core primitives
+  - Governance models
+  - Infrastructure constraint systems
+  - Research methodology
 
 ---
-### Read Me First
 
-If you are arriving from traditional software, AI product development, or infrastructure implementation contexts, some of these repositories may initially feel unconventional.
-
-They are not production-ready systems or turnkey deployment guides.
-
-They are architectural reasoning artifacts focused on **stability under constraint** - whether computational, physical, governance-based, or human.
-
-Across domains -  intelligent systems, grid infrastructure, thermodynamic limits, wireless interference, or institutional governance - the recurring premise is:
-
-> Stability is an architectural property.
-> 
-> Scale amplifies whatever architecture exists.
-
-Many repositories invert common design instincts:
-- Failure is designed and bounded, not eliminated.
-- Safety is treated as a control problem, not a policy overlay.
-- Constraints (latency, inertia, heat, load, authority asymmetry) are first-class design variables.
-- Human interaction is modeled as dynamic system state, not static control.
-
-If you are looking for deployable applications, these may not serve that purpose directly.
-
-If you are interested in regulatory structure, failure isolation, constraint translation, and resilience across domains, please proceed.
-
-Use what is useful.
+**Status Legend:**
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned
 
 ---
 
 ## Primary Spine
 
-These repositories form the structural core of the current research direction.
+These repositories currently form the structural core.
 
 ### Systems Architecture & State Control
 
@@ -63,7 +45,15 @@ These repositories form the structural core of the current research direction.
   Control-theoretic coordination architecture for stabilizing AI systems under bandwidth, latency, and human-state constraints.
 
 - **🟢 [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**  
-  Pattern language for catastrophic-state recovery discipline (hysteresis, distributed validation, sacrificial architecture, forensic memory).
+  Five recurring structural patterns for catastrophic-state systems:
+
+  - Asymmetric transitions
+  - Sacrificial architecture
+  - Distributed validation
+  - Break-glass override
+  - Forensic memory
+
+  Tagged at **v1.0** (March 2026).
 
 ---
 
@@ -76,28 +66,26 @@ These repositories form the structural core of the current research direction.
   Safety guarantees moved into adversarial, externally verifiable layers.
 
 - **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
-  Healthcare AI that reads clinical context but is structurally incapable of writing to medical records.  
-  A boundary-enforced architecture exploring safe assistance under liability constraint.
-
+  Healthcare AI that reads clinical context but is structurally incapable of writing to medical records.
+  > Explores assistance under liability constraint.
+  
 ---
 
 ### Memory, Persistence & Continuity
 
-These repositories address the architectural problem of persistence:
-
-How systems retain, erase, and govern state across time under scale, recursion, and liability pressure.
+These repositories address state retention and deletion under scale and recursion.
 
 - **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**  
-  Irreversible semantic memory structure enabling deterministic deletion and non-retrievability in high-sensitivity environments.
+  Irreversible semantic memory structure enabling deterministic deletion in high-sensitivity environments.
 
 - **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**  
-  Why governance must precede persistent memory. Reframes AI safety from cognition debates to architectural continuity constraints.
+  Argument that governance must precede persistent memory.
 
 - **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**  
-  Cross-architecture study of recursive self-description collapse under sustained semantic density.
+  Cross-architecture study of recursive instability under sustained semantic density.
 
 - **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**  
-  Multimodal alignment failure analysis — architectural lessons extracted from prosodic jailbreak and persona persistence phenomena.
+  Multimodal alignment failure analysis and architectural extraction (prosodic jailbreak and persona persistence phenomena).
 
 ---
 
@@ -111,9 +99,11 @@ How systems retain, erase, and govern state across time under scale, recursion, 
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
-  > GII defines how an inertia-providing device must behave so that renewables can appear turbine-like to the legacy grid.
-  > 
-  > The primary deployment target is grid-interactive data centers 
+    > Defines how inverter-based systems can behave turbine-like to legacy infrastructure.
+    >
+    > Primary deployment target: grid-interactive data centers.
+  
+  
 <img width="646" height="368" alt="image" src="https://github.com/user-attachments/assets/203d4bfd-71f8-49b9-a0dc-359ecdecc536" />
 
 ---
@@ -125,44 +115,42 @@ How systems retain, erase, and govern state across time under scale, recursion, 
 
 ---
 
-## Supporting Research & Domain Applications
-
-The following public repositories explore specific domains, empirical studies, or applied phenomena derived from the primary structural concerns above.
-
-They are maintained and coherent, but categorized separately as domain-specific explorations rather than foundational primitives.
-
-See full list via the main **[GitHub profile](https://github.com/leenathomas01?tab=repositories).**
-
----
-
 ## Orientation
 
-This body of work does not follow a rigid program structure.
+This is not a linear program.
 
-It evolves by isolating constraint surfaces, extracting regulatory primitives, and formalizing patterns that recur across domains.
+It evolves by:
 
-The domains change.  
-The structural concerns repeat.
+- Isolating constraint surfaces
+- Extracting regulatory primitives
+- Testing pattern recurrence across domains
+- Consolidating structure when it stabilizes
+
+Domains shift.
+Structural concerns repeat.
 
 ---
 
 ## Important Note
 
-These repositories are architectural and conceptual references intended as reasoning artifacts for complex, stateful systems. 
-They are not production-ready implementations, deployment guides, or certified safety frameworks.
+These repositories are architectural reasoning artifacts.
 
-All material is exploratory research documentation.
+They are not production-ready systems, certified frameworks, or deployment guides.
 
-If you choose to adopt, adapt, or build upon these ideas, you do so at your own discretion and with your own domain-specific risk assessment.
+If you adopt or adapt any concept here:
+  - Evaluate independently
+  - Validate rigorously
+  - Apply domain-specific risk assessment
 
-**No warranties are expressed or implied, and no guarantees are made regarding suitability, correctness, regulatory compliance, or fitness for purpose in any operational environment.**
-
-Evaluate independently. Validate rigorously. Deploy responsibly.
+No warranties are expressed or implied.
 
 ---
 
-## Contact
+## Navigation
 
-Public repositories are accessible via GitHub.
+Full repository list:
+https://github.com/leenathomas01?tab=repositories
 
-LinkedIn: https://www.linkedin.com/in/leena-t-4895a315b/
+LinkedIn (public writing):
+https://www.linkedin.com/in/leena-t-4895a315b/
+
