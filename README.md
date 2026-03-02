@@ -22,7 +22,7 @@ All are constraint-driven reasoning artifacts.
   - Structural Brief (PDF) released
 * **Connector OS - v1.0 Whitepaper released**
 * Memory & Persistence layer clarified and grouped
-* The Continuity Problem - v1.0 stabilized (structural reframing of governance under persistent memory)
+* **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
@@ -79,7 +79,7 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**  
   Irreversible semantic memory structure enabling deterministic deletion in high-sensitivity environments.
 
-- **🟦 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**  
+- **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**  
   Argument that governance must precede persistent memory.
 
 - **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)**  
