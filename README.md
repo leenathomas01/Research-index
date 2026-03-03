@@ -32,7 +32,7 @@ All are constraint-driven reasoning artifacts.
 ---
 
 **Status Legend:**
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | 🟦 Editing
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | 🟦 Updating
 
 ---
 
