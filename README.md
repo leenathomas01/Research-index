@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 2, 2026*
+*Updated March 3, 2026, 9:00 pm IST*
 
 This index maps a body of work exploring one recurring question:
 
@@ -98,7 +98,7 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- ** 🟦 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)
+- **🟦 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 
   Layered governance middleware for embodied agents operating in real physical environments.
 
