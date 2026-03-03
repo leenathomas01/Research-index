@@ -121,7 +121,7 @@ These repositories address state retention and deletion under scale and recursio
 
 ### Methodology
 
-- **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
+- **🟦 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
 
 ---
