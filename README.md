@@ -103,7 +103,7 @@ These repositories address state retention and deletion under scale and recursio
   Layered governance middleware for embodied agents operating in real physical environments.
 
   Five-layer execution oversight architecture for robotics and autonomous systems.
-  Status: Structural refinement and diagram integration in progress.
+    > Status: Structural refinement and diagram integration in progress.
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
