@@ -77,7 +77,7 @@ These repositories currently form the structural core.
 
 These repositories address state retention and deletion under scale and recursion.
 
-- **🟦 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**  
+- **🟢 [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)**  
   Irreversible semantic memory structure enabling deterministic deletion in high-sensitivity environments.
 
 - **🟢 [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)**  
@@ -99,14 +99,15 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- **🟢 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
+- **🟦 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 
   Layered governance middleware for embodied agents operating in real physical environments.
 
   Five-layer execution oversight architecture for robotics and autonomous systems.
   
     > Status:  Tagged at **v1.0** (March 2026).
-    > Structural stabilization of the governance layer for embodied systems. 
+      > Currently updating to include finer refinements.
+    
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
@@ -121,7 +122,7 @@ These repositories address state retention and deletion under scale and recursio
 
 ### Methodology
 
-- **🟦 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
+- **🟢 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
 
 ---
