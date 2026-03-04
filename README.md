@@ -107,7 +107,7 @@ These repositories address state retention and deletion under scale and recursio
   
     > Status:  Tagged at **v1.0** (March 2026).
     >
-      > Currently updating to include finer refinements.
+    > Updating to refine clarification of physical embodiment premise across documentation
     
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
