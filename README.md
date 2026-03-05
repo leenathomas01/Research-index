@@ -1,7 +1,7 @@
 # Research Index
 *Updated March 5, 2026*
 
-This index maps a body of work exploring one recurring question:
+This index maps a body of work exploring the question:
 
 **How do complex systems remain stable even when primary assumptions fail?**
 
@@ -18,8 +18,6 @@ All are constraint-driven reasoning artifacts.
 ## Structural Update - March 2026
 
 * **Designing for Failure - v1.0 tagged**
-  - Five recurring structural patterns consolidated
-  - Structural Brief (PDF) released
 * **Connector OS - v1.0 Whitepaper released**
 * Memory & Persistence layer clarified and grouped
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
