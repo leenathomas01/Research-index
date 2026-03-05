@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 3, 2026*
+*Updated March 5, 2026*
 
 This index maps a body of work exploring one recurring question:
 
@@ -23,6 +23,7 @@ All are constraint-driven reasoning artifacts.
 * **Connector OS - v1.0 Whitepaper released**
 * Memory & Persistence layer clarified and grouped
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
+* Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
@@ -98,15 +99,12 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- **🟦 🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
-
+- **🟦🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
+              
   Layered governance middleware for embodied agents operating in real physical environments.
 
   Five-layer execution oversight architecture for robotics and autonomous systems.
-  
-    > Status:  Tagged at **v1.0** (March 2026) - structural stabilization of the governance layer for embodied systems
-    >
-    > Updating to refine physical embodiment premise across documentation
+      > Updating to refine physical embodiment premise across documentation
         
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
