@@ -98,7 +98,7 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- **🟦 [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
+- **🟦 🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
 
   Layered governance middleware for embodied agents operating in real physical environments.
 
