@@ -35,7 +35,7 @@ All are constraint-driven reasoning artifacts.
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | 🟦 Updating
 
 **Release Marker:**
-🏷️ Tagged Release
+🏷️ Tagged Release (stabilized version)
 
 ---
 
