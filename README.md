@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 5, 2026*
+*Updated March 3, 2026*
 
 This index maps a body of work exploring the question:
 
