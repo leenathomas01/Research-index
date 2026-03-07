@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 3, 2026*
+*Updated March 7, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -22,6 +22,7 @@ All are constraint-driven reasoning artifacts.
 * Memory & Persistence layer clarified and grouped
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
+*  **Embodied Agent Governance - v1.1 Whitepaper released**
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
@@ -97,14 +98,15 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
-- **🟦🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
+- **🟢🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
               
   Layered governance middleware for embodied agents operating in real physical environments.
 
   Five-layer execution oversight architecture for robotics and autonomous systems.
+
+  > whitepaper created
   
-      > Updating to refine physical embodiment premise across documentation
-        
+              
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
   Engineered inertia at renewable–legacy grid boundaries.
