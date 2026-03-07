@@ -165,3 +165,4 @@ https://github.com/leenathomas01?tab=repositories
 LinkedIn (public writing):
 https://www.linkedin.com/in/leena-t-4895a315b/
 
+Medium (public Writing): https://medium.com/@leenathomas01 
