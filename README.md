@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 7, 2026*
+*Updated March 8, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -18,7 +18,7 @@ All are constraint-driven reasoning artifacts.
 ## Structural Update - March 2026
 
 * **Designing for Failure - v1.0 tagged**
-* **Connector OS - v1.0 Whitepaper released**
+* **The Consult Model - v1.0 tagged**
 * Memory & Persistence layer clarified and grouped
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
@@ -66,9 +66,15 @@ These repositories currently form the structural core.
 - **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)**  
   Safety guarantees moved into adversarial, externally verifiable layers.
 
-- **🟢 [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
-  Healthcare AI that reads clinical context but is structurally incapable of writing to medical records.
-  > Explores assistance under liability constraint.
+- **🟢 🏷️ [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
+  Read-only clinical reasoning layer for healthcare AI.
+
+  AI system that reconstructs clinical context across medical records while remaining structurally incapable of:
+  - writing to the EHR
+  - storing patient data
+  - persisting session memory
+
+  > Explores assistance under liability constraint while preserving physician authority.
   
 ---
 
