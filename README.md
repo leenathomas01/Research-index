@@ -56,6 +56,12 @@ These repositories currently form the structural core.
   - Distributed validation
   - Break-glass override
   - Forensic memory
+ 
+- **🟢 [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
+  Control-theoretic stability primitives for self-modifying systems.
+  
+  Six structural requirements derived from cross-domain failure analysis - addressing failure modes unique to non-biological optimisers that human ethical frameworks were not designed to prevent.
+    > Structural coherence as prerequisite for alignment, not replacement for it.
 ---
 
 ### Governance & Structural Restraint
