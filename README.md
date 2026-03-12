@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 8, 2026*
+*Updated March 12, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -23,6 +23,7 @@ All are constraint-driven reasoning artifacts.
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 *  **Embodied Agent Governance - v1.1 Whitepaper released**
+* **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
