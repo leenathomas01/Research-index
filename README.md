@@ -123,13 +123,11 @@ These repositories address state retention and deletion under scale and recursio
               
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
-  Engineered inertia at renewable–legacy grid boundaries.
-    > Defines how inverter-based systems can behave turbine-like to legacy infrastructure.
-    >
-    > Primary deployment target: grid-interactive data centers.
-  
-  
-<img width="646" height="368" alt="image" src="https://github.com/user-attachments/assets/203d4bfd-71f8-49b9-a0dc-359ecdecc536" />
+   Defines how inverter-based systems can behave turbine-like to legacy infrastructure.
+   Primary deployment target: grid-interactive data centers.
+
+Concept article: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
+_Repo access available on request._
 
 ---
 
