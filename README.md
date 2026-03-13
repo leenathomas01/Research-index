@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 12, 2026*
+*Updated March 13, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -17,6 +17,7 @@ All are constraint-driven reasoning artifacts.
 
 ## Structural Update - March 2026
 
+* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept**
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
 * Memory & Persistence layer clarified and grouped
@@ -124,9 +125,11 @@ These repositories address state retention and deletion under scale and recursio
 
 - **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
    Defines how inverter-based systems can behave turbine-like to legacy infrastructure.
+  
    Primary deployment target: grid-interactive data centers.
 
 Concept article: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
+
 _Repo access available on request._
 
 ---
