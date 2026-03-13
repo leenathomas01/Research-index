@@ -17,7 +17,7 @@ All are constraint-driven reasoning artifacts.
 
 ## Structural Update - March 2026
 
-* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept**
+* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** (March 13, 2026)
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
 * Memory & Persistence layer clarified and grouped
@@ -128,9 +128,10 @@ These repositories address state retention and deletion under scale and recursio
   
    Primary deployment target: grid-interactive data centers.
 
+  
 Concept article: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 
-_Repo access available on request._
+_Repo files available on request._
 
 ---
 
