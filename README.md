@@ -25,25 +25,30 @@ All are constraint-driven reasoning artifacts.
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 *  **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
+* Constellation Structure Updates
+   - Introduced Conceptual Seeds layer - small repositories extracting single structural principles from the larger architecture.
+   - Released first seed: The 70% Fidelity Principle
+* Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
   - Infrastructure constraint systems
   - Research methodology
+  - Conceptual seeds
+  - Speculative concepts
 
 ---
 
 **Status Legend:**
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned |⚫ Experimental| 🟦 Updating
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned |⚫ Experimental | 🟦 Updating
 
 **Release Marker:**
 🏷️ Tagged Release (stabilized version)
 
 ---
-
 ## Primary Spine
 
-These repositories currently form the structural core.
+These repositories describe the core stability architecture that the rest of the constellation builds upon.
 
 ### Systems Architecture & State Control
 
@@ -105,7 +110,7 @@ These repositories address state retention and deletion under scale and recursio
 
 ---
 
-### Physical & Infrastructure Constraint
+### Infrastructure & Physical Systems
 
 - **🟢 [ZPRE-Implementation (6G ISAC)](https://github.com/leenathomas01/ZPRE-Implementation-6G)**  
   Bio-inspired interference optimization under high-noise wireless environments.
@@ -141,7 +146,23 @@ _Repo files available on request._
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
 
 ---
+## Conceptual Seeds
 
+Small, self-contained structural ideas extracted from the larger research constellation.
+
+Each seed presents a single principle in digestible form.  
+
+They function as entry points into deeper architectural repositories.
+
+- **🟢 [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
+  Lossy reconstruction as a stability mechanism preventing recursive instability and brittle replication.
+
+- **🟡 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)** *(planned)*  
+  Adversarial survivability testing for systems expected to operate under hostile conditions.
+
+Additional seeds will appear here as they are extracted from the larger architecture.
+
+---
 ## Speculative Concepts
 
 Early-stage architectural ideas parked for reference.
@@ -163,8 +184,8 @@ It evolves by:
 - Testing pattern recurrence across domains
 - Consolidating structure when it stabilizes
 
-Domains shift.
-Structural concerns repeat.
+**Domains shift.
+Structural concerns repeat.**
 
 ---
 
