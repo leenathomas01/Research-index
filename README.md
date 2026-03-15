@@ -148,7 +148,7 @@ Early-stage architectural ideas parked for reference.
 
 - **⚫[Editability Surface Architecture](https://github.com/leenathomas01/Editability-Surface-Architecture)**
 
-Speculative concept note on substrate primitives and adaptive system dynamics.
+Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
 
 ---
 
