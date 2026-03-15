@@ -17,12 +17,12 @@ All are constraint-driven reasoning artifacts.
 
 ## Structural Update - March 2026
 
+* Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 * **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** 
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
-* Added 🏷️ markers to distinguish repositories with stabilized tagged releases
-*  **Embodied Agent Governance - v1.1 Whitepaper released**
+* **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
    - Released first two seeds: The 70% Fidelity Principle, Cockroach Testing.
