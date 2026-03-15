@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 13, 2026*
+*Updated March 15, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -34,7 +34,7 @@ All are constraint-driven reasoning artifacts.
 ---
 
 **Status Legend:**
-🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | 🟦 Updating
+🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned |⚫ Experimental| 🟦 Updating
 
 **Release Marker:**
 🏷️ Tagged Release (stabilized version)
@@ -139,6 +139,16 @@ _Repo files available on request._
 
 - **🟦 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
+
+---
+
+## Speculative Concepts
+
+Early-stage architectural ideas parked for reference.
+
+- **⚫[Editability Surface Architecture](https://github.com/leenathomas01/Editability-Surface-Architecture)**
+
+Speculative concept note on substrate primitives and adaptive system dynamics.
 
 ---
 
