@@ -69,14 +69,12 @@ These repositories describe the core stability architecture that the rest of the
    Six structural requirements derived from cross-domain failure analysis - addressing failure modes unique to non-biological optimisers that human ethical frameworks were not designed to prevent.
     > Structural coherence as prerequisite for alignment, not replacement for it.
 ---
-
 ## Conceptual Seeds
-
 ---
 
 Small, self-contained structural ideas extracted from the larger research constellation.
 
-Each seed presents a single principle in digestible form.  
+Each repo (seed) presents a single principle in digestible form.  
 
 They function as entry points into deeper architectural repositories.
 
