@@ -72,6 +72,25 @@ These repositories describe the core stability architecture that the rest of the
     > Structural coherence as prerequisite for alignment, not replacement for it.
 ---
 
+## Conceptual Seeds
+
+---
+
+Small, self-contained structural ideas extracted from the larger research constellation.
+
+Each seed presents a single principle in digestible form.  
+
+They function as entry points into deeper architectural repositories.
+
+- **🟢 [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
+   Lossy reconstruction as a stability mechanism.
+
+- **🟢 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
+    Adversarial chaos injection to validate survivability.
+
+Additional seeds will appear here as they are extracted from the larger architecture.
+
+---
 ### Governance & Structural Restraint
 
 - **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**  
@@ -144,23 +163,6 @@ _Repo files available on request._
 
 - **🟦 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
-
----
-## Conceptual Seeds
-
-Small, self-contained structural ideas extracted from the larger research constellation.
-
-Each seed presents a single principle in digestible form.  
-
-They function as entry points into deeper architectural repositories.
-
-- **🟢 [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
-   Lossy reconstruction as a stability mechanism.
-
-- **🟢 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
-    Adversarial chaos injection to validate survivability.
-
-Additional seeds will appear here as they are extracted from the larger architecture.
 
 ---
 ## Speculative Concepts
