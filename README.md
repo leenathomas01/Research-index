@@ -143,15 +143,18 @@ These repositories address state retention and deletion under scale and recursio
   
               
 
-- **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)**  
+- **🟡 [GII Protocol](https://github.com/leenathomas01/gii-protocol)** - Status: PAUSED.
+
    Defines how inverter-based systems can behave turbine-like to legacy infrastructure.
   
    Primary deployment target: grid-interactive data centers.
 
   
-Concept article: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
+_**Author note:**_ Pausing further work on the repo. Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 
 _Repo files available on request._
+
+![GII Dual-Layer Topology](https://github.com/leenathomas01/gii-protocol/blob/main/docs/images/dual_layer_topology.png)
 
 ---
 
