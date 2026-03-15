@@ -157,7 +157,7 @@ They function as entry points into deeper architectural repositories.
 - **🟢 [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
    Lossy reconstruction as a stability mechanism.
 
-- **🟡 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
+- **🟢 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
     Adversarial chaos injection to validate survivability.
 
 Additional seeds will appear here as they are extracted from the larger architecture.
