@@ -17,7 +17,7 @@ All are constraint-driven reasoning artifacts.
 
 ## Structural Update - March 2026
 
-* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** (March 13, 2026)
+* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** 
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
 * Memory & Persistence layer clarified and grouped
