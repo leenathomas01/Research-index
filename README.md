@@ -25,9 +25,8 @@ All are constraint-driven reasoning artifacts.
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 *  **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
-* Constellation Structure Updates
-   - Introduced Conceptual Seeds layer - small repositories extracting single structural principles from the larger architecture.
-   - Released first seed: The 70% Fidelity Principle
+* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture.
+   - Released first two seeds: The 70% Fidelity Principle,Cockroach Testing
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
