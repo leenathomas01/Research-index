@@ -20,13 +20,12 @@ All are constraint-driven reasoning artifacts.
 * **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** 
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
-* Memory & Persistence layer clarified and grouped
 * **The Continuity Problem - v1.0 stabilized** (structural reframing of governance under persistent memory)
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
 *  **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
-* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture.
-   - Released first two seeds: The 70% Fidelity Principle,Cockroach Testing
+* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
+   - Released first two seeds: The 70% Fidelity Principle, Cockroach Testing.
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
