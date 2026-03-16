@@ -1,0 +1,25 @@
+# Stability under Constraint: Architectural Reasoning Index
+> Author: Leena Thomas (Zee)
+> Focus: Systems architecture, AI governance, and physical infrastructure stability.
+
+## Core Philosophy
+This body of work explores how complex systems (intelligent, physical, or governed) maintain structural integrity when primary assumptions fail. It prioritizes "Stability Before Alignment" and treats failure as a first-class architectural constraint.
+
+## Primary Frameworks
+- Connector OS: Control-theoretic coordination for AI under bandwidth/human-state constraints.
+- Designing for Failure: Five structural patterns for catastrophic-state systems (Asymmetric transitions, Sacrificial architecture, etc.).
+- Stability Before Alignment: Primitives for self-modifying systems; structural coherence as a prerequisite for safety.
+
+## Key Research Nodes
+- Embodied Agent Governance: Five-layer execution oversight for robotics.
+- The Continuity Problem: Governance requirements for persistent semantic memory.
+- The Consult Model: Read-only clinical reasoning architecture for healthcare AI.
+- GII Protocol: Inverter-based grid stability and "inertia" in data centers.
+
+## Methodology
+- Phase-Aligned Inquiry: Role-separated, falsifiable research protocol.
+- Conceptual Seeds: Extraction of single structural principles (e.g., The 70% Fidelity Principle).
+
+## Navigation
+Full Repository: https://github.com/leenathomas01?tab=repositories
+Detailed Index: https://github.com/leenathomas01/research-index/blob/main/README.md
