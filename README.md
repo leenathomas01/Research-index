@@ -25,7 +25,7 @@ All are constraint-driven reasoning artifacts.
 * **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
-   - Released first two seeds: The 70% Fidelity Principle (**v1.0 tagged**), Cockroach Testing.
+   - Released first two seeds: The 70% Fidelity Principle (**v1.0 tagged**), Cockroach Testing (**v1.0 tagged**).
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
@@ -81,7 +81,7 @@ They function as entry points into deeper architectural repositories.
 - **🟢 🏷️ [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
    Lossy reconstruction as a stability mechanism.
 
-- **🟢 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
+- **🟢 🏷️ [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
     Adversarial chaos injection to validate survivability.
 
 Additional seeds will appear here as they are extracted from the larger architecture.
