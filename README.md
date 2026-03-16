@@ -154,7 +154,7 @@ _**Author note:**_ Pausing further work on the repo. Released the concept articl
 
 _Repo files available on request._
 
-![GII Dual-Layer Topology](https://github.com/leenathomas01/gii-protocol/blob/main/docs/images/dual_layer_topology.png)
+![GII Dual-Layer Topology](images/dual_layer_topology.png)
 
 ---
 
