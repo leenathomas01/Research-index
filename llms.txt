@@ -2,6 +2,9 @@
 > Author: Leena Thomas (Zee)
 > Focus: Systems architecture, AI governance, and physical infrastructure stability.
 
+## Orientation
+This repository collection forms a constellation of architectural reasoning artifacts exploring stability under constraint across AI systems, governance structures, and physical infrastructure.
+
 ## Core Philosophy
 This body of work explores how complex systems (intelligent, physical, or governed) maintain structural integrity when primary assumptions fail. It prioritizes "Stability Before Alignment" and treats failure as a first-class architectural constraint.
 
