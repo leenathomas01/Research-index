@@ -78,7 +78,7 @@ Each repo (seed) presents a single principle in digestible form.
 
 They function as entry points into deeper architectural repositories.
 
-- **🟢 [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
+- **🟢 🏷️ [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
    Lossy reconstruction as a stability mechanism.
 
 - **🟢 [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
