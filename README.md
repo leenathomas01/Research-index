@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 15, 2026*
+*Updated March 16, 2026*
 
 This index maps a body of work exploring the question:
 
@@ -25,7 +25,7 @@ All are constraint-driven reasoning artifacts.
 * **Embodied Agent Governance - v1.1 Whitepaper released**
 * **Stability Before Alignment - Repo released.** (Structural Stability Architecture for Self-Modifying Systems)
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
-   - Released first two seeds: The 70% Fidelity Principle, Cockroach Testing.
+   - Released first two seeds: The 70% Fidelity Principle (v1.0 tagged), Cockroach Testing.
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
