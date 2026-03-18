@@ -172,6 +172,14 @@ Early-stage architectural ideas parked for reference.
 
 Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
 
+- **⚫ SCP**
+
+A minimal, system-agnostic protocol for storing and exchanging semantic constraints without storing language, transcripts, or embeddings. Resolves how to preserve continuity, enable collaboration, and support handoffs without creating surveillance, privacy liability, or irreversible memory.
+
+- **⚫ SDB**
+ 
+A communication pattern where a single broadcast message can be received by multiple agents, while each agent decodes only the portion intended for them. Focus: how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast. 
+
 ---
 
 ## Orientation
