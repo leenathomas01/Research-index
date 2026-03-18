@@ -1,6 +1,7 @@
 # Research Index
 *Updated March 16, 2026*
 
+
 This index maps a body of work exploring the question:
 
 **How do complex systems remain stable even when primary assumptions fail?**
@@ -222,3 +223,5 @@ LinkedIn (public writing):
 https://www.linkedin.com/in/leena-t-4895a315b/
 
 Medium (public Writing): https://medium.com/@leenathomas01 
+
+_**Note: Research Index gets updated restrospectively at times.**_
