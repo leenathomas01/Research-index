@@ -19,6 +19,8 @@ All are constraint-driven reasoning artifacts.
 ## Structural Update - March 2026
 
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases
+* **Phase-Aligned Inquiry (PACI) - v1.1 tagged**
+  * Structural Integrity Update formalizing enforcement rules, rollback constraints, and failure semantics (INVALID vs INCONCLUSIVE). Introduces Temporal Innocence as a core protocol property.
 * **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** 
 * **Designing for Failure - v1.0 tagged**
 * **The Consult Model - v1.0 tagged**
@@ -161,9 +163,16 @@ _Repo files available on request._
 
 ### Methodology
 
-- **🟦 [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
+- **🟢 🏷️ [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
   Role-separated, falsifiable collaborative research protocol enforcing sequence discipline.
 
+  v1.1 formalizes enforcement semantics:
+  - Phase violations invalidate downstream results
+  - Explicit distinction between INVALID and INCONCLUSIVE outcomes
+  - Defined rollback constraints
+  - Temporal Innocence as a core structural property
+
+  > Guarantees honest failure, not successful outcomes.
 ---
 ## Speculative Concepts
 
