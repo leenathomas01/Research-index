@@ -87,7 +87,7 @@ They function as entry points into deeper architectural repositories.
 - **🟢 🏷️ [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
     Adversarial chaos injection to validate survivability.
   
-  - **🟢 🏷️ [Keyword Compression](https://github.com/leenathomas01/keyword-compression)**  
+- **🟢 🏷️ [Keyword Compression](https://github.com/leenathomas01/keyword-compression)**  
   High-entropy semantic anchors enabling reconstruction of large conceptual contexts from minimal tokens.
 
   Observes that short, distinctive phrases can reliably reactivate entire semantic regions across AI systems, human teams, and collaborative reasoning.
