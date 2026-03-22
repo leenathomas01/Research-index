@@ -102,7 +102,7 @@ Additional seeds will appear here as they are extracted from the larger architec
 - **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**  
   Power asymmetry restraint doctrine based on auditability and obligation inversion.
 
-- **🟢 [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)**  
+- **🟢 🏷️ [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)**  
   Safety guarantees moved into adversarial, externally verifiable layers.
 
 - **🟢 🏷️ [The Consult Model](https://github.com/leenathomas01/the-consult-model)**  
