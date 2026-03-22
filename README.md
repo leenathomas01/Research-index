@@ -130,7 +130,10 @@ These repositories address state retention and deletion under scale and recursio
 ### Infrastructure & Physical Systems
 
 - **🟢 🏷️ [ZPRE-Implementation (6G ISAC)](https://github.com/leenathomas01/ZPRE-Implementation-6G)**  
-  Bio-inspired interference optimization under high-noise wireless environments.
+    
+  Adaptive Convergence Boundary for 6G ISAC
+
+  A boundary study on the limits of adaptive interference cancellation under adversarial signal structures.
 
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
