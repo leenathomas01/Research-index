@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 18, 2026*
+*Updated March 22, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -65,7 +65,7 @@ These repositories describe the core stability architecture that the rest of the
   - Break-glass override
   - Forensic memory
  
-- **🟢 [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
+- **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
    Control-theoretic stability primitives for self-modifying systems.
   
@@ -86,7 +86,7 @@ They function as entry points into deeper architectural repositories.
 
 - **🟢 🏷️ [Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)**  
     Adversarial chaos injection to validate survivability.
-
+  
 Additional seeds will appear here as they are extracted from the larger architecture.
 
 ---
