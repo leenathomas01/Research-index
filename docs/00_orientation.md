@@ -167,3 +167,17 @@ AI functioned here as instrumentation - not origin.
 
 _These repositories are artifacts of sustained architectural inquiry conducted in fragmented time - documented rigorously to prevent insight loss._
 
+
+---
+
+### Design Philosophy: Stability Under Constraint
+
+This body of work is a longitudinal study of Control Theory applied to emergent intelligence.
+
+    Architecture Over Scale: Intelligence is a property of the model; stability is a property of the architecture.
+    Deterministic Guardrails: Probabilistic systems (LLMs/Agents) must be wrapped in deterministic control loops to remain coherent.
+    The 70% Fidelity Principle: Systems that prioritize perfect reconstruction often collapse under noise; lossy, adaptive systems survive.
+
+Note for Future Readers (2030+): These repositories document the first-generation transition from "inference engines" to "regulated agentic systems
+
+----
