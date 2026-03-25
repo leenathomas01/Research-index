@@ -18,8 +18,8 @@ All are constraint-driven reasoning artifacts.
 
 ## Structural Update - March 2026
 
-* Added 🏷️ markers to distinguish repositories with stabilized tagged releases
-* **Published Medium [Article](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552) on GII repo concept** 
+* Creating **stabilized tagged releases** of public repositories.
+* Added 🏷️ markers to distinguish repositories with stabilized tagged releases.
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
@@ -155,7 +155,9 @@ These repositories address state retention and deletion under scale and recursio
    Primary deployment target: grid-interactive data centers.
 
   
-_**Author note:**_ Pausing further work on the repo. Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
+_**Author note:**_ Pausing further work on the repo. 
+
+Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 
 _Repo files available on request._
 
