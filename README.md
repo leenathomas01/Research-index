@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 22, 2026*
+*Updated March 25, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -186,7 +186,7 @@ Early-stage architectural ideas parked for reference.
 
 Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
 
-- **⚫ SCP**
+- **⚫ [SCP](https://github.com/leenathomas01/SCP)**
 
 A minimal, system-agnostic protocol for storing and exchanging semantic constraints without storing language, transcripts, or embeddings. Resolves how to preserve continuity, enable collaboration, and support handoffs without creating surveillance, privacy liability, or irreversible memory.
 
