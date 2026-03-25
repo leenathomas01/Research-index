@@ -20,8 +20,9 @@ All are constraint-driven reasoning artifacts.
 
 * Creating **stabilized tagged releases** of public repositories.
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases.
-* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. (15 March 2026)
+* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. 
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
+    * Created for SCP and SDB; serves as entry point to research index without exposing implementation. (25 March 2026)
 * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
@@ -190,9 +191,13 @@ Speculative concept note on substrate primitives and adaptive system dynamics fo
 
 A minimal, system-agnostic protocol for storing and exchanging semantic constraints without storing language, transcripts, or embeddings. Resolves how to preserve continuity, enable collaboration, and support handoffs without creating surveillance, privacy liability, or irreversible memory.
 
+_Stabilized primitive (v1.1, frozen). Private repository with public concept note._
+
 - **⚫ [SDB](https://github.com/leenathomas01/SDB)**
  
-A communication pattern where a single broadcast message can be received by multiple agents, while each agent decodes only the portion intended for them. Focus: how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast. 
+A communication pattern where a single broadcast message can be received by multiple agents, while each agent decodes only the portion intended for them. Focus: how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast.
+
+_Stabilized primitive (phased validation complete). Private repository with public concept note._
 
 ---
 
