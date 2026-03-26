@@ -215,6 +215,10 @@ A communication pattern where a single broadcast message can be received by mult
 
 _Stabilized primitive (phased validation complete). Private repository with public concept note._
 
+- **⚫ [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
+
+Structural analysis of the “Redundancy Tax” in AI inference—mapping cost anatomy and proposing a minimal, deployable mechanism to reduce cognitive recomputation without degrading reasoning.
+
 ---
 
 ## Orientation
