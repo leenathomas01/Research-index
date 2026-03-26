@@ -14,6 +14,21 @@ Some repositories are exploratory.
 Some are consolidated.
 All are constraint-driven reasoning artifacts.
 
+
+---
+
+## Method: Human–AI Hybrid Architecture
+
+This body of work is produced through a structured human–AI collaboration loop.
+
+The human defines semantic anchors, constraints, and cross-domain synthesis.  
+AI systems provide implementation speed, iteration, and computational exploration.
+
+These repositories are exploratory artifacts, not production systems.  
+They function as probes into system boundaries—particularly where stability, control, and adaptation intersect.
+
+This index reflects the output of that process: high-density, cross-domain, and intentionally compressed.
+
 ---
 
 ## Structural Update - March 2026
