@@ -20,7 +20,9 @@ All are constraint-driven reasoning artifacts.
 
 * Creating **stabilized tagged releases** of public repositories.
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases.
-* Added [concept note](https://github.com/leenathomas01/Connector-OS-Phase2) for **Connector OS Phase2** 
+* Added [concept note](https://github.com/leenathomas01/Connector-OS-Phase2) for **Connector OS Phase2**
+* Updated **[Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)** repo.
+   * Introduces dynamic + perceptual layer-> multi-layer stability for adaptive systems
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. 
 * Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
     * Created for SCP and SDB; serves as entry point to research index without exposing implementation. (25 March 2026)
