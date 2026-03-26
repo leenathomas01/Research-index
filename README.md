@@ -165,8 +165,6 @@ Released the concept article here: [The Grid Doesn't Need More Energy. It Needs 
 
 _Repo files available on request._
 
-![GII Dual-Layer Topology](docs/dual_layer_topology.png)
-
 ---
 
 ### Methodology
