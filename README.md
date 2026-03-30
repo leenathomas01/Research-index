@@ -199,7 +199,7 @@ _Repo files available on request._
 
 Early-stage architectural ideas parked for reference.
 
-- **⚫ [Editability Surface Architecture](https://github.com/leenathomas01/Editability-Surface-Architecture)**
+- **⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
 
 Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
 
