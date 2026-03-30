@@ -239,18 +239,6 @@ Proposes terrain mapping before decoding, along with agency-preserving interacti
 
 _Concept note complete. Unvalidated. Intended domain: cognitive interfaces / BCI systems._
 
-- **⚫ [Interference-Based Volumetric Storage](https://github.com/leenathomas01/Interference-Based-Volumetric-Storage)**
-
-A storage architecture that reframes reliability as a computational property rather than a materials constraint.
-
-Information is encoded as distributed spectral interference instead of discrete cells, enabling identity to persist as relational patterns across a substrate. Recovery shifts from preserving exact state to reconstructing alignment under noise, drift, or partial damage.
-
-Introduces correlation coherence (γ) as an integrity metric, replacing bit-level correctness with alignment-based recovery.
-
-  > Explores whether storage systems can degrade continuously rather than fail catastrophically—trading hardware precision for controller-side reconstruction.
-
-_Concept note complete. Physical validation pending. Intended domain: infrastructure / storage systems.Private repository with public concept note._
-
 ---
 
 ## Orientation
