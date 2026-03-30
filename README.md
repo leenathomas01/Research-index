@@ -39,9 +39,8 @@ This index reflects the output of that process: high-density, cross-domain, and 
 * Updated **[Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)** repo.
    * Introduces dynamic + perceptual layer-> multi-layer stability for adaptive systems
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. 
-* Introduced **Speculative Concepts** section to park early architectural notes that may later mature into full repositories.
-    * Created for SCP and SDB; serves as entry point to research index without exposing implementation. (25 March 2026)
-* Supporting repositories reorganized for clearer separation between:
+* Introduced **Concept Notes** section to park early architectural notes that may later mature into full repositories.
+  * Supporting repositories reorganized for clearer separation between:
   - Core primitives
   - Governance models
   - Infrastructure constraint systems
@@ -195,7 +194,7 @@ _Repo files available on request._
 
   > Guarantees honest failure, not successful outcomes.
 ---
-## Speculative Concepts
+## Concept Notes
 
 Early-stage architectural ideas parked for reference.
 
