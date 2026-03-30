@@ -17,7 +17,7 @@ All are constraint-driven reasoning artifacts.
 
 ---
 
-## Method: Human–AI Hybrid Architecture
+## Method: Human–AI Collab
 
 This body of work is produced through a structured human–AI collaboration loop.
 
