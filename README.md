@@ -35,9 +35,6 @@ This index reflects the output of that process: high-density, cross-domain, and 
 
 * Creating **stabilized tagged releases** of public repositories.
 * Added 🏷️ markers to distinguish repositories with stabilized tagged releases.
-* Added [concept note](https://github.com/leenathomas01/Connector-OS-Phase2) for **Connector OS Phase2**
-* Updated **[Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)** repo.
-   * Introduces dynamic + perceptual layer-> multi-layer stability for adaptive systems
 * Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. 
 * Introduced **Concept Notes** section to park early architectural notes that may later mature into full repositories.
 * Supporting repositories reorganized for clearer separation between:
@@ -149,12 +146,13 @@ These repositories address state retention and deletion under scale and recursio
 
 - **🟢 🏷️ [Unlearnable Interference](https://github.com/leenathomas01/Unlearnable-Interference)**  
     
-Adaptive convergence boundary under adversarial signal structures.
+  Adaptive convergence boundary under adversarial signal structures.
 
-Demonstrates that adaptive interference cancellation fails - not due to insufficient model capacity - but due to the rate and structure of discontinuities in the signal. 
-Tested against linear (FxLMS), polynomial (Volterra), kernel (KLMS), and neural (MLP) adversaries.
+  Demonstrates that adaptive interference cancellation fails - not due to insufficient model capacity - but due to the rate and structure of discontinuities in the signal. 
 
-> Formerly ZPRE-Implementation. Includes 6G ISAC integration harness.
+  Tested against linear (FxLMS), polynomial (Volterra), kernel (KLMS), and neural (MLP) adversaries.
+
+  > Formerly ZPRE-Implementation. Includes 6G ISAC integration harness.
 
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
