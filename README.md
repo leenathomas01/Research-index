@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 26, 2026*
+*Updated March 30, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -198,7 +198,7 @@ _Repo files available on request._
 
 Early-stage architectural ideas parked for reference.
 
-- **⚫[Editability Surface Architecture](https://github.com/leenathomas01/Editability-Surface-Architecture)**
+- **⚫ [Editability Surface Architecture](https://github.com/leenathomas01/Editability-Surface-Architecture)**
 
 Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
 
@@ -216,7 +216,37 @@ _Stabilized primitive (phased validation complete). Private repository with publ
 
 - **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
 
-Structural analysis of the “Redundancy Tax” in AI inference—mapping cost anatomy and proposing a minimal, deployable mechanism to reduce cognitive recomputation without degrading reasoning.
+A structural analysis of AI inference cost showing that a significant portion of compute is spent on redundant recomputation rather than novel reasoning.
+
+Identifies systemic inefficiencies in stateless architectures and proposes conditional conclusion caching — a minimal intervention that reduces repeated cognition without degrading reasoning quality through relevance-gated reuse.
+
+  > Memory as compute avoidance rather than storage.
+
+_Concept note complete. Mechanism proposed, not deployed._
+
+- **⚫ [Cognitive Terrain and Interface Blindspots](https://github.com/leenathomas01/Cognitive-Terrain-and-Interface-Blindspots)**
+
+A structural analysis of blind spots in current brain–machine interface design, focusing on what is not measured rather than what is decoded.
+
+Introduces pre-decision states, unresolved intent, and silence as uncharacterized regions of cognitive signal space, and argues that current pipelines collapse ambiguity prematurely by optimizing for dominant intent extraction.
+
+Proposes terrain mapping before decoding, along with agency-preserving interaction models as constraints for future cognitive co-processing systems.
+
+  > Explores whether interface design should map cognitive state space before attempting to resolve it.
+
+_Concept note complete. Unvalidated. Intended domain: cognitive interfaces / BCI systems._
+
+- **⚫ [Interference-Based Volumetric Storage](https://github.com/leenathomas01/Interference-Based-Volumetric-Storage)**
+
+A storage architecture that reframes reliability as a computational property rather than a materials constraint.
+
+Information is encoded as distributed spectral interference instead of discrete cells, enabling identity to persist as relational patterns across a substrate. Recovery shifts from preserving exact state to reconstructing alignment under noise, drift, or partial damage.
+
+Introduces correlation coherence (γ) as an integrity metric, replacing bit-level correctness with alignment-based recovery.
+
+  > Explores whether storage systems can degrade continuously rather than fail catastrophically—trading hardware precision for controller-side reconstruction.
+
+_Concept note complete. Physical validation pending. Intended domain: infrastructure / storage systems._
 
 ---
 
