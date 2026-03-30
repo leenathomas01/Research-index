@@ -147,11 +147,14 @@ These repositories address state retention and deletion under scale and recursio
 
 ### Infrastructure & Physical Systems
 
-- **🟢 🏷️ [ZPRE-Implementation (6G ISAC)](https://github.com/leenathomas01/ZPRE-Implementation-6G)**  
+- **🟢 🏷️ [Unlearnable Interference](https://github.com/leenathomas01/Unlearnable-Interference)**  
     
-  Adaptive Convergence Boundary for 6G ISAC
+Adaptive convergence boundary under adversarial signal structures.
 
-  A boundary study on the limits of adaptive interference cancellation under adversarial signal structures.
+Demonstrates that adaptive interference cancellation fails - not due to insufficient model capacity - but due to the rate and structure of discontinuities in the signal. 
+Tested against linear (FxLMS), polynomial (Volterra), kernel (KLMS), and neural (MLP) adversaries.
+
+> Formerly ZPRE-Implementation. Includes 6G ISAC integration harness.
 
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
