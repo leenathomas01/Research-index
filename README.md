@@ -246,7 +246,7 @@ Introduces correlation coherence (γ) as an integrity metric, replacing bit-leve
 
   > Explores whether storage systems can degrade continuously rather than fail catastrophically—trading hardware precision for controller-side reconstruction.
 
-_Concept note complete. Physical validation pending. Intended domain: infrastructure / storage systems._
+_Concept note complete. Physical validation pending. Intended domain: infrastructure / storage systems.Private repository with public concept note._
 
 ---
 
