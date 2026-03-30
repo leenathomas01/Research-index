@@ -152,7 +152,7 @@ These repositories address state retention and deletion under scale and recursio
 
   Tested against linear (FxLMS), polynomial (Volterra), kernel (KLMS), and neural (MLP) adversaries.
 
-  > Formerly ZPRE-Implementation. Includes 6G ISAC integration harness.
+  > Formerly ZPRE-Implementation-6G. Includes 6G ISAC integration harness.
 
 - **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
