@@ -106,7 +106,7 @@ Additional seeds will appear here as they are extracted from the larger architec
 ---
 ### Governance & Structural Restraint
 
-- **🟢 [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**  
+- **🟢 🏷️ [Power Asymmetry Restraint Protocol - PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP)**  
   Power asymmetry restraint doctrine based on auditability and obligation inversion.
 
 - **🟢 🏷️ [Doctrine of Externalization](https://github.com/leenathomas01/doctrine-of-externalization)**  
