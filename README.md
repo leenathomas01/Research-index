@@ -217,11 +217,15 @@ A minimal, system-agnostic protocol for storing and exchanging semantic constrai
 
 _Stabilized primitive (v1.1, frozen). Private repository with public concept note._
 
-- **⚫ [SDB](https://github.com/leenathomas01/SDB)**
+- **⚫ 🟦 [SDB](https://github.com/leenathomas01/SDB)**
  
-A communication pattern where a single broadcast message can be received by multiple agents, while each agent decodes only the portion intended for them. Focus: how multi-recipient broadcasts can preserve per-recipient isolation, bounded safety, and auditability—without reverting to unicast.
+A communication primitive for multi-recipient systems. 
 
-_Stabilized primitive (phased validation complete). Private repository with public concept note._
+It enables:
+
+efficiency (broadcast) + containment (isolation) + auditability (replay)
+
+_Fleshing out repo ongoing_
 
 - **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
 
