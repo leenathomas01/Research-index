@@ -1,5 +1,5 @@
 # Research Index
-*Updated March 30, 2026*
+*Updated April 02, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -154,7 +154,7 @@ These repositories address state retention and deletion under scale and recursio
 
   > Formerly ZPRE-Implementation-6G. Includes 6G ISAC integration harness.
 
-- **🟢 [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
+- **🟢 🏷️ [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)**  
   Closed-loop thermodynamic architecture treating heat as a first-class system output.
 
 - **🟢🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)**
@@ -202,6 +202,14 @@ Early-stage architectural ideas parked for reference.
 - **⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
 
 Speculative concept note on substrate primitives and adaptive system dynamics for portable or installable intelligence.
+
+Added an extension - Adaptive State Streaming Interpretation. 
+
+    > The interpretation suggests that:
+    >
+    > - Portable intelligence may function as streamed orientation rather than deployed models
+    > - Substrate design determines how much adaptation is possible post-deployment
+    > - Stability depends on how feedback is regulated, not just capability
 
 - **⚫ [SCP](https://github.com/leenathomas01/SCP)**
 
