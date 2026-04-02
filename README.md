@@ -189,11 +189,11 @@ Speculative concept note on substrate primitives and adaptive system dynamics fo
 
 Added an extension - Adaptive State Streaming Interpretation. 
 
-    > The interpretation suggests that:
-    >
-    > - Portable intelligence may function as streamed orientation rather than deployed models
-    > - Substrate design determines how much adaptation is possible post-deployment
-    > - Stability depends on how feedback is regulated, not just capability
+> The interpretation suggests that:
+>
+> - Portable intelligence may function as streamed orientation rather than deployed models
+> - Substrate design determines how much adaptation is possible post-deployment
+> - Stability depends on how feedback is regulated, not just capability
 
 - **⚫ [SCP](https://github.com/leenathomas01/SCP)**
 
@@ -201,7 +201,7 @@ A minimal, system-agnostic protocol for storing and exchanging semantic constrai
 
 _Stabilized primitive (v1.1, frozen). Private repository with public concept note._
 
-- **⚫ 🟦 [SDB](https://github.com/leenathomas01/SDB)**
+- **🟢 🟦 [SDB](https://github.com/leenathomas01/SDB)**
  
 A communication primitive for multi-recipient systems. 
 
