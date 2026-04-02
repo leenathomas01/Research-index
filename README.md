@@ -31,22 +31,6 @@ This index reflects the output of that process: high-density, cross-domain, and 
 
 ---
 
-## Structural Update - March 2026
-
-* Creating **stabilized tagged releases** of public repositories.
-* Added 🏷️ markers to distinguish repositories with stabilized tagged releases.
-* Introduced **Conceptual Seeds** layer - small repositories extracting single structural principles from the larger architecture. 
-* Introduced **Concept Notes** section to park early architectural notes that may later mature into full repositories.
-* Supporting repositories reorganized for clearer separation between:
-  - Core primitives
-  - Governance models
-  - Infrastructure constraint systems
-  - Research methodology
-  - Conceptual seeds
-  - Concept Notes
-
----
-
 **Status Legend:**
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned |⚫ Experimental | 🟦 Updating
 
