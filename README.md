@@ -165,6 +165,14 @@ Released the concept article here: [The Grid Doesn't Need More Energy. It Needs 
 _Repo files available on request._
 
 ---
+### Communication & Coordination Primitives
+
+- 🟢 🟦 **[Selective Decode Broadcast (SDB)](https://github.com/leenathomas01/SDB)**  
+
+  A phased, sandboxed research system exploring broadcast communication with per-recipient isolation, containment, and deterministic auditability.
+
+  _Fleshing out repo ongoing_
+---
 
 ### Methodology
 
@@ -200,16 +208,6 @@ Added an extension - Adaptive State Streaming Interpretation.
 A minimal, system-agnostic protocol for storing and exchanging semantic constraints without storing language, transcripts, or embeddings. Resolves how to preserve continuity, enable collaboration, and support handoffs without creating surveillance, privacy liability, or irreversible memory.
 
 _Stabilized primitive (v1.1, frozen). Private repository with public concept note._
-
-- **🟢 🟦 [SDB](https://github.com/leenathomas01/SDB)**
- 
-A communication primitive for multi-recipient systems. 
-
-It enables:
-
-efficiency (broadcast) + containment (isolation) + auditability (replay)
-
-_Fleshing out repo ongoing_
 
 - **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
 
