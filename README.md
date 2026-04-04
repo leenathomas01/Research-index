@@ -158,20 +158,18 @@ These repositories address state retention and deletion under scale and recursio
    Primary deployment target: grid-interactive data centers.
 
   
-_**Author note:**_ Pausing further work on the repo. 
+  _**Author note:**_ Pausing further work on the repo. 
 
-Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
-
-_Repo files available on request._
+  Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 
 ---
+
 ### Communication & Coordination Primitives
 
-- 🟢 🟦 **[Selective Decode Broadcast (SDB)](https://github.com/leenathomas01/SDB)**  
+- 🟢 🏷️ **[Selective Decode Broadcast (SDB)](https://github.com/leenathomas01/SDB-Selective-Decode-Broadcast)**  
 
   A phased, sandboxed research system exploring broadcast communication with per-recipient isolation, containment, and deterministic auditability.
 
-  _Fleshing out repo ongoing_
 ---
 
 ### Methodology
