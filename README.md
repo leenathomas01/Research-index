@@ -1,5 +1,5 @@
 # Research Index
-*Updated April 03, 2026*
+*Updated April 04, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -14,6 +14,11 @@ Some repositories are exploratory.
 Some are consolidated.
 All are constraint-driven reasoning artifacts.
 
+---
+# April Updates
+
+* Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
+* Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
 
 ---
 
