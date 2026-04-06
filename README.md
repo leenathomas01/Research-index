@@ -19,7 +19,7 @@ All are constraint-driven reasoning artifacts.
 
 * Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
 * Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
-* Fleshed out repo from concept note and tagged release for 
+* Fleshed out repo from concept note and tagged release for Cognitive Terrain and Interface Blindspots.
 
 ---
 
