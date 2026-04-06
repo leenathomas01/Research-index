@@ -1,5 +1,5 @@
 # Research Index
-*Updated April 04, 2026*
+*Updated April 06, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -19,6 +19,7 @@ All are constraint-driven reasoning artifacts.
 
 * Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
 * Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
+* Fleshed out repo from concept note and tagged release for 
 
 ---
 
@@ -177,6 +178,20 @@ These repositories address state retention and deletion under scale and recursio
 
 ---
 
+### Cognitive Interfaces & Signal Interpretation
+
+- **🟢 🏷️ [Cognitive Terrain and Interface Blindspots](https://github.com/leenathomas01/Cognitive-Terrain-and-Interface-Blindspots)**  
+
+  Structural mapping of unmeasured cognitive states in brain–machine interface design.
+
+  Identifies blind spots such as silence, unresolved intent, and pre-decision states, and examines how current decoding pipelines collapse ambiguity prematurely.
+
+  Introduces terrain mapping before decoding, along with agency-preserving interaction constraints for future cognitive co-processing systems.
+
+  > Explores whether cognitive interfaces should model state space before attempting to resolve intent.
+  
+---  
+
 ### Methodology
 
 - **🟢 🏷️ [Phase-Aligned Inquiry](https://github.com/leenathomas01/phase-aligned-inquiry)**  
@@ -221,18 +236,6 @@ Identifies systemic inefficiencies in stateless architectures and proposes condi
   > Memory as compute avoidance rather than storage.
 
 _Concept note complete. Mechanism proposed, not deployed._
-
-- **⚫ [Cognitive Terrain and Interface Blindspots](https://github.com/leenathomas01/Cognitive-Terrain-and-Interface-Blindspots)**
-
-A structural analysis of blind spots in current brain–machine interface design, focusing on what is not measured rather than what is decoded.
-
-Introduces pre-decision states, unresolved intent, and silence as uncharacterized regions of cognitive signal space, and argues that current pipelines collapse ambiguity prematurely by optimizing for dominant intent extraction.
-
-Proposes terrain mapping before decoding, along with agency-preserving interaction models as constraints for future cognitive co-processing systems.
-
-  > Explores whether interface design should map cognitive state space before attempting to resolve it.
-
-_Concept note complete. Unvalidated. Intended domain: cognitive interfaces / BCI systems._
 
 ---
 
