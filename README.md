@@ -1,5 +1,5 @@
 # Research Index
-*Updated April 06, 2026*
+*Updated April 14, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -20,7 +20,7 @@ All are constraint-driven reasoning artifacts.
 * Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
 * Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
 * Fleshed out repo from concept note and tagged release for Cognitive Terrain and Interface Blindspots.
-* Added new repo Reconstruction-Oriented Storage under
+* Added new repo Reconstruction-Oriented Storage under Memory, Persistence & Continuity
 
 ---
 
@@ -66,7 +66,6 @@ These repositories describe the core stability architecture that the rest of the
 ---
 ## Conceptual Seeds
 ---
-
 Small, self-contained structural ideas extracted from the larger research constellation.
 
 Each repo (seed) presents a single principle in digestible form.  
@@ -126,6 +125,7 @@ These repositories address state retention and deletion under scale and recursio
   Multimodal alignment failure analysis and architectural extraction (prosodic jailbreak and persona persistence phenomena).
 
 - **🟢 [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)**
+
   Exploring storage systems where reliability emerges from reconstruction, not preservation.
 ---
 
