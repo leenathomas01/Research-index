@@ -20,6 +20,7 @@ All are constraint-driven reasoning artifacts.
 * Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
 * Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
 * Fleshed out repo from concept note and tagged release for Cognitive Terrain and Interface Blindspots.
+* Added new repo Reconstruction-Oriented Storage under
 
 ---
 
@@ -54,13 +55,7 @@ These repositories describe the core stability architecture that the rest of the
   Control-theoretic coordination architecture for stabilizing AI systems under bandwidth, latency, and human-state constraints.
 
 - **🟢 🏷️ [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**  
-  Five recurring structural patterns for catastrophic-state systems:
-
-  - Asymmetric transitions
-  - Sacrificial architecture
-  - Distributed validation
-  - Break-glass override
-  - Forensic memory
+  Five recurring structural patterns for catastrophic-state systems: _Asymmetric transitions, Sacrificial architecture, Distributed validation, Break-glass override, and Forensic memory_
  
 - **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
@@ -130,6 +125,8 @@ These repositories address state retention and deletion under scale and recursio
 - **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)**  
   Multimodal alignment failure analysis and architectural extraction (prosodic jailbreak and persona persistence phenomena).
 
+- **🟢 [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)**
+  Exploring storage systems where reliability emerges from reconstruction, not preservation.
 ---
 
 ### Infrastructure & Physical Systems
