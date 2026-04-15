@@ -1,5 +1,5 @@
 # Research Index
-*Updated April 14, 2026*
+*Updated April 15, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -17,10 +17,11 @@ All are constraint-driven reasoning artifacts.
 ---
 # April Updates
 
-* Added tagged releases of repos Power Asymmetry Restraint Protocol, Zero Water AI Data Center.
-* Added new repo Selective Decode Broadcast (SDB) under Communication & Coordination Primitives
-* Fleshed out repo from concept note and tagged release for Cognitive Terrain and Interface Blindspots.
-* Added new repo Reconstruction-Oriented Storage under Memory, Persistence & Continuity
+* Added tagged releases of repos _Power Asymmetry Restraint Protocol_, _Zero Water AI Data Center_.
+* Added new repo - _Selective Decode Broadcast (SDB)_ - under Communication & Coordination Primitives
+* Fleshed out repo  _Cognitive Terrain and Interface Blindspots_ from concept note and created tagged release.
+* Added new repo - _Reconstruction-Oriented Storage_- under Memory, Persistence & Continuity
+* Added Phase 3 - Alignment Controller (MVM-0.3) for _Connector OS_ repo.
 
 ---
 
