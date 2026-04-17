@@ -61,21 +61,21 @@ These repositories describe the core stability architecture that the rest of the
 - **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
    Control-theoretic stability primitives for self-modifying systems.
-  
+    
    Six structural requirements derived from cross-domain failure analysis - addressing failure modes unique to non-biological optimisers that human ethical frameworks were not designed to prevent.
+
     > Structural coherence as prerequisite for alignment, not replacement for it.
 
-   **Repo currently being updated to include**
+   **April 2026: Repo updated to include**
   
     - Three new locked laws -> AEC — Affordance Escalation Constraint, ESI — Evaluation Surface Isolation, and CRL — Constraint Robustness Layer
     - One observation -> TGI — Trajectory Grounding Invariant  
 ---
+
 ## Conceptual Seeds
----
-Small, self-contained structural ideas extracted from the larger research constellation.
 
+Small, self-contained structural ideas extracted from the larger research constellation. 
 Each repo (seed) presents a single principle in digestible form.  
-
 They function as entry points into deeper architectural repositories.
 
 - **🟢 🏷️ [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**  
