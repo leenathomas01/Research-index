@@ -1,5 +1,5 @@
 # Research Index
-*Updated April 15, 2026*
+*Updated April 17, 2026*
 
 
 This index maps a body of work exploring the question:
@@ -22,7 +22,7 @@ All are constraint-driven reasoning artifacts.
 * Fleshed out repo  _Cognitive Terrain and Interface Blindspots_ from concept note and created tagged release.
 * Added new repo - _Reconstruction-Oriented Storage_- under Memory, Persistence & Continuity
 * Added Phase 3 - Alignment Controller (MVM-0.3) for _Connector OS_ repo.
-
+* Added Phase 4 - Infrastructure-Coupled Regulation on 17 April 2026 for _Connector OS_ repo.
 ---
 
 ## Method: Human–AI Collab
@@ -58,7 +58,7 @@ These repositories describe the core stability architecture that the rest of the
 - **🟢 🏷️ [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)**  
   Five recurring structural patterns for catastrophic-state systems: _Asymmetric transitions, Sacrificial architecture, Distributed validation, Break-glass override, and Forensic memory_
  
-- **🟦 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
+- **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
    Control-theoretic stability primitives for self-modifying systems.
   
