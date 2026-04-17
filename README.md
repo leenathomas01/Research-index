@@ -22,7 +22,8 @@ All are constraint-driven reasoning artifacts.
 * Fleshed out repo  _Cognitive Terrain and Interface Blindspots_ from concept note and created tagged release.
 * Added new repo - _Reconstruction-Oriented Storage_- under Memory, Persistence & Continuity
 * Added Phase 3 - Alignment Controller (MVM-0.3) for _Connector OS_ repo.
-* Added Phase 4 - Infrastructure-Coupled Regulation on 17 April 2026 for _Connector OS_ repo.
+* Added Phase 4 - Infrastructure-Coupled Regulation for _Connector OS_ repo.
+* Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function. 
 ---
 
 ## Method: Human–AI Collab
@@ -87,8 +88,6 @@ They function as entry points into deeper architectural repositories.
 - **🟢 🏷️ [Keyword Compression](https://github.com/leenathomas01/keyword-compression)**  
   High-entropy semantic anchors enabling reconstruction of large conceptual contexts from minimal tokens.
 
-  Observes that short, distinctive phrases can reliably reactivate entire semantic regions across AI systems, human teams, and collaborative reasoning.
-
   > Reconstruction over retrieval as a compression primitive.
   
 Additional seeds will appear here as they are extracted from the larger architecture.
@@ -139,9 +138,7 @@ These repositories address state retention and deletion under scale and recursio
 
 - **🟢 🏷️ [Unlearnable Interference](https://github.com/leenathomas01/Unlearnable-Interference)**  
     
-  Adaptive convergence boundary under adversarial signal structures.
-
-  Demonstrates that adaptive interference cancellation fails - not due to insufficient model capacity - but due to the rate and structure of discontinuities in the signal. 
+  Adaptive convergence boundary under adversarial signal structures. Demonstrates that adaptive interference cancellation fails - not due to insufficient model capacity - but due to the rate and structure of discontinuities in the signal. 
 
   Tested against linear (FxLMS), polynomial (Volterra), kernel (KLMS), and neural (MLP) adversaries.
 
