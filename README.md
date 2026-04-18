@@ -74,6 +74,7 @@ probes into system boundaries where stability, control, and adaptation intersect
 ## Status Legend
 
 🟢 Public | 🔴 Private | 🟡 Ongoing | ⚪ Planned | ⚫ Experimental | 🟦 Updating
+
 🏷️ Tagged Release = stabilized version
 
 ---
@@ -150,7 +151,8 @@ Where constraints become physical.
 * **🟢 🏷️ [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)** — thermodynamic loop design
 * **🟢🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)** — real-world execution oversight
 * **🟡 [GII Protocol (paused)](https://github.com/leenathomas01/gii-protocol)** — inertia for grid systems
-
+ 
+    Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 ---
 
 # Communication & Coordination
