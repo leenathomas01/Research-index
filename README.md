@@ -145,6 +145,8 @@ State retention, deletion, and recursion under scale.
 
 # Cognitive Governance & Adaptive Systems
 
+_Governs when memory and prior reasoning may be reused, revised, or discarded_ 
+
 How systems regulate reasoning, reuse, and memory under constraint.
 
 * **🟢 🏷️ [Adaptive Cognition](https://github.com/leenathomas01/adaptive-cognition)** - Constraint-driven governance for reasoning under state → validity over similarity, compute proportional to change.
