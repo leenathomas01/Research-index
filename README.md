@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated April 17, 2026*
+*Updated April 18, 2026*
 
 ---
 
@@ -143,6 +143,14 @@ State retention, deletion, and recursion under scale.
 
 ---
 
+# Cognitive Governance & Adaptive Systems
+
+How systems regulate reasoning, reuse, and memory under constraint.
+
+* **🟢 🏷️ [Adaptive Cognition](https://github.com/leenathomas01/adaptive-cognition)** - Constraint-driven governance for reasoning under state → validity over similarity, compute proportional to change.
+
+---
+
 # Infrastructure & Physical Systems
 
 Where constraints become physical.
@@ -189,6 +197,7 @@ Exploratory ideas. Not yet stabilized.
 * **⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
 * **⚫ [SCP (Semantic Constraint Protocol)](https://github.com/leenathomas01/SCP)**
 * **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
+* **⚫ [TITANS, MIRAS and Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)**
 
 > Mechanisms proposed. Not deployed.
 
@@ -227,8 +236,9 @@ If you use them:
 * Added new repo - _Reconstruction-Oriented Storage_- under Memory, Persistence & Continuity
 * Added Phase 3 - Alignment Controller (MVM-0.3) for _Connector OS_ repo.
 * Added Phase 4 - Infrastructure-Coupled Regulation for _Connector OS_ repo.
-* Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function. 
-
+* Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function.
+* Included repos _Adaptive Cognition_ and _TITANS, MIRAS and Dolphin Twin_ into research index .
+ 
 > If you're new, start with **"Start Here"** above.
 
 ---
