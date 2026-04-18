@@ -197,7 +197,7 @@ Exploratory ideas. Not yet stabilized.
 * **⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
 * **⚫ [SCP (Semantic Constraint Protocol)](https://github.com/leenathomas01/SCP)**
 * **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
-* **⚫ [TITANS, MIRAS and Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)**
+* **⚫ [TITANS, MIRAS and Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)** — surprise-gated memory (exploratory)
 
 > Mechanisms proposed. Not deployed.
 
