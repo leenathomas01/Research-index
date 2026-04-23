@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated April 18, 2026*
+*Updated April 23, 2026*
 
 ---
 
@@ -102,6 +102,11 @@ Core control structures for maintaining stability under constraint.
   Structural patterns for catastrophic-state systems
   → asymmetric transitions, sacrificial architecture, forensic memory
 
+* **🟢 ⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/transition-grammar-for-reasoning-systems)**  
+  Transition-level control architecture for reasoning systems
+    → models state transitions as first-class objects and introduces a routing field that allocates decision precision based on solution-space structure
+  
+  Introduces transition-level routing and pre-output validation, extending stability control from state representation to state change selection.
 ---
 
 # Entry Points (Low Overhead Concepts)
@@ -240,6 +245,7 @@ If you use them:
 * Added Phase 4 - Infrastructure-Coupled Regulation for _Connector OS_ repo.
 * Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function.
 * Included repos _Adaptive Cognition_ and _TITANS, MIRAS and Dolphin Twin_ into research index .
+* Expanded repo _Transition Grammar for Reasoning Systems_ and added to main research index.
  
 > If you're new, start with **"Start Here"** above.
 
