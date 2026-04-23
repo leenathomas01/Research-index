@@ -102,11 +102,6 @@ Core control structures for maintaining stability under constraint.
   Structural patterns for catastrophic-state systems
   → asymmetric transitions, sacrificial architecture, forensic memory
 
-* **🟢 ⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/transition-grammar-for-reasoning-systems)**  
-  Transition-level control architecture for reasoning systems
-    → models state transitions as first-class objects and introduces a routing field that allocates decision precision based on solution-space structure
-  
-  Introduces transition-level routing and pre-output validation, extending stability control from state representation to state change selection.
 ---
 
 # Entry Points (Low Overhead Concepts)
@@ -170,6 +165,12 @@ Where constraints become physical.
     Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 ---
 
+# Reasoning & State Transition Control
+
+* **⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
+  Models reasoning as state transitions with operator-based routing and Δ metrics.  
+  Introduces a Layer 0 control condition: ensuring external signals can causally update state before applying stability constraints.
+  
 # Communication & Coordination
 
 How systems interact under constraint.
