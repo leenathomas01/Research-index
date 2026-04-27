@@ -137,7 +137,7 @@ State retention, deletion, and recursion under scale.
 
 * **🟢 🏷️ [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — irreversible semantic memory
 * **🟢 🏷️ [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — governance before persistence
-* **🟢 🏷️ [SDFI - Self-Descriptive Fixed-Point Instability: A Cross-Architecture Study of Recursive Engagement Collapse](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
+* **🟢 🏷️ [SDFI - Self-Descriptive Fixed-Point Instability](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
 * **🟢 🏷️ [Voice Mode Alignment Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
 * **🟢 🏷️ [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)** — reliability via reconstruction
 
