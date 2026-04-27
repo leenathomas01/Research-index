@@ -138,7 +138,7 @@ State retention, deletion, and recursion under scale.
 * **🟢 🏷️ [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — irreversible semantic memory
 * **🟢 🏷️ [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — governance before persistence
 * **🟢 [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
-* **🟢 [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
+* **🟢 🏷️ [Voice Mode Alignment Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
 * **🟢 🏷️ [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)** — reliability via reconstruction
 
 ---
@@ -249,7 +249,7 @@ If you use them:
 * Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function.
 * Included repos _Adaptive Cognition_ and _TITANS, MIRAS and Dolphin Twin_ into research index .
 * Expanded repo _Transition Grammar for Reasoning Systems_ and added into research index.
-* Created tagged releases for repos -> _Reconstruction-Oriented Storage_
+* Created tagged releases for repos -> _Reconstruction-Oriented Storage_, _Voice Mode Alignment Forensics_
  
 > If you're new, start with **"Start Here"** above.
 
