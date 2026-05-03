@@ -104,7 +104,13 @@ Core control structures for maintaining stability under constraint.
 
 * **🟢⚫ [Hyperloop → FXSO](https://github.com/leenathomas01/hyperloop-fxso)**  
 
-  From Hyperloop Transformers to a testable framework for emergent intelligence via constrained dynamical fields (FXSO). Includes derivations, experiments, and open questions. References: [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
+  Emergent intelligence via constrained dynamical fields
+  
+  → runnable minimal experiments (field coupling regimes: drift / coherence / collapse)  
+
+  → bridges transition dynamics (TG) with stability constraints (SBA)
+
+  → References: [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
 
 ---
 
