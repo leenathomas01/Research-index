@@ -106,11 +106,11 @@ Core control structures for maintaining stability under constraint.
 
   Emergent intelligence via constrained dynamical fields
   
+  → Derived from [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
+
   → runnable minimal experiments (field coupling regimes: drift / coherence / collapse)  
 
   → bridges transition dynamics (TG) with stability constraints (SBA)
-
-  → References: [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
 
 ---
 
