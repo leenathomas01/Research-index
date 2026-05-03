@@ -21,15 +21,19 @@ the constraint remains the same:
 
 If you're new, choose a path:
 
-* **Core System Architecture (start here if unsure):**
+* **Conceptual Foundations (how reasoning and stability are structured)**
+
+→ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)
+
+→ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)
+
+* **System Architecture (how these ideas are instantiated in real systems)**
 
   → [Connector OS](https://github.com/leenathomas01/connector-os)  
 
-  → [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)
+ * **Emergent Systems (how patterns form under constraint)**
 
-* **Failure & Safety Patterns:**
-
-  → [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)
+ → [Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso) 
 
 * **Quick Entry (low-overhead concepts):**
 
@@ -37,11 +41,6 @@ If you're new, choose a path:
 
   → [Keyword Compression](https://github.com/leenathomas01/keyword-compression)
 
-* **Infrastructure & Physical Systems:**
-
-  → [Unlearnable Interference](https://github.com/leenathomas01/Unlearnable-Interference)
-
-  → [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc)
 
 This is not a linear body of work.
 Start anywhere - but start with one path.
@@ -92,7 +91,14 @@ Core architectures that define the system.
 Core control structures for maintaining stability under constraint.
 
 * **🟢 🏷️ [Connector OS](https://github.com/leenathomas01/connector-os)** 
-  Control-theoretic coordination architecture under bandwidth, latency, and human-state constraints
+
+  Control-theoretic architecture for regulated human–AI systems  
+
+  → layered control stack (sensors → control logic → actuators → co-thought)  
+
+  → treats models as pluggable components within a closed-loop system  
+
+  → instantiates stability (SBA) and transition control (TG) in deployment
 
 * **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
