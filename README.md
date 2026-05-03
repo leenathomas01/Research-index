@@ -95,8 +95,12 @@ Core control structures for maintaining stability under constraint.
   Control-theoretic coordination architecture under bandwidth, latency, and human-state constraints
 
 * **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
-  Stability primitives for self-modifying systems
-  → introduces AEC, ESI, CRL, and TGI invariants
+
+  Structural and dynamic constraints for coherence in self-modifying systems
+
+  → defines Layer 1–3 invariants (AEC, ESI, CRL) over a trajectory-grounded system
+
+  → ensures systems remain stable under modification before alignment is applied
 
 * **🟢 🏷️ [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)** 
   Structural patterns for catastrophic-state systems
@@ -180,9 +184,16 @@ Where constraints become physical.
 # Reasoning & State Transition Control
 
 * **🟢⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
-  Models reasoning as state transitions with operator-based routing and Δ metrics.  
-  Introduces a Layer 0 control condition: ensuring external signals can causally update state before applying stability constraints.
 
+  Reasoning as state transitions with operator-based routing and Δ validation
+
+  → transition is a first-class object (detect → select → validate → commit)
+
+  → Layer 0: ensures state remains causally writable before higher-level constraints
+
+  → prevents hallucinated closure via stable non-resolution (TSOL / SRE)
+
+  → Layer 0 beneath Stability Before Alignment (SBA)
 ---
 
 # Communication & Coordination
