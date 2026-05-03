@@ -23,9 +23,9 @@ If you're new, choose a path:
 
 * **Conceptual Foundations (how reasoning and stability are structured)**
 
-→ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)
+  → [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)
 
-→ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)
+  → [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)
 
 * **System Architecture (how these ideas are instantiated in real systems)**
 
@@ -33,7 +33,7 @@ If you're new, choose a path:
 
  * **Emergent Systems (how patterns form under constraint)**
 
- → [Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso) 
+   → [Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso) 
 
 * **Quick Entry (low-overhead concepts):**
 
