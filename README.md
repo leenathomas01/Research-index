@@ -108,7 +108,9 @@ Core control structures for maintaining stability under constraint.
   
   → Derived from [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
 
-  → runnable minimal experiments (field coupling regimes: drift / coherence / collapse)  
+  → runnable minimal experiments (field coupling regimes: drift / coherence / collapse)
+
+  → no explicit training, evaluation, or reward
 
   → bridges transition dynamics (TG) with stability constraints (SBA)
 
