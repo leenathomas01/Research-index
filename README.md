@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated April 27, 2026*
+*Updated May 03, 2026*
 
 ---
 
@@ -102,6 +102,10 @@ Core control structures for maintaining stability under constraint.
   Structural patterns for catastrophic-state systems
   → asymmetric transitions, sacrificial architecture, forensic memory
 
+* **🟢⚫ [Hyperloop → FXSO](https://github.com/leenathomas01/hyperloop-fxso)**  
+
+  From Hyperloop Transformers to a testable framework for emergent intelligence via constrained dynamical fields (FXSO). Includes derivations, experiments, and open questions. References: [Hyperloop Transformers](https://arxiv.org/abs/2604.21254) (MIT, 2026)
+
 ---
 
 # Entry Points (Low Overhead Concepts)
@@ -167,7 +171,7 @@ Where constraints become physical.
 
 # Reasoning & State Transition Control
 
-* **⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
+* **🟢⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
   Models reasoning as state transitions with operator-based routing and Δ metrics.  
   Introduces a Layer 0 control condition: ensuring external signals can causally update state before applying stability constraints.
 
@@ -240,17 +244,8 @@ If you use them:
 
 ## Recent Updates (for returning readers)
 
-* Added tagged releases of repos _Power Asymmetry Restraint Protocol_, _Zero Water AI Data Center_.
-* Added new repo - _Selective Decode Broadcast (SDB)_ - under Communication & Coordination Primitives
-* Fleshed out repo  _Cognitive Terrain and Interface Blindspots_ from concept note and created tagged release.
-* Added new repo - _Reconstruction-Oriented Storage_- under Memory, Persistence & Continuity
-* Added Phase 3 - Alignment Controller (MVM-0.3) for _Connector OS_ repo.
-* Added Phase 4 - Infrastructure-Coupled Regulation for _Connector OS_ repo.
-* Updated repo _Stability Before Alignment_ to include Dynamic Stability and Interface Constraints (v2.0) derived from analysis of the [**Mythos system card preview**](https://cdn.sanity.io/files/4zrzovbb/website/7624816413e9b4d2e3ba620c5a5e091b98b190a5.pdf) as a forcing function.
-* Included repos _Adaptive Cognition_ and _TITANS, MIRAS and Dolphin Twin_ into research index .
-* Expanded repo _Transition Grammar for Reasoning Systems_ and added into research index.
-* Created tagged releases for repos -> _Reconstruction-Oriented Storage_, _Voice Mode Alignment Forensics_, _Self-Descriptive Fixed-Point Instability: A Cross-Architecture Study of Recursive Engagement Collapse_
- 
+* Added new repo - _Hyperloop FXSO_ - under Systems Architecture & State Control
+  
 > If you're new, start with **"Start Here"** above.
 
 ---
