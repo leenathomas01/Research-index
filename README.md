@@ -101,7 +101,9 @@ Core control structures for maintaining stability under constraint.
   → depends on Layer 0 (Transition Grammar) for trajectory grounding
 
 * **🟢 🏷️ [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)** 
+
   Structural patterns for catastrophic-state systems
+
   → asymmetric transitions, sacrificial architecture, forensic memory
 
 * **🟢⚫ [Hyperloop → FXSO](https://github.com/leenathomas01/hyperloop-fxso)**  
