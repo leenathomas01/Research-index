@@ -189,7 +189,7 @@ Where constraints become physical.
     Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
 ---
 
-# Reasoning & State Transition Control
+# Reasoning & Transition Foundations
 
 * **🟢⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
 
@@ -199,10 +199,11 @@ Where constraints become physical.
 
   → Layer 0: ensures state remains causally writable before higher-level constraints
 
+  → foundational to system coherence (precondition for SBA)
+
   → prevents hallucinated closure via stable non-resolution (TSOL / SRE)
 
-  → Layer 0 beneath Stability Before Alignment (SBA)
----
+  ---
 
 # Communication & Coordination
 
