@@ -90,16 +90,6 @@ Core architectures that define the system.
 
 Core control structures for maintaining stability under constraint.
 
-* **🟢 🏷️ [Connector OS](https://github.com/leenathomas01/connector-os)** 
-
-  Control-theoretic architecture for regulated human–AI systems  
-
-  → layered control stack (sensors → control logic → actuators → co-thought)  
-
-  → treats models as pluggable components within a closed-loop system  
-
-  → instantiates stability (SBA) and transition control (TG) in deployment
-
 * **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
   Structural and dynamic constraints for coherence in self-modifying systems
@@ -125,6 +115,16 @@ Core control structures for maintaining stability under constraint.
   → no explicit training, evaluation, or reward
 
   → bridges transition dynamics (TG) with stability constraints (SBA)
+
+* **🟢 🏷️ [Connector OS](https://github.com/leenathomas01/connector-os)** 
+
+  Control-theoretic architecture for regulated human–AI systems  
+
+  → layered control stack (sensors → control logic → actuators → co-thought)  
+
+  → treats models as pluggable components within a closed-loop system  
+
+  → instantiates stability (SBA) and transition control (TG) in deployment
 
 ---
 
