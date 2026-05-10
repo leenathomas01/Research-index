@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated May 03, 2026*
+*Updated May 10, 2026, Sunday*
 
 ---
 
@@ -92,13 +92,15 @@ Core control structures for maintaining stability under constraint.
 
 * **🟢 🏷️ [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
-  Structural and dynamic constraints for coherence in self-modifying systems
+  Structural governance architecture for coherence in adaptive and self-modifying systems
 
-  → defines Layer 1–3 invariants (AEC, ESI, CRL) over a trajectory-grounded system
+  → defines Layer 1–3 invariants (AEC, DAC, ESI, CRL) over a trajectory-grounded system
 
-  → ensures systems remain stable under modification before alignment is applied
+  → introduces authority lifecycle governance: contraction, recovery hysteresis, viability classification, and bounded observability
 
-  → depends on Layer 0 (Transition Grammar) for trajectory grounding
+  → treats authority as leased and telemetry-governed rather than permanently owned
+
+  → depends on Layer 0 (Transition Grammar / TGI) for trajectory grounding and causal writability
 
 * **🟢 🏷️ [Designing for Failure](https://github.com/leenathomas01/designing-for-failure)** 
 
@@ -157,11 +159,22 @@ How systems remain controllable under asymmetry.
 
 ---
 
-# Memory, Persistence & Continuity
+# Memory, Persistence & Continuity Dynamics
 
 State retention, deletion, and recursion under scale.
 
 * **🟢 🏷️ [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — irreversible semantic memory
+* **🟢⚫ [Spectral Storage System (SSS)](https://github.com/leenathomas01/Spectral-Storage-Systems)**
+
+  Attractor-based spectral memory and separability dynamics
+
+  → identities stored as distributed interference patterns rather than address lookup
+
+  → distinguishes reachability (γ) from validity (H_E + correctness)
+
+  → models graceful degradation, basin dynamics, and recovery via attractor geometry
+
+  → explores structural vs dynamic failure as orthogonal axes
 * **🟢 🏷️ [The Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem)** — governance before persistence
 * **🟢 🏷️ [SDFI - Self-Descriptive Fixed-Point Instability](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
 * **🟢 🏷️ [Voice Mode Alignment Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
@@ -275,6 +288,8 @@ If you use them:
 ## Recent Updates (for returning readers)
 
 * Added new repo - _Hyperloop FXSO_ - under Systems Architecture & State Control
+* Added v2.1 authority lifecycle layer to _Stability Before Alignment_
+* Added repo _Spectral Storage System (SSS)_ under Memory, Persistence & Continuity
   
 > If you're new, start with **"Start Here"** above.
 
