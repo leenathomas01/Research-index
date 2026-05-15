@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated May 10, 2026, Sunday*
+*Updated May 15, 2026, Friday*
 
 ---
 
@@ -206,7 +206,7 @@ Where constraints become physical.
 
 # Reasoning & Transition Foundations
 
-* **🟢⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
+* **🟢⚫🟦 [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
 
   Reasoning as state transitions with operator-based routing and Δ validation
 
@@ -290,6 +290,7 @@ If you use them:
 * Added new repo - _Hyperloop FXSO_ - under Systems Architecture & State Control
 * Added v2.1 authority lifecycle layer to _Stability Before Alignment_
 * Added repo _Spectral Storage System (SSS)_ under Memory, Persistence & Continuity
+* Updating repo _Transition Grammar for Reasoning Systems_ to add Phase 3 — Empirical Telemetry (new)
   
 > If you're new, start with **"Start Here"** above.
 
