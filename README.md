@@ -206,17 +206,26 @@ Where constraints become physical.
 
 # Reasoning & Transition Foundations
 
-* **🟢⚫🟦 [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**  
+* **🟢⚫ [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**
 
-  Reasoning as state transitions with operator-based routing and Δ validation
+  Runtime semantic trajectory telemetry for reasoning systems
 
   → transition is a first-class object (detect → select → validate → commit)
 
-  → Layer 0: ensures state remains causally writable before higher-level constraints
+  → models reasoning failures as measurable geometric regimes in semantic space
+  (STALL / SINKHOLE / FOG / ZEE-MESS)
 
-  → foundational to system coherence (precondition for SBA)
+  → validates semantic displacement (m) and footing/coherence (ρ) as runtime telemetry primitives
 
-  → prevents hallucinated closure via stable non-resolution (TSOL / SRE)
+  → Layer 0 beneath SBA: ensures trajectories remain causally writable before higher-level governance constraints apply
+
+  → separates trajectory telemetry (TG) from ecosystem governance (SBA)
+
+  → supports stable non-resolution and anti-hallucination stabilization
+  (TSOL / SRE)
+
+  → Phase 3 introduces empirical telemetry harnesses, trajectory plots, and semantic regime analysis
+
 
   ---
 
@@ -290,7 +299,7 @@ If you use them:
 * Added new repo - _Hyperloop FXSO_ - under Systems Architecture & State Control
 * Added v2.1 authority lifecycle layer to _Stability Before Alignment_
 * Added repo _Spectral Storage System (SSS)_ under Memory, Persistence & Continuity
-* Updating repo _Transition Grammar for Reasoning Systems_ to add Phase 3 — Empirical Telemetry (new)
+* Updated repo _Transition Grammar for Reasoning Systems_ to add Phase 3 — Empirical Telemetry (new) 
   
 > If you're new, start with **"Start Here"** above.
 
