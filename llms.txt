@@ -1,28 +1,50 @@
 # Stability under Constraint: Architectural Reasoning Index
 > Author: Leena Thomas (Zee)
-> Focus: Systems architecture, AI governance, and physical infrastructure stability.
+> Focus: Continuous geometry, field-coupled state overlap, non-von Neumann cognitive computing, and structural governance under pressure.
+> Intent: MIT-Licensed open thought artifacts, runtime telemetry frameworks, and runnable intuition probes.
 
-## Orientation
-This repository collection forms a constellation of architectural reasoning artifacts exploring stability under constraint across AI systems, governance structures, and physical infrastructure.
+## Core System Architecture Stack
+A 5-layer alternative machine intelligence blueprint prioritizing constrained physics over brute-force optimization matrices.
 
-## Core Philosophy
-This body of work explores how complex systems (intelligent, physical, or governed) maintain structural integrity when primary assumptions fail. It prioritizes "Stability Before Alignment" and treats failure as a first-class architectural constraint.
+### Layer 4: Closed-Loop Execution Interface
+* **Connector OS:** Control-theoretic human-AI coordination stack. Instantiates Layer 0 and Layer 3 into live production environments. Treats models as pluggable components.
 
-## Primary Frameworks
-- Connector OS: Control-theoretic coordination for AI under bandwidth/human-state constraints.
-- Designing for Failure: Five structural patterns for catastrophic-state systems (Asymmetric transitions, Sacrificial architecture, etc.).
-- Stability Before Alignment: Primitives for self-modifying systems; structural coherence as a prerequisite for safety.
+### Layer 3: Telemetry-Governed Safety & Restraint
+* **Stability Before Alignment (SBA):** Establishes absolute system invariants (AEC, DAC, ESI, CRL). Treats authority as a leased asset. Uses contraction and recovery hysteresis loops to strip system power automatically under unmapped semantic pressure.
+* **Power Asymmetry Restraint Protocol (PARP):** Restraint dynamics for highly asymmetric operational spaces.
+* **Designing for Failure:** Sacrificial architectures and asymmetric transitions for catastrophic-state systems.
 
-## Key Research Nodes
-- Embodied Agent Governance: Five-layer execution oversight for robotics.
-- The Continuity Problem: Governance requirements for persistent semantic memory.
-- The Consult Model: Read-only clinical reasoning architecture for healthcare AI.
-- GII Protocol: Inverter-based grid stability and "inertia" in data centers.
+### Layer 2: Attractor-Based Holographic Memory
+* **Spectral Storage System (SSS):** Distributed interference pattern storage. Replaces discrete address lookup with basin dynamics. Orthogonalizes reachability (\(\gamma\)) and validity (\(H_E\)) for graceful degradation.
+* **SMA-SIB:** Irreversible semantic memory crystallization allowing lossy reconstruction over raw similarity tracking.
+* **SDFI:** Self-Descriptive Fixed-Point Instability analysis tracking recursive engagement collapse under extreme semantic density.
 
-## Methodology
-- Phase-Aligned Inquiry: Role-separated, falsifiable research protocol.
-- Conceptual Seeds: Extraction of single structural principles (e.g., The 70% Fidelity Principle).
+### Layer 1: Field-Coupled Interaction Dynamics
+* **Hyperloop → FXSO:** Derived from Hyperloop Transformers (MIT, 2026). Emergent coordination via continuous field-coupled trajectory overlaps. Eliminates discrete message-passing, explicit training, or reward tracking. 
+* **Runnable Intuition:** `python fxso_toy.py` maps phase transitions across Drift, Structured-Fragment Coherence, and Collapse regimes.
 
-## Navigation
-Full Repository: https://github.com/leenathomas01?tab=repositories
-Detailed Index: https://github.com/leenathomas01/research-index/blob/main/README.md
+### Layer 0: Grounding & Trajectory Telemetry
+* **Transition Grammar for Reasoning Systems:** Runtime semantic trajectory tracking. Treats transition as a first-class object (detect → select → validate → commit). Maps cognitive failures as measurable geometric regimes (STALL, SINE) in semantic space.
+
+---
+
+## Cross-Domain Probes (Physical Constraints)
+* **Zero Water AI Data Center:** Thermodynamic loop design for closed-loop computing environments.
+* **GII Protocol:** Inverter-based grid stability. Prioritizes infrastructure inertia over raw energy production capacity.
+* **Embodied Agent Governance:** Five-layer execution oversight applied directly to physical robotics.
+
+## Methodological Seeds & Low-Overhead Primitives
+* **Human-AI Collaborative Loop:** Human anchors semantic constraints and cross-domain synthesis; AI executes rapid iteration, expansion, and code exploration.
+* **The 70% Fidelity Principle:** Lossy reconstruction utilized as an intentional system stability stabilizer.
+* **Keyword Compression:** High-entropy anchors enabling precise reconstruction from sparse tokens.
+* **Cockroach Testing:** Continuous adversarial chaos injection for structural survivability validation.
+
+---
+
+## Contextual Anchors & Telemetry Logs
+* **Primary Documentation Spines:** Found in `/01_foundations/` to `/03_framework/` paths across individual repos.
+* **Active Ideation Traces:** Logged dynamically within open `/blob/main/RawThoughts.md` manifests.
+
+## Navigation Core
+* **Full Corpus Repository Mapping:** https://github.com/leenathomas01?tab=repositories
+* **Comprehensive Relational Research Index:** https://github.com/leenathomas01/research-index/blob/main/README.md
