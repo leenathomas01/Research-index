@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated May 15, 2026, Friday*
+*Updated May 20, 2026, Friday*
 
 ---
 
@@ -322,6 +322,8 @@ Medium: https://medium.com/@leenathomas01
 _Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain "frozen snapshots" of a nine-month research sprint that began in August 2025._ 
 
 _To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist._ 
+
+_This 9-month sprint produced 30 odd repos as "side quests" in co-creation with AI._
 
 _Consider these repos as sparks for kindling your own._
 
