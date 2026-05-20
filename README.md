@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated May 20, 2026, Friday*
+*Updated May 20, 2026*
 
 ---
 
