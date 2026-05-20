@@ -314,3 +314,17 @@ LinkedIn: https://www.linkedin.com/in/leena-t-4895a315b/
 Medium: https://medium.com/@leenathomas01
 
 > Updates may be retrospective.
+
+---
+
+## Note — May 2026: 
+
+_Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain "frozen snapshots" of a nine-month research sprint that began in August 2025._ 
+
+_To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist._ 
+
+_Consider these repos as sparks for kindling your own._
+
+_So long._
+
+---
