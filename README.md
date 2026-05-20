@@ -317,16 +317,10 @@ Medium: https://medium.com/@leenathomas01
 
 ---
 
-## Note — May 2026: 
-
-_Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain "frozen snapshots" of a nine-month research sprint that began in August 2025._ 
-
-_To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist._ 
-
-_This 9-month sprint produced 30 odd repos as "side quests" in co-creation with AI._
-
-_Consider these repos as sparks for kindling your own._
-
-_So long._
-
+> ### 📓 Note — May 2026
+> Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain **"frozen snapshots"** of a nine-month research sprint that began in August 2025. 
+> 
+> To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist. Consider these repos as sparks for kindling your own. 
+> 
+> **So long.**
 ---
