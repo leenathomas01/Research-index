@@ -17,6 +17,34 @@ the constraint remains the same:
 
 ---
 
+## Foundational Observation
+
+Many modern systems are no longer failing because they lack capability.
+
+They fail because execution, adaptation, and governance operate on different timescales.
+
+This body of work increasingly converges on a common pattern:
+
+- t₁ = Human / institutional timescales
+- t₂ = Machine / execution timescales
+- t₃ = Stabilization and rate-matching layers
+
+As systems become more continuous, autonomous, and interconnected, stability becomes a problem of temporal coordination as much as capability.
+
+Several repositories in this index can be understood as exploring different aspects of that mismatch:
+
+→ **[Temporal Continuity in AI Systems (timing model)](https://github.com/leenathomas01/Temporal-Continuity-in-AI-Systems)**
+
+→ Transition Grammar (trajectory telemetry)
+
+→ Trajectory Intelligence (trajectory navigation)
+
+→ Stability Before Alignment (trajectory governance)
+
+→ Ecological Drift Telemetry (ecosystem stability)
+
+---
+
 ## Start Here
 
 If you're new, choose a path:
