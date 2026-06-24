@@ -1,6 +1,6 @@
 # Research Index
 
-*Updated May 20, 2026*
+*Updated June 24, 2026*
 
 ---
 
@@ -129,6 +129,33 @@ Core control structures for maintaining stability under constraint.
   → treats models as pluggable components within a closed-loop system  
 
   → instantiates stability (SBA) and transition control (TG) in deployment
+
+---
+# Trajectory & Ecological Intelligence
+
+* **🟢⚫ [Trajectory Intelligence](https://github.com/leenathomas01/trajectory-intelligence)**
+
+Navigation and control in high-density latent manifolds.
+
+→ shifts modeling from state classification to trajectory navigation
+
+→ introduces world-lines, reachability cones, recovery gradients, and intervention vectors
+
+→ treats future reachability as the primary object of computation
+
+→ provides the navigation layer that complements TG telemetry and SBA governance
+
+* **🟢⚫ [Ecological Drift Telemetry](https://github.com/leenathomas01/ecological-drift-telemetry)
+
+Relational observability for multi-agent ecosystems.
+
+→ instability may appear first between agents rather than within them
+
+→ introduces ecological drift as a measurable phenomenon
+
+→ extends SBA from individual coherence to ecosystem coherence
+
+→ operationalizes interaction-space telemetry inspired by TG and FXSO
 
 ---
 
@@ -317,10 +344,3 @@ Medium: https://medium.com/@leenathomas01
 
 ---
 
-> ### 📓 Note — May 2026
-> Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain **"frozen snapshots"** of a nine-month research sprint that began in August 2025. 
-> 
-> To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist. Consider these repos as sparks for kindling your own. 
-> 
-> **So long.**
----
