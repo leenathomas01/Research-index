@@ -173,7 +173,7 @@ Navigation and control in high-density latent manifolds.
 
 → provides the navigation layer that complements TG telemetry and SBA governance
 
-* **🟢⚫ [Ecological Drift Telemetry](https://github.com/leenathomas01/ecological-drift-telemetry)
+* **🟢⚫ [Ecological Drift Telemetry](https://github.com/leenathomas01/ecological-drift-telemetry)**
 
 Relational observability for multi-agent ecosystems.
 
@@ -214,7 +214,7 @@ How systems remain controllable under asymmetry.
 
 ---
 
-# Memory, Persistence & Continuity Dynamics
+# Memory, Persistence, Reconstruction, & Continuity Dynamics
 
 State retention, deletion, and recursion under scale.
 
@@ -234,6 +234,19 @@ State retention, deletion, and recursion under scale.
 * **🟢 🏷️ [SDFI - Self-Descriptive Fixed-Point Instability](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
 * **🟢 🏷️ [Voice Mode Alignment Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
 * **🟢 🏷️ [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)** — reliability via reconstruction
+* **🟢⚫ [Reconstructive Shape Memory (RSM)](https://github.com/leenathomas01/Reconstructive-Shape-Memory)**
+
+    (Concept Note) - Non-linguistic memory architecture based on semantic state persistence.
+    
+    → stores shapes rather than transcripts
+    
+    → reconstructs language dynamically at recall
+    
+    → deterministic deletion by construction
+    
+    → explores continuity through semantic topology rather than text retention
+    
+    → extends earlier memory explorations into a simplified memory substrate
 
 ---
 
@@ -299,6 +312,22 @@ Where interpretation itself becomes unstable.
 
 * **🟢 🏷️ [Cognitive Terrain and Interface Blindspots](https://github.com/leenathomas01/Cognitive-Terrain-and-Interface-Blindspots)**
   Modeling pre-decision and unresolved cognitive states
+
+---
+
+# Engineering Translation Layers
+
+* **🟢⚫ [The Missing Layer](https://github.com/leenathomas01/the-missing-layer)**
+
+  Exploration of the abstraction gap between intent and implementation.
+  
+  → investigates machine-comprehensible requirement representations
+  
+  → explores assumption-centric review and semantic traceability
+  
+  → asks whether AI exposed a longstanding software engineering gap
+  
+  → focuses on preserving intent under accelerating code generation
 
 ---
 
