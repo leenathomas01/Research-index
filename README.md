@@ -51,23 +51,23 @@ If you're new, choose a path:
 
 * **Conceptual Foundations (how reasoning and stability are structured)**
 
-  → [Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)
+  → **[Transition Grammar for Reasoning Systems](https://github.com/leenathomas01/Transition-Grammar-for-Reasoning-Systems)**
 
-  → [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)
+  → **[Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment)**
 
 * **System Architecture (how these ideas are instantiated in real systems)**
 
-  → [Connector OS](https://github.com/leenathomas01/connector-os)  
+  → **[Connector OS](https://github.com/leenathomas01/connector-os)**  
 
  * **Emergent Systems (how patterns form under constraint)**
 
-   → [Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso) 
+   → **[Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso)** 
 
 * **Quick Entry (low-overhead concepts):**
 
-  → [The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)
+  → **[The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)**
 
-  → [Keyword Compression](https://github.com/leenathomas01/keyword-compression)
+  → **[Keyword Compression](https://github.com/leenathomas01/keyword-compression)**
 
 
 This is not a linear body of work.
@@ -234,9 +234,9 @@ State retention, deletion, and recursion under scale.
 * **🟢 🏷️ [SDFI - Self-Descriptive Fixed-Point Instability](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability-A-Cross-Architecture-Study-of-Recursive-Engagement-Collapse)** — recursive instability under semantic density
 * **🟢 🏷️ [Voice Mode Alignment Forensics](https://github.com/leenathomas01/voice-mode-forensics)** — multimodal alignment failure
 * **🟢 🏷️ [Reconstruction-Oriented Storage](https://github.com/leenathomas01/Reconstruction-Oriented-Storage)** — reliability via reconstruction
-* **🟢⚫ [Reconstructive Shape Memory (RSM)](https://github.com/leenathomas01/Reconstructive-Shape-Memory)**
+* **🟢⚫🟦 [Reconstructive Shape Memory (RSM)](https://github.com/leenathomas01/Reconstructive-Shape-Memory)**
 
-    (Concept Note) - Non-linguistic memory architecture based on semantic state persistence.
+    (Ongoing Uploads based on my downtime) - Non-linguistic memory architecture based on semantic state persistence.
     
     → stores shapes rather than transcripts
     
@@ -269,7 +269,7 @@ Where constraints become physical.
 * **🟢🏷️ [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance)** — real-world execution oversight
 * **🟡 [GII Protocol (paused)](https://github.com/leenathomas01/gii-protocol)** — inertia for grid systems
  
-    Released the concept article here: [The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)
+    Released the concept article here: **[The Grid Doesn't Need More Energy. It Needs More Inertia.](https://medium.com/@leenathomas01/the-grid-doesnt-need-more-energy-it-needs-more-inertia-633c77992552)**
 ---
 
 # Reasoning & Transition Foundations
@@ -344,10 +344,23 @@ How this work is produced and validated.
 
 Exploratory ideas. Not yet stabilized.
 
-* **⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
-* **⚫ [SCP (Semantic Constraint Protocol)](https://github.com/leenathomas01/SCP)**
+* **🟢⚫ [Portable Intelligence Primitives](https://github.com/leenathomas01/portable-intelligence-primitives)**
+* **🟢⚫ [SCP (Semantic Constraint Protocol)](https://github.com/leenathomas01/SCP)**
 * **🟢 [The Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)**
-* **⚫ [TITANS, MIRAS and Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)** — surprise-gated memory (exploratory)
+* **🟢⚫ [TITANS, MIRAS and Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)** — surprise-gated memory (exploratory)
+* **🟢⚫ [Translation Discovery & the Cognitive Internet](https://github.com/leenathomas01/Translation-Discovery-and-the-Cognitive-Internet)**
+
+  Explores how learned structure survives transfer across heterogeneous systems.
+  
+  → introduces Translation Discovery as a reusable correspondence between representations
+  
+  → investigates inheritance structures, reconstruction grammars, and predictive constraints
+  
+  → asks what should be transmitted: artifacts, capabilities, grammars, or constraints
+  
+  → explores interoperability as an alternative scaling path for collective intelligence
+  
+  → examines intelligence as preservation and translation, not only accumulation
 
 > Mechanisms proposed. Not deployed.
 
@@ -381,9 +394,15 @@ If you use them:
 ## Recent Updates (for returning readers)
 
 * Added new repo - _Hyperloop FXSO_ - under Systems Architecture & State Control
-* Added v2.1 authority lifecycle layer to _Stability Before Alignment_
-* Added repo _Spectral Storage System (SSS)_ under Memory, Persistence & Continuity
-* Updated repo _Transition Grammar for Reasoning Systems_ to add Phase 3 — Empirical Telemetry (new) 
+* Added v2.1 authority lifecycle layer to _Stability Before Alignment_ repo
+* Added new repo -  _Spectral Storage System (SSS)_ under Memory, Persistence & Continuity
+* Updated repo - _Transition Grammar for Reasoning Systems_ to add Phase 3 — Empirical Telemetry (new)
+* Added new repo - _Trajectory Intelligence_ under Trajectory & Ecological Intelligence
+* Added new repo - _Ecological Drift Telemetry_ under Trajectory & Ecological Intelligence
+* Added new repo - _Temporal Continuity in AI Systems_ (timing model) under Foundational Observation
+* Added new repo - _Translation Discovery & the Cognitive Internet_ under concept notes
+* Added new repo - _The Missing Layer_ under Engineering Translation Layers
+* Added new repo - _Reconstructive Shape Memory (RSM)_ under Memory, Persistence, Reconstruction, & Continuity Dynamics
   
 > If you're new, start with **"Start Here"** above.
 
@@ -391,11 +410,11 @@ If you use them:
 
 ## Navigation
 
-GitHub: https://github.com/leenathomas01
+GitHub: **https://github.com/leenathomas01**
 
-LinkedIn: https://www.linkedin.com/in/leena-t-4895a315b/
+LinkedIn: **https://www.linkedin.com/in/leena-t-4895a315b/**
 
-Medium: https://medium.com/@leenathomas01
+Medium: **https://medium.com/@leenathomas01**
 
 > Updates may be retrospective.
 
